@@ -1,0 +1,5347 @@
+[{
+ "name": "University of Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Libre de Bruxelles",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ghent University",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "KU Leuven",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Solvay (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Road Transport Telematics Implementation Co-Ordination",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "University of Namur",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Multitel",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Flemish Institute for Technological Research",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Association of European Renewable Energy Research Centres",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Von Karman Institute for Fluid Dynamics",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Universit\u00e9 Catholique de Louvain",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Promotion of Operational Links With Integrated Services",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "University of Mons",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal Belgian Institute for Space Aeronomy",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Vrije Universiteit Brussel",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Belgian Nuclear Research Centre",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Vlaams Instituut voor Biotechnologie",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Tropical Medicine Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hasselt University",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Imec",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Military Academy",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "de Duve Institute",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "European Committee for Standardization",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Belgian Institute of Natural Sciences",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Union des Industries Ferroviaires Europ\u00e9ennes",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for European Policy Studies",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Walloon Agricultural Research Centre",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Numerical Mechanics Applications International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European University Association",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cliniques Universitaires Saint-Luc",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire de Saint-Pierre",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "iMinds",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University College Odisee",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Applica Sprl",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Commission",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nokia (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gembloux Agro-Bio Tech",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ghent University Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universitair Ziekenhuis Leuven",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universitair Ziekenhuis Brussel",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire Brugmann",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire de Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire de Tivoli",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Antwerp University Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "CHU Dinant Godinne UCL Namur",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Erasmus Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Queen Fabiola Children's University Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University College Ghent",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "H\u00f4pital Civil de Charleroi",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital de Jolimont",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre hospitalier r\u00e9gional de la Citadelle",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Belgian Health Care Knowledge Centre",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Imelda Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jessa Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saint John's Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Queen Astrid Military Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rega Institute for Medical Research",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ziekenhuisnetwerk Antwerpen Stuivenberg",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Onze Lieve Vrouwziekenhuis Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "ZNA Middelheim Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre hospitalier Etterbeek-Ixelles",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut Jules Bordet",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut Scientifique de Sant\u00e9 Publique",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituut voor Landbouw en Visserijonderzoek",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "European Organisation for Research and Treatment of Cancer",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Leuven Institute for Fertility and Embryology",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institut National de Criminalistique et de Criminologie",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Janssen (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre Hospitalier R\u00e9gional de Huy",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Groeninge",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Klina",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Maria Middelares",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Sint-Jan",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Sint-Lucas",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Sint-Blasius",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bayer (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fujirebio (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "UCB Pharma (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3E (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre Belge d'Etude de la Corrosion",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre d'Enseignement et de Recherches des Industries Alimentaires et Chimiques",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre d\u2019Economie rurale",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Confederation of National Associations of Tanners and Dressers of the European Community",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Confederation of European Forest Owners",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Chemical Industry Council",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Network of Science Centres and Museums",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Centre d'Excellence en Technologies de l'Information et de la Communication",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Acide Carbonique Pur (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cenaero (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association Vin\u00e7otte Nuclear",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Veterinary and Agrochemical Research Centre",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Belgian Ceramic Research Centre",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Belgian Road Research Centre",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AeroSpace and Defence Industries Association of Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sirris",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AGE Platform Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ATiT (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "impulse.brussels",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Agfa-Gevaert (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agilent Technologies (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CropDesign (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avia-GIS (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centexbel",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre Technique de l'Industrie du Bois",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Continua Health Alliance",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Brussels Intercommunal Transport Company",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Custodix (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cybernetics Technology (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ON Semiconductor (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Barco (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Conseil Economique et social de la Region de Bruxelles Capitale",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bekaert (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alstom (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Management Institute",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Belgian Building Research Institute",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Belgonucleaire (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Belgoprocess (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CISSOID (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Coatings Research Institute",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ArcelorMittal (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Community of European Shipyards Associations",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arcadia International",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arctik",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ASCO Industries (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Devan Chemicals (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aquaplus (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Diagenode (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dienst voor Wetenschappelijke en Technische Informatie",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Elia (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "D2S International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elyros (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EASN Technology Innovation Services BVBA",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Federal Planning Bureau",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fund for Scientific Research",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bureau van Dijk (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forem",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Capgemini (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Greenovate! Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Forum of European National Highway Research Laboratories",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "CECIMO (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health Information Management",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hexagon (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eurocontrol",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eurocities",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Trade Union Confederation",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eurogentec (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EuroHealthNet",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Royal Meteorological Institute of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut Scientifique de Service Public",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Europe Unlimited (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Apparel and Textile Confederation",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Aquaculture Society",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hydrogen Fuel Cells and Electro-Mobility in European Regions",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Association of Craft, Small and Medium-Sized Enterprises",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Biomass Industry Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Business and Innovation Centre Network",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Council for Maritime Applied R&D Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Emergency Number Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Food Information Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Food Information Resource",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Forum for Good Clinical Practice",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Health Telematics Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Intermodal Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sea Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Network of Living Labs",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Organisation for Security",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Photovoltaic Industry Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Plastics Converters",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Renewable Energy Council",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Small Hydropower Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Smart Card Industry Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Union Road Federation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Virtual Institute on Knowledge-based Multifunctional Materials",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "WindEurope",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eurosense (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GlaxoSmithKline (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Belgian Federal Science Policy Office",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "HOPE European Hospital and Healthcare Federation",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federation of European Aquaculture Producers",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "IHE Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "IBM (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Life Sciences Institute Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Solvay Institutes",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "INTRASOFT International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ion Beam Applications (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siemens (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Road Transport Union",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nanocyl (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NANOfutures (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nanotechnology Industries Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Luxilon (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nationale Instelling voor Radioactief Aval en verijkte Splijtstoffen",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Meise Botanic Garden",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Philips (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Magwel (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mastercard (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Materialise (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NATO Science and Technology Organization",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Procter & Gamble (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ProDigest (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KitoZyme (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal Observatory of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Royal Museums of Art and History",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Prospex (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "METALogic (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Minerva Consulting and Communication",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Public Safety Communication Europe Forum",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Q-Biologicals (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Engie (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture Nature and Food Quality",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministerie van de Vlaamse Gemeenschap",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Service Public de Wallonie",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Raffinerie Tirlemontoise (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microsoft (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mobiel 21",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Museum for Central Africa",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "STMicroelectronics (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stratec (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Strategic Design Scenarios",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "StratiCELL (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rhea (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nutrition Sciences (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NXP (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Septentrio (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Service Public F\u00e9d\u00e9ral Int\u00e9rieur",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Service Public F\u00e9d\u00e9ral Technologie de l'Information et de la Communication",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "OnderzoeksCentrum voor de Aanwending van Staal",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Omniform (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Signosis",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Soci\u00e9t\u00e9s Anonyme Belge de Constructions A\u00e9ronautiques (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Organic Waste Systems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Technical Support for European Organisations",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Safran (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Total (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Toyota Motor Corporation (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tractebel Engineering (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Packed (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TransFurans Chemicals (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Transport & Mobility Leuven (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Triphase (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sonaca (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Service Public F\u00e9d\u00e9ral \u00c9conomie",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Soltech (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Space Applications Services (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Association for the Promotion of Cogeneration",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Spacebel (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SpaceTec Partners",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Xenics (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Umicore (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Youris.com (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thomas More Kempen",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Association of Public Transport",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flanders Marine Institute",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vlerick Business School",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ATLAS Neuroengineering (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ActoGeniX (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Breast International Group",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Life Sciences Research Partners",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Network for Cancer Treatment and Research",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Cancer Prevention",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "GZA Ziekenhuizen Campus Sint-Augustinus",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "M\u00e9decins du Monde",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aalterpaint (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ali\u00e9norEU",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arise",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Avecom (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ACIC (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advanced Coatings (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Borit (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Androme (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Automobile Manufacturers Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Association des Operateurs Postaux Publics Europeens",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Steel Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Association of Automotive Suppliers",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Federal Agency for Nuclear Control",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Puratos (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Proximus (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Association for Battery Hybrid and Fuel Cell Electric Vehicles",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Biomass Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Parkinsons Disease Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Antea Group (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Belsim (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Federal Agency for Food Chain Safety",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Belgian Institute of Management Accountants & Controllers",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bruegel",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agoria (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BeTV (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Expertise in the Treatment and Management of Water",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bio Base Europe",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "PSI Group (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Standing Committee of European Doctors",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "CRM Group (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre of Technological Resources in Chemistry",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre Hospitalier Chr\u00e9tien",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Concawe",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Celabor",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Confederation of Organisations in Road Transport Enforcement",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Conseil Europ\u00e9en de l'Industrie des Peintures des Encres d'Imprimerie et des Couleurs d'Art",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Coris BioConcept (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Association for Forwarding, Transport, Logistics and Customs Services",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "De Neef Chemical Processing (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CNH Industrial (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Coexpair (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dekimo (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CrossLang (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Delta Extinguishers (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "College of Europe",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Deltatec (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dow Chemical (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Energy System Analysis and Planning",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Europlasma (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Euroscreen (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Duferco (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DH Consultancy BVBA (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Federal Department of Justice",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European & International Federation of Natural Stone Industries",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Federation of European Publishers",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Federation of Nurses Associations",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Diabetes Federation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federation of European Motorcyclists Associations",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Federation of the European Sporting Goods Industry",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "DVC (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Husqvarna (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "F\u00e9d\u00e9ration G\u00e9n\u00e9rale du Travail de Belgique",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eonic Systems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eppendorf (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "E2S (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Digipolis (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Digital Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flanders Color (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flanders Make (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flying-Cam (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eni (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DNAVision (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universit\u00e9 Saint-Louis",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "e-Forum",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research Foundation - Flanders",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Falex Tribology (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Underground Research Infrastructure for Disposal of nuclear waste in a Clay Environment",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Forest-based Sector Technology Platform",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Geographic Information Management (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EUnited (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Euro Heat Pipes (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EuroGeoSurveys",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "EuropaBio",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Europace",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Global Alliance of Mental Illness Advocacy Networks-Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Aquaculture Technology and Innovation Platform",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "GlobalSign (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SAFE consortium",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Association of Development Agencies",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Business Register",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Centre for Knowledge and Technology Transfer",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Community Shipowners' Associations",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "CEI-Bois",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Convention for Constructional Steelwork",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Council for Construction Research, Development and Innovation",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Disability Forum",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Distribution System Operators for Smart Grids",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Welding Federation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Federation of Allergy and Airways Diseases Patients Associations",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Directorate-General for Energy",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Elsyca (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Genetic Alliances Network",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Geothermal Energy Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Health Management Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Heat Pump Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Institute for Advanced Studies in Management",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "European Membrane House",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Passengers' Federation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Society for Therapeutic Radiology and Oncology",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Solar Thermal Electricity Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European State Forest Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Trade Union Institute",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eurogas",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Henkel (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Higher Education Institution Lucia de Brouckere",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Albemarle (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Babbage Institute for Knowledge and Information Technologies",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "GS1 Belgium & Luxembourg",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Inagro (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health Level Seven International",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut de Conseil et d'\u00c9tudes en D\u00e9veloppement Durable",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Haesevoets (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infrabel (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Huntsman (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hydrogenics (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "I-Moss (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Marine and Dredging Consultants",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Bureau for Environmental Studies",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "InnovaWood",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Icometrix (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Institute for Nature and Forest",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut Belge pour la S\u00e9curit\u00e9 Routi\u00e8re",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Intesa Sanpaolo (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fluvius (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IFAPME",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ionic Software (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IPCOS (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interface Europe (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IS practice",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ISC Intelligence in Science",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Martech International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Islenet",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Materia Nova",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Leuven Security Excellence Consortium",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Logit Systems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Virtual Laboratory for Enterprise Interoperability",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "LVD (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of the Brussels-Capital Region",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nuance Communications (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3D Systems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Orange (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NewOpera",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Noesis Solutions (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Neoceram (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Micromega Dynamics (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oracle (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Social Observatory",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Schumacher Orgelbau (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Otoconsult (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Population and Social Policy Consultants",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pour la Solidarit\u00e9",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Perseus (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pharos International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PhenoSystems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dynastee",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Promotie Binnenvaart Vlaanderen",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "PBLH International Consulting",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Picanol (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Psutec (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association of European Science and Technology Transfer Professionals",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "PlasticsEurope",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "RSscan International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Renson (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Precical (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Polis",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Squaris",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sequoyah (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Service Public Federal Finances",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Technopolis",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Synergetics (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Brain Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Committee of Environmental Technology Suppliers Associations",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "TomTom (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WPP (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Desso (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TP Vision (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FLIR Systems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trans European Policy Studies Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Trasys International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thales (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Turbowinds (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "UCO Raymond Denim (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Business Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Flemish Public Employment Service",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "International Union of Radioecology",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eurelectric",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Unisys (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AstenJohnson (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wetlands Incubator (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Visual Dimension (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WaterstofNet (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "De Lijn (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Descartes (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mariaziekenhuis",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Brixiis Astronomical Observatory",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hogeschool PXL",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Danaher (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boston University Brussels",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Advanced Practical Diagnostics (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alfa Products and Technologies (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plastics Recyclers Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Exmar (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Architects Council of Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Research Institute of Catalysis",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Global Ocean Observing System",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European CanCer Organisation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Cooperation in Science and Technology",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "FoodDrinkEurope",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Perrigo (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Zinc Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Material (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sioen Industries (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University Colleges Leuven-Limburg",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "United Nations University Institute on Comparative Regional Integration Studies",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Rode Kruis-Vlaanderen",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Biomedical Informatics Research Center Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Pathology and Genetics",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "M\u00e9decins Sans Fronti\u00e8res",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Research Council",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "North Atlantic Treaty Organization",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Partnership for Advanced Computing in Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flemish Government",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Union",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Stichting tegen Kanker",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Belgian American Educational Foundation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Clean Sky",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vlaamse Liga tegen Kanker",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Belgian Development Agency",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Foundation for Alcohol Research",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Artesis Plantijn Hogeschool Antwerpen",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole de Bruxelles",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ECAM Institut Sup\u00e9rieur Industriel",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fuel Cells and Hydrogen",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Innovative Medicines Initiative",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ZF Friedrichshafen (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LivaNova (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association of Schools of Public Health in the European Region",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Damiaan Dicht bij het leven",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Europe Hospitals",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Biblioth\u00e8que Royale de Belgique",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "St John Berchmans University College",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gibson Innovations (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ablynx (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Evangelical Theological Faculty",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Syngenta (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Erasmus University College Brussels",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University College West Flanders",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Orpheus Institute",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Infor Jeunes Bruxelles",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut pour Un Developpement Durable",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Polar Foundation",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Neuroelectronics Research Flanders",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Antwerp Maritime Academy",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University College of Bruges\u2013Ostend",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "LUCA School of Arts",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karel de Grote University College",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Katholieke Hogeschool Vives",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Artevelde University College Ghent",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Brussels Management School",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Albert Jacquard",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Charlemagne",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole en Hainaut",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Robert Schuman",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole de la Province de Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Acad\u00e9mie des Beaux-Arts de Tournai",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Acad\u00e9mie Royale des Beaux-Arts",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Acad\u00e9mie Royale des Beaux-arts de Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal Conservatory of Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Superior School of Circus Arts",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole de Recherche Graphique",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "La Cambre",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des Arts de l'Image Le 75",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des Arts Saint-Luc de Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut des Arts de Diffusion",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National Sup\u00e9rieur des Arts du Spectacle et des Techniques de Diffusion",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur de Musique et de P\u00e9dagogie",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arts\u00b2",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole de la Province de Namur",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole de la Ville de Li\u00e8ge",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Pratique des Hautes \u00c9tudes Commerciales",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Francisco Ferrer",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Galil\u00e9e",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole L\u00e9onard de Vinci",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Libre de Bruxelles Ilya Prigogine",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Libre Mosane",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole Louvain en Hainaut",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole provinciale de Hainaut Condorcet",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haute \u00c9cole de Namur-Li\u00e8ge-Luxembourg",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European Parliament",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Society of Human Reproduction and Embryology",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Union of Medical Specialists",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Royal Conservatory of Brussels",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agfa HealthCare",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "FPS Foreign Affairs, Foreign Trade and Development Cooperation",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Economic and Financial Affairs",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Interpretation",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Maritime Affairs and Fisheries",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Taxation and Customs Union",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Neighbourhood and Enlargement Negotiations",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Trade",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "EEA and Norway Grants",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Leefmilieu Brussel",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "French Community of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agentschap voor Natuur en Bos",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Innoviris",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Community Research and Development Information Service",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Observatory on Health Systems and Policies",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European External Action Service",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Brussels School of International Studies",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vlaamse Interuniversitaire Raad",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Association Belge Contre les Maladies Neuro-Musculaires",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ziekenhuis Oost-Limburg",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Crowdfunding Network",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Regions Research and Innovation Network",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research in Advanced Medical Informatics and Telematics",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Brussels Office of Helmholtz Association",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cypress Semiconductor Corporation (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wikimedia Belgium",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Carolus Magnus University",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European Conference for AeroSpace Sciences",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fondation Travail-Universit\u00e9",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Centre Saint-Ignatius Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flanders Hydraulics Research",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ASM International (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ACR+",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Gov2u",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Network for Smoking and Tobacco Prevention",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Water Supply and Sanitation Technology Platform",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tenneco (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Foundation Centre",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "HealthforAnimals",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Planned Parenthood Federation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Parliamentary Forum on Population & Development",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "World Savings and Retail Banking Institute",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Belgian Society of Medical Oncology",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Besins Healthcare (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biogen (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AZ Turnhout",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Argenx (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Allergan (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ASIT Biotech (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flanders Innovation and Entrepreneurship",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bone Therapeutics",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Celyad (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bristol-Myers Squibb (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cipla (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mithra Pharmaceuticals (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fluidda (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Galapagos (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ImCyse (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SMB (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MSD (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roche (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ogeda (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novadip (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Promethera Biosciences (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novartis (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pfizer (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Takeda (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sanofi (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Therabel (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zambon (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AZ Sint-Lucas",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinic of Hope",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinique Saint Pierre",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinique Saint-Joseph",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cliniques du Sud Luxembourg",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AZ Delta",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Amis de l'Institut Bordet",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Belgian Brain Tumor Support",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Directorate-General for Health and Food Safety",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for International Cooperation and Development",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Justice and Consumers",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fondation Marie et Alain Philippson",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fondation Rose et Jean Hoguet",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Scientific Working group on Influenza",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Network on Debt and Development",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "EurActiv (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oxfam Solidarit\u00e9",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "PharmaTrain Federation",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vredeseilanden",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Univercells (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fondation Charcot",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Society for Peritoneal Dialysis",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Asahi Glass (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electrolux (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plastic Omnium (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oostrotex (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TE Connectivity (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biodiversity Information Standards",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Association of Sedimentologists",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Peacebuilding Liaison Office",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Koning Boudewijnstichting",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Stichting Euregio Maas-Rijn",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Atlas Copco (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Federal Mogul (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Heraeus (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Drug Development Institute (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interuniversity Institute for High Energies",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "European Platform of Women Scientists",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Society for Military Law and the Law of War",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Directorate-General for Education, Youth, Sport and Culture",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate-General for Research and Innovation",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Society of Biomechanics",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Wiener - Anspach Foundation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Government of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cosmetics Europe",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Copper Institute",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Federation of Pharmaceutical Industries and Associations",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Flanders' Food (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fondation Francqui",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "JECS Trust",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Union of Radio Science",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Bank of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Statistics Belgium",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Queen Elisabeth Medical Foundation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Strategic Initiative Materials in Flanders",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wallonie-Bruxelles International",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Walloon Government",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ludwig Cancer Research",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research Institute for Chromatography",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Abbott (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hartcentrum Hasselt",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "The European Academy of Gynaecological Surgery",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Barry Callebaut (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MSD Europe (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal Belgian Society for Surgery",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Terumo (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Baxter (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novasep (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oxurion (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prayon (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre Hospitalier Interr\u00e9gional Edith Cavell",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rijksinstituut voor Ziekte- en Invaliditeitsverzekering",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Directorate-General Joint Research Centre",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Joint Research Center",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Belgian Hematological Society",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Belgian Society for Pneumology",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Belgian Society for Pediatric Gastroenterology Hepatology and Nutrition",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Association Nationale d\u2019Aide aux personnes Handicap\u00e9es",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Association Pharmaceutique Belge",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Dairy Association",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Pathway Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Society of Anaesthesiology",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Society of Intensive Care Medicine",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Society for Diseases of the Esophagus",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Revalidatieziekenhuis RevArte",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hart voor Research Aalst",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Intermutualist Agency",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Grand Charleroi Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Epicura",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinique Saint Jean",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Defence Agency",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Belgian Burn Foundation",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Foundation for Cardiac Surgery",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Alpro Foundation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Network of European Foundations",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fetal Medicine Foundation Belgium",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Foundation Van Goethem-Brichant",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Anticancer Fund",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vlaams Agentschap Zorg en Gezondheid",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Boston Scientific (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kellogg\u2019s (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Landsbond der Christelijke Mutualiteiten (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Physiol (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Departement Cultuur, Jeugd en Media",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tricolast (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Loterie Nationale",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vlaamse Vereniging voor Obstetrie en Gynaecolo",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vlaamse Taekwondo Bond",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "GC Europe (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Council",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Organ Recovery Systems (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oystershell (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Remedent (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CHU Ambroise Par\u00e9",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nestl\u00e9 (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SGS (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alma",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Inter-University Association of Society, Science and Technology",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Conseil Interuniversitaire de la Communaut\u00e9 Fran\u00e7aise de Belgique",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institut Interuniversitaire pour les Relations entre l'Europe l'Am\u00e9rique Latine et les Cara\u00efbes",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "League of European Research Universities",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Network of the Universities from the Capitals of Europe",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 du Travail Paul Pastur",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agence Universitaire de la Francophonie",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Research Institute of Organic Agriculture",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Radioelements",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Buildings Performance Institute Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Organisation of European Cancer Institutes",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "EGMONT \u2013 The Royal Institute for International Relations",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Conference of Transport Research Institutes",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut D\u2019Eco-P\u00e9dagogie",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Network of Building Research Institutes",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Belgian Welding Institute",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut Eco-Conseil",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "L\u2019Institut Wallon de l\u2019\u00c9valuation, de la Prospective et de la Statistique",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for European Environmental Policy",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute Society and Technology",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Prospex Institute",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Metamorphose VI AISBL",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Virtual Institute of Nano Films",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flemish Organization for Immovable Heritage",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vlaams Instituut Gezond Leven",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Agence pour l\u2019Entreprise & l\u2019Innovation",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Belga",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bruxelles-Propret\u00e9",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "French Community Commission",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Churches\u2019 Commission for Migrants in Europe",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "The International Commission for Driver Testing",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Board of Innovation (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Council of European Aerospace Societies",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ceemet",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Plasticisers",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Public Service Employment, Labour and Social Dialogue",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Association of Research Managers and Administrators",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Biodiesel Board",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Federation of Agencies and Regions for Energy and Environment",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Shippers' Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flanders Environment Agency",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Council on Refugees and Exiles",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Resuscitation Council",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Transport Safety Council",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Utilities Telecom Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Writers' Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Council of Marine Industry Associations",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministerium der Deutschsprachigen Gemeinschaft",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Flemish Community",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Public Waste Agency of Flanders",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Conference Board",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Mentoring Coaching Council",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agence wallonne \u00e0 l'Exportation et aux Investissements \u00e9trangers",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate General for Communications Networks, Content and Technology",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Transnational University Limburg",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Anheuser-Busch InBev (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wabco (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ineos (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vesuvius (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amgen (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal Institute for Cultural Heritage",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Heart Network",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cargill (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Coil Coating Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Energy Research Alliance",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Beta Cell Therapy in Diabetes",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Crisis Group",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vlakwa",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Intermunicipal Water Company of Veurne-Craft (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alamire Foundation",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Royal Zoological Society of Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for Fine Arts",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for Historical Research and Documentation on War and Contemporary Society",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre Hospitalier de Mouscron",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Museum Dr Guislain",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "European Centre for Ecotoxicology and Toxicology of Chemicals",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Communication Research and Education Association",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Society for Paediatric Oncology",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Foundation for European Progressive Studies",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "In Flanders Fields Museum",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "H\u00f4pitaux Iris Sud",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Theoretical Spectroscopy Facility",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Royal Museum of Mariemont",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "De Tijd",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Association for the Defence of Human Rights",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flemish Radio and Television Broadcasting Organisation",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "The German Marshall Fund of the United States",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Binche Mus\u00e9e International du Carnaval et du Masque",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "International Press Center",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Airports Council International Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Remanufacturing Council",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mophradat",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Le Beau Vallon - Psychiatric Hospital",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre for International Law Research and Policy",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Biocartis (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flemish Parliament",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Synopsys (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Emweb (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sciensano (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Service Volontaire International",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Common Community Commission",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lhoist (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Consortium of European Taxonomic Facilities",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flemish Advisory Council for Innovation & Enterprise",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Volition (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Iridium Kankernetwerk",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Melexis (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "State Archives of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Drylock Technologies (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University Foundation",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kemin (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Walloon Excellence in Lifesciences and Biotechnology",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Museums of Fine Arts of Belgium",
+ "country": "Belgium",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "European Regional and Local Health Authorities",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Provincial Institute for Hygiene",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Antwerp Management School",
+ "country": "Belgium",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Domus Medica",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre Hospitalier de Wallonie Picarde",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier R\u00e9gional de Namur",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "GoodPlanet Belgium",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CHR Verviers",
+ "country": "Belgium",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Flanders Institute for Logistics",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vlaams Pati\u00ebntenplatform",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Missing Children Europe",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Flemish Institute for Archives",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "HistoGeneX (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nyxoah (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Magnetic Field Laboratory",
+ "country": "Belgium",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Port of Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Province of Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "City of Antwerp",
+ "country": "Belgium",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Startups.be",
+ "country": "Belgium",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gouverneur Kinsbergencentrum",
+ "country": "Belgium",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Catalent (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zoetis (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3B the Fiberglass (Belgium)",
+ "country": "Belgium",
+ "types": [
+  "Company"
+ ]
+}]

@@ -1,0 +1,2801 @@
+[{
+ "name": "National Taiwan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Applied Research Laboratories",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Central University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Tsing Hua University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Health Research Institutes",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Cheng Kung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chang Gung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asian University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "China Medical University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fu Jen Catholic University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Chiao Tung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Chung Hsing University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Defense Medical Center",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Dong Hwa University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan Ocean University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Yang Ming University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tamkang University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tunghai University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tri-Service General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taipei Veterans General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taichung Veterans General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Garage Brain Science",
+ "country": "Taiwan",
+ "types": []
+},{
+ "name": "National Synchrotron Radiation Research Center",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan Forestry Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Taipei City Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tainan Municipal Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fountain Biopharma (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Central Police University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central Taiwan University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kun Shan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chang Jung Christian University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chaoyang University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cheng Shiu University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Feng Chia University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chia Nan University of Pharmacy and Science",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fooyin University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hungkuang University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "I-Shou University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "China Medical University Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chinese Culture University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chung Hwa University of Medical Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chung Shan Medical University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chung Shan Medical University Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chung Yuan Christian University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chung Hua University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ming Chuan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tzu Chi University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kaohsiung Medical University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kaohsiung Medical University Chung-Ho Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Sun Yat-sen University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Changhua University of Education",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Cheng Kung University Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Chengchi University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Chi Nan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Chiayi University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Chung Cheng University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Formosa University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Hsinchu University of Education",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Ilan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Kaohsiung First University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Kaohsiung Marine University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Kaohsiung Normal University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Kaohsiung University of Applied Sciences",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Pingtung University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taipei University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taitung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan Normal University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan Sport University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan University Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National United University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Kaohsiung",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Tainan",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Yunlin University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taipei University of Nursing and Health Science",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tatung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Providence University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shih Chien University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Southern Taiwan University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taipei Medical University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taipei Medical University Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tajen University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taipei Medical University-Shuang Ho Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yuan Ze University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yuanpei University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cardinal Tien Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cathay General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mackay Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hualien Armed Forces General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taipei City Government",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chang Gung Children's Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chang Gung Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaohsiung Chang Gung Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Changhua Christian Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cheng Ching Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cheng Hsin General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chi Mei Medical Center",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chia-Yi Christian Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taoyuan Armed Forces General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ching Kuo Institute of Management and Health",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chu Shang Show Chwan Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "En Chu Kong Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "E-Da Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Buddhist Tzu Chi General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Far Eastern Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaohsiung Municipal Kai-Syuan Psychiatric Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jen-Ai Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaohsiung Armed Forces General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaohsiung Municipal Hsiao-Kang Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaohsiung Municipal Ta-Tung Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaohsiung Veterans General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pingtung Christian Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mennonite Christian Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kuang Tien General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kuo General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Min Sheng General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shin Kong WHS Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sin-Lau Christian Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Luodong Poh-Ai Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tri-Service General Hospital Songshan Branch",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taichung Armed Forces General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chung Hsiao Municipal Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taipei Municipal Jen-Ai Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taipei Municipal Women and Children's Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taipei Municipal YangMing Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taiwan Adventist Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tao Yuan General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wan Fang Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tungs' Taichung MetroHarbor Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yuli Veterans Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yuan's General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zuoying Armed Forces General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Center for Disease Control",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Food Industry Research and Development Institute",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Industrial Technology Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Development Center for Biotechnology",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Chang Gung University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tzu Chi Foundation",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "China University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Republic of China Naval Academy",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Animal Technology Institute Taiwan",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Atomic Energy Council",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Koo Foundation Sun Yat-Sen Cancer Center",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Meiho University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Research Institute of Chinese Medicine",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Taichung University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Taipei",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tzu Chi College of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Statistical Science, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Efficient Pharma Management (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chung Shan Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chienkuo Technology University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kao Yuan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ming Chi University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Minghsin University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Defense University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Penghu University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dayeh University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "MingDao University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nanhua University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "WuFeng University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hsuan Chuang University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fo Guang University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chien Hsin University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Kaohsiung University of Hospitality and Tourism",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Open University of Kaohsiung",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shu-Te University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Open University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Pingtung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taichung University of Education",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan University of Sport",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Far East University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "CTBC Business School",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tainan National University of the Arts",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tainan University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aletheia University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chihlee Institute of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Huafan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taipei University of Education",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taiwan University of Arts",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shih Hsin University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Soochow University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taipei National University of the Arts",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tungnan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kainan University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lunghwa University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vanung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hsiuping University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chung Chou University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hwa Hsia University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nan Jeon University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nan Kai University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Quemoy University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taipei University of Business",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. John's University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jinwen University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ta Hwa University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Toko University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taipei City University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taiwan Comprehensive University System",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taiwan Hospitality and Tourism University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taiwan Shoufu University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Takming University of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "TransWorld University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yu Da University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wenzao Ursuline University of Languages",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Animal Health Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chest Hospital, Ministry of Health and Welfare",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bali Psychiatric Center",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "China Medical University Beigang Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taiwan Livestock Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mackay Medical College",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Min-Hwei College of Health Care Management",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Landseed Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Oriental Institute of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Museum of Natural Science",
+ "country": "Taiwan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Pingtung Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pojen General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Martin de Porres Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chang Bing Show Chwan Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Simpson Biotech Company (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Taichung Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Museum of Marine Biology and Aquarium",
+ "country": "Taiwan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Tzu Hui Institute of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Economic Affairs",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Council of Agriculture",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Chung Shan Institute of Science and Technology",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chiang Ching-kuo Foundation",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cardiac Children's Foundation Taiwan",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Chunghwa Telecom (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Taiwan Semiconductor Manufacturing Company (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University System of Taiwan",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Keelung Chang Gung Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taoyuan Chang Gung Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Linkou Chang Gung Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chiayi Chang Gung Memorial Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Chin-Yi University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health and Welfare",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Health",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Asia-Pacific Society for Computers in Education",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "An-Nan Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hsing Wu University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Intel (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Kang Ning",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kang-Ning Junior College of Medical Care and Management",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ling Tung University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Overseas Chinese University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saint Mary's Hospital Luodong",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ten Chen Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "De Lin Institute of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Center for High-Performance Computing",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "R.O.C Military Academy",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tung Fang Design Institute",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hualien Tzu Chi Medical Center",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "China Steel (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Center for Research on Earthquake Engineering",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Avisonic (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Epistar (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foxnum Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grape King (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hiwin Technologies (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MediaTek (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Taiwan Food and Drug Administration",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Transportation and Communications",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Air Navigation and Weather Services",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "World Vegetable Center",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Center for Theoretical Sciences",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "China University of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cardinal Tien College of Healthcare and Management",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hsin Sheng College of Medical Care and Management",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Tainan Institute of Nursing",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Taipei University",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tainan Theological College and Seminary",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Yang Ming University Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Service Science Society of Taiwan",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Taiwan Kansei Information Association",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Universal Trim Supply (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acer (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foxconn (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advanced Semiconductor Engineering (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lite-On Technology Corporation (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HTC (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Macronix International (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foxlink (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chi Mei Communication Systems (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chunghwa Picture Tubes (Taiwan )",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Information Industry",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asus (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inventec (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qisda (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Delta Electronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nanya Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HannStar Display (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novatek Microelectronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Himax (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siliconware Precision Industries (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Richtek Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PixArt (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Formosa Plastics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Primax Electronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Quanta Computer (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Realtek (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Winbond (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wistron (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "United Microelectronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wikimedia Taiwan",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ashima (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Japan Aviation Electronics Industry (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fortune Institute of Technology",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Apex Tool Group (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Central Geological Survey, MOEA",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eaton (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sony (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stanley Black & Decker (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Robert Bosch (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stem Cell Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jianan Mental Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Paochien Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Delta Electronics Foundation",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Environmental Protection Administration",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Asia Vital Components (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AU Optronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Compal Electronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "InnoLux (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ProMOS Technologies (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sunonwealth Electric Machine Industry (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wonderland Nurserygoods (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wintek (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kinik (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Space Organization",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southern Taiwan Science Park",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Taipei Tzu Chi Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "E Ink (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ON Semiconductor (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Astronomy and Astrophysics, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Biomedical Sciences, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Physics, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Atomic and Molecular Sciences, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Center for Applied Science, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Taiwan Textile Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Taiwan Agricultural Research Institute Council of Agriculture, Executive Yuan",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agricultural Technology Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Footwear & Recreation Technology Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Taiwan Craft Research and Development Institute",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Biotechnology and Medicine Industry",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Labor, Occupational Safety And Health, Ministry of Labor",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan Agricultural Chemicals and Toxic Substances Research Institute",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Nuclear Energy Research",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Chemistry, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fisheries Agency",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan Clinical Oncology Research Foundation",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Power (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bureau of Energy",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Maywufa (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vectorite Biomedical (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Changhua County Public Health Bureau",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan College of Healthcare Executive",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kaohsiung Breast Cancer Promotion and Education Society",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Association of Gynecologic Oncologists",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Taiwan Lung Cancer Society",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Nurses Association",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Society of Cardiology",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Society of Thrombosis and Hemostasis",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Yin Huo Health Association",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Taiwanese Osteoporosis Association",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Chang Hua Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tri-Service General Hospital Beitou Branch",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Evergreen General Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taipei Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yuli Hospital",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Eisai (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taipei Fubon Bank Philanthropy Foundation",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Allergan (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shanxi Industrial Equipment Installation Group (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advantech (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pegatron (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Phison (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tatung (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cheng Shin Rubber (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zhen Ding Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Micro-Star International (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Body Organ Biomedical (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bova (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SHL Group (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Central Library",
+ "country": "Taiwan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Metal Industries Research & Development Centre",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Science and Technology Center for Disaster Reduction",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chung-Hwa Institute of Buddhist Studies",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chai Found Music Workshop",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dharma Drum Institute of Liberal Arts",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fo Guang Shan",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Foundation for International Cooperation In Higher Education of Taiwan",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Judicial Yuan",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Finance",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Museum of History",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taichung City Government",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan Design Center",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Taiwan Futures Exchange (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Taiwan Miaoli District Court",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan Public Television Service Foundation",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Shilin District Prosecutors Office",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Youth Development Administration",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chinese Soil and Water Conservation Society",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Mathematics, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Earth Sciences, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Information Science, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Center for Environmental Changes, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Center for Information Technology Innovation, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Plant and Microbial Biology, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Cellular and Organismic Biology, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Biological Chemistry, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Molecular Biology, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Agricultural Biotechnology Research Center, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Genomics Research Center, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Biodiversity Research Center, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of History and Philology, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Ethnology, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Modern History, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Economics, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of European and American Studies, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Chinese Literature and Philosophy, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Taiwan History, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Sociology, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Linguistics, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Political Science, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institutum Iurisprudentiae, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Center for Humanities and Social Sciences, Academia Sinica",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Elixiron Immunotherapeutics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Musoon Women's Clinic",
+ "country": "Taiwan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mackay Junior College of Medicine, Nursing and Management",
+ "country": "Taiwan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Apex (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "China Petrochemical Development Corporation (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vanguard International Semiconductor (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Powerchip (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Raydium Semiconductor (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Faraday Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Silicon Motion (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ELAN Microelectronics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sitronix Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Global Unichip (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Powertech Technology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sino-American Silicon Products (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GenMont Biotech (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health & Life (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Golden Biotech (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biomedical Translation Research Center",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Lumtec (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Focaltech Systems (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ScinoPharm Taiwan (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Somnics (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TaiGen Biotechnology (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TCI (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Yung Shin Pharmaceutical Industrial (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Taiwan Electrical and Electronic Manufacturers\u2019 Association",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "China Productivity Center",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Taiwan Geographic Information Center",
+ "country": "Taiwan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Industrial Development Bureau",
+ "country": "Taiwan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Taiwan External Trade Development Council",
+ "country": "Taiwan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Taiwan Semiconductor Industry Association",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Biotechnology and Pharmaceutical Industries Promotion Office",
+ "country": "Taiwan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "MSSCORPS (Taiwan)",
+ "country": "Taiwan",
+ "types": [
+  "Company"
+ ]
+}]

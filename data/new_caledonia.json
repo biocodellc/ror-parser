@@ -1,0 +1,37 @@
+[{
+ "name": "Secretariat of the Pacific Community",
+ "country": "New Caledonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut Pasteur de Nouvelle Cal\u00e9donie",
+ "country": "New Caledonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of New Caledonia",
+ "country": "New Caledonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Hospitalier Territorial de Nouvelle-Cal\u00e9donie",
+ "country": "New Caledonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut de Recherche pour le D\u00e9veloppement",
+ "country": "New Caledonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gouvernement de la Nouvelle-Cal\u00e9donie",
+ "country": "New Caledonia",
+ "types": [
+  "Government"
+ ]
+}]

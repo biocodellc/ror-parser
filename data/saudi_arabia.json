@@ -1,0 +1,739 @@
+[{
+ "name": "King Abdullah University of Science and Technology",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Saud University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alfaisal University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jazan University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Imam Abdulrahman Bin Faisal University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Abdulaziz University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Abdul Aziz University Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahd Hospital of the University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahd University of Petroleum and Minerals",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Faisal University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Khalid University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Saud bin Abdulaziz University for Health Sciences",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qassim University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Umm al-Qura University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taibah University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taif University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dammam Central Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Al Amal Hospital Jeddah",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Armed Forces Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dhahran Health Center",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Asir Central Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hera General Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Abdulaziz Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Abdulaziz Medical City",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahd Armed Forces Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahad Central Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahd Medical City",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahad Specialist Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahad Hospital Huf\u016bf",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahad Hospital Jeddah",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Fahd Military Medical Complex",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saudi Aramco Medical Services Organization",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Faisal Specialist Hospital & Research Centre",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Khaled Eye Specialist Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Khaled Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Qatif Central Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Security Forces Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Riyadh Armed Forces Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Saud Medical City",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Soliman Fakeeh Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "North West Armed Forces Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Maternity and Children's Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Guard Health Affairs",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saudi Center for Organ Transplantation",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eye Center",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Al-Ghad International Health Sciences Colleges",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bugshan Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Prince Mohammed bin Abdulaziz Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Al Jouf University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Imam Muhammad ibn Saud Islamic University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Najran University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tabuk",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yanbu University College",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Hail",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Business and Technology",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dar Al-Hekma University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Effat University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Open University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prince Sultan University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Riyadh Elm University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamic University of Madinah",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Baha University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Yamamah University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fahd bin Sultan University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dar Al Uloom University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Majmaah University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prince Mohammad bin Fahd University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Princess Nourah bint Abdulrahman University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Northern Border University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prince Sattam Bin Abdulaziz University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saudi Electronic University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shaqra University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Abdulaziz City for Science and Technology",
+ "country": "Saudi Arabia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "King Abdullah International Medical Research Center",
+ "country": "Saudi Arabia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Supreme Commission for Tourism and Antiquities",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Saudi Aramco (Saudi Arabia)",
+ "country": "Saudi Arabia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "King Khalid University Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sulaiman Al Rajhi Colleges",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jeddah University",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saad Specialist Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ibn Sina National College for Medical Studies",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jubail Industrial College",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Farabi College",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Buraydah Colleges",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saudi Commission for Health Specialties",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Shura Council",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Saudi Arabia Basic Industries (Saudi Arabia)",
+ "country": "Saudi Arabia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Organization for Social Insurance",
+ "country": "Saudi Arabia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Royal Commission for Jubail and Yanbu",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Islamic Development Bank",
+ "country": "Saudi Arabia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Saudi Chemical Society",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Saudi Heart Association",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Saudi Ophthalmological Society",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Saudi Pharmaceutical Society",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Saudi Society of Dermatology and Dermatologic Surgery",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u200b\u200bJubail University College",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Naif Arab University for Security Sciences",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saudi Center for Theoretical Physics",
+ "country": "Saudi Arabia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "King Faisal Foundation",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Saline Water Conversion Corporation",
+ "country": "Saudi Arabia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aljazeera Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Imam Abdulrahman Al Faisal Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Magrabi Hospitals and Centers",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saud Al-babtain Cardiac Centre",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Procare Riaya Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Northern Area Armed Forces Hospital",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saudi Digital Library",
+ "country": "Saudi Arabia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "University of Bisha",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Hafr Al-Batin",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jeddah Institute for Speech and Hearing",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "King Abdullah Medical City",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Abdullah Petroleum Studies and Research Center",
+ "country": "Saudi Arabia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Prince Mohammad Bin Salman College of Business and Entrepreneurship",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Faisal Center for Research and Islamic Studies",
+ "country": "Saudi Arabia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "King Abdulaziz Foundation For Research And Archives",
+ "country": "Saudi Arabia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "King Fahd Security College",
+ "country": "Saudi Arabia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saudi Heritage Preservation Society",
+ "country": "Saudi Arabia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Saudi Arabian Monetary Authority",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Saudi Center for Disease Prevention and Control",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Royal Commission Medical Center",
+ "country": "Saudi Arabia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Organisation of Islamic Cooperation",
+ "country": "Saudi Arabia",
+ "types": [
+  "Government"
+ ]
+}]

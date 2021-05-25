@@ -1,0 +1,457 @@
+[{
+ "name": "Central University of Venezuela",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Andes",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Universitario de Maracaibo",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Cl\u00ednico Universitario de Caracas",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Zulia",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Oriente",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental Francisco de Miranda",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sim\u00f3n Bol\u00edvar University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Centroccidental Lisandro Alvarado",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Carabobo",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital San Juan de Dios",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Vargas",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Militar Dr. Carlos Arvelo",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Venezolano de Investigaciones Cient\u00edficas",
+ "country": "Venezuela",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro M\u00e9dico Docente La Trinidad",
+ "country": "Venezuela",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto de Estudios Avanzados",
+ "country": "Venezuela",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto M\u00e9dico La Floresta",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Petroleum of Venezuela (Venezuela)",
+ "country": "Venezuela",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Libertador Experimental Pedagogical University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental de Guayana",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental Sim\u00f3n Rodr\u00edguez",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nororiental Privada Gran Mariscal de Ayacucho",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental Polit\u00e9cnica \"Antonio Jos\u00e9 de Sucre\"",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Yacamb\u00fa",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental Rafael Mar\u00eda Baralt",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Ferm\u00edn Toro",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Nacional de Administraci\u00f3n y Hacienda P\u00fablica-Instituto Universitario de Tecnolog\u00eda",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Alejandro de Humboldt",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bolivarian University of Venezuela",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Andr\u00e9s Bello Catholic University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica Santa Rosa",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Jos\u00e9 Mar\u00eda Vargas",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Metropolitan University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Monte\u00e1vila",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Abierta",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental de las Artes",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nueva Esparta",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Santa Mar\u00eda",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Margarita",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Center Technological University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Rafael Belloso Chac\u00edn",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rafael Urdaneta University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica del T\u00e1chira",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental del T\u00e1chira",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental del Yaracuy",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Bicentenaria de Aragua",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental de los Llanos Centrales R\u00f3mulo Gallegos",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental Sur del Lago Jes\u00fas Mar\u00eda Sempr\u00fan",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arturo Michelena University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Jos\u00e9 Antonio P\u00e1ez",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Valle del Momboy",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Experimental Mar\u00edtima del Caribe",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Experimental Security University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Experimental University of the Armed Forces",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Ind\u00edgena de Venezuela",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Venezuelan Adventist University",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fondo Nacional de Ciencia Tecnolog\u00eda e Innovaci\u00f3n",
+ "country": "Venezuela",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Advanced Studies in Administration",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Nacional de Cooperaci\u00f3n Educativa Socialista",
+ "country": "Venezuela",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Instituto Nacional de Investigaciones Agricolas",
+ "country": "Venezuela",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tenaris (Venezuela)",
+ "country": "Venezuela",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica Cecilio Acosta",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Dr. Jos\u00e9 Gregorio Hern\u00e1ndez",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central Bank of Venezuela",
+ "country": "Venezuela",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Provita",
+ "country": "Venezuela",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wikimedia Venezuela",
+ "country": "Venezuela",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Universitario de Profesiones Gerenciales",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministerio del Poder Popular para la Educaci\u00f3n Universitaria, Ciencia y Tecnolog\u00eda",
+ "country": "Venezuela",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Policlinica Metropolitana",
+ "country": "Venezuela",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Seguros Caracas Liberty Mutual (Venezuela)",
+ "country": "Venezuela",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Escuela Campo Alegre",
+ "country": "Venezuela",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Programa Venezolano de Educaci\u00f3n Acci\u00f3n en Derechos Humanos",
+ "country": "Venezuela",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Academia Nacional de Medicina Venezuela",
+ "country": "Venezuela",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Incubadora Venezolana de la Ciencia",
+ "country": "Venezuela",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Colecci\u00f3n Ornitol\u00f3gica Phelps",
+ "country": "Venezuela",
+ "types": [
+  "Archive"
+ ]
+}]

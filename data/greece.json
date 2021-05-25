@@ -1,0 +1,2857 @@
+[{
+ "name": "University Mental Health Research Institute",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Technical University of Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Piraeus",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Public Power Corporation (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aristotle University of Thessaloniki",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Foundation for Research and Technology Hellas",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National and Kapodistrian University of Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Accelerating Systems and Applications",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Centre of Scientific Research Demokritos",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Technical University of Crete",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Aegean",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Crete",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Observatory of Athens",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Greek Research and Technology Network",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Ioannina",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Macedonia",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agricultural University of Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Patras",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Democritus University of Thrace",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Panteion University",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Harokopio University",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Athens University of Economics and Business",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Research Academic Computer Technology Institute",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Athena Research and Innovation Center In Information Communication & Knowledge Technologies",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Hellenic Research Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Agricultural Research Foundation",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Exodus (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Peloponnese",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hellenic Open University",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pouliadis Associates Corporation",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Municipality of Amaroussion",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sidenor (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Western Macedonia",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Athens Technology Center (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intracom Telecom (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Centre for Marine Research",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Athens Information Technology",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute Of Geology And Mineral Exploration",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University Of Thessaly",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AHEPA University Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital of Larissa",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University General Hospital Attikon",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Laiko General Hospital of Athens",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital of Ioannina",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General University Hospital of Patras",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Athens Eye Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital of Heraklion",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital of Alexandroupolis",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hellenic Airforce General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "401 General Military Hospital of Athens",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "424 General Military Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Simanogleio-Amalia Fleming General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Andreas Sygros Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Children's Hospital Agia Sophia",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agia Olga Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agios Andreas Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Alexandra Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hygeia Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aretaeio Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General-Maternity District Hospital Helena Venizelou",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hellenic Red Cross",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "General Hospital of Athens G. Genimatas",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Athens Naval & Veterans Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Henry Dunant Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hippocration General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Eginition Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "The General Hospital of Heraklion \"Venizeleio-Pananio\"",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Evangelismos Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Eugenides Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Child Health",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Interbalkan Medical Center",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital Pediatric Karamandanio",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Attica",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Polyclinic General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Ioannina G. Hatzikosta",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "G. Papanikolaou General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Metaxa Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Nikea",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Metropolitan Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Rhodes",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Serres",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Veria General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National School of Public Health",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sismanoglio General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sotiria General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "NIMTS Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Savas Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Venereal and Skin Diseases Thessaloniki",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Red Cross Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Luke's Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Theageneio General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Western Attica General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Papageorgiou General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Penteli General Children's Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Panagiotis & Aglaia Kyriakou Children's Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tzaneion General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Academy of Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alfa Institute of Biomedical Sciences",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Biomedical Research Foundation of the Academy of Athens",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Benaki Phytopathological Institute",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hellenic Center for Disease Control & Prevention",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pasteur Hellenic Institute",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "LaserVision",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mediterranean Agronomic Institute of Chania",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Onassis Cardiac Surgery Center",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Technological Educational Institute of Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hellenic Mediterranean University",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Center for Renewable Energy Sources and Saving",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Center for Research and Technology Thessaly",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Public Order and Citizen Protection",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Association of Information Technology Companies of Northern Greece",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Athens International Airport",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for Research and Technology Hellas",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cosmote (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Technological Research of Crete",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ATEbank (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "iKnowHow (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ALFA PI (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Algosystems (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ceramics and Refractories Technological Development Company (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chimar Hellas (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ANALYSIS System Research High-Tech (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "e-Trikala (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CINAR (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alexander Fleming Biomedical Sciences Research Center",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Archetypon",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Archimedia (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dimitra",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Foundation for European and Foreign Policy",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ellinogermaniki Agogi",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dimos Athinaion Epicheirisi Michanografisis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gov2u",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Greek Atomic Energy Commission",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Environmental Protection Engineering (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Epsilon International (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Epsilon Net (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foundation of the Hellenic World",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Aerospace Industry (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Petroleum (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "New Hellenic Radio, Internet and Television",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "LafargeHolcim (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Health Foundation",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Digital Governance",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hellenic Ministry of Culture and Sports",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hellenic Register of Shipping",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Forthnet (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Telecommunications Organization (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Ministry of Rural Development and Food",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Euroconsultants (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IDEC",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Language and Speech Processing",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Engineering Seismology and Earthquake Engineering",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Inasco (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Larco (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Education and Religious Affairs",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Exergia, Energy, Management and Information Technology",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Mechanics of Materials and Geostructures",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innora",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bayer (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Q PLAN International (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "INTRASOFT International (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Paragon (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Scientific and Technological Research in Aeronautics and Mechanical Engineering",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Marac (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Centre for Social research",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "SingularLogic (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Piraeus Port Authority",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hellenic Statistical Authority",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Prisma Electronics (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "South East European Research Centre",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Advanced Management Solutions (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Materials Industrial Research and Technology Development Centre (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miltech Hellas (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PyroGenesis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lambrakis Research Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of National Defence",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Satways (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Region of Western Greece",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Synelixis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Systema Transport Planning & Engineering Consultants",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Imerys (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Technological Educational Institute of Piraeus",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Titan Cement (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Telecommunication Systems Research Institute",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Teletel (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Space Hellas (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stamatopoulos and Associates (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thessaloniki Port Authority",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Zenon (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zeus Consulting (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vodafone (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Syndesis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Velti (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cognitive Systems Research Institute",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Greek Association of Alzheimer's Disease and Related Disorders",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ormylia Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Thorax Foundation",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "01 Pliroforiki (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aratos Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Athens Chamber of Commerce and Industry",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Athens Medical Center",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Regional Health Administration of Thessaly",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Atlantis Research Organization",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "On Telecoms (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Argo (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Academy of Entrepreneurship",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Alpha Marine (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avitronics Research (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Altec Software (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acutech (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advent Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advanced Microwave Systems (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vidavo (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AEROTRON Research",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Benaki Museum",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Apintech (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agilis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elite Bread Industry (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BPM (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Danaos (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center for Security Studies",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre for Planning and Economic Research",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cosmetic (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center for Economic Research and Environmental Strategy",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Clothing Textile & Fibre Technology Development (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Datamed Systems Integration (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Creative Systems Engineering (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gizelis Robotics (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dotsoft (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Europliroforissi",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyberce (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Federation of Enterprises",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federation of Greek Mariculture",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federation of Industries of Northern Greece",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Union of Agricultural Cooperatives of Peza",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mistras Group (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novocaptis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ergo (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ergon Consulting Group (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Earthquake Planning and Protection Organization",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ericsson (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Etma (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egnatia Odos (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Euromedica",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Global Digital Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Finance",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "General Marble (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Dynamics (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ellemedia Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elviex (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Greek Rescue Team",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Public Law Center",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Greek Solar Industry Association",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Geoanalysis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Impetus Consultants",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inaccess (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Industrial Systems Institute",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "General Confederation of Greek Workers",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Information Technologies Institute",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Communication and Computer Systems",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hypertech (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Piraeus Bank",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hellenic Parliament",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Helmed Spine Implants (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IAPETOS (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ideasis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Knowledge Networking Solutions (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kampakas (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Centre for Black Sea Studies",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Integrated Systems Development (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innovative Technologies Center (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KiNNO",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Loufakis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mediterranean Information Office for Environment Culture and Sustainable Development",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Helliniki Meletitiki (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LDK (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miyama Composites Materials (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MLS Multimedia (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mobics (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mellon Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metron (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Naval Architecture Progress (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Motor Oil (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NetSmart (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Municipality of Athens Development Agency",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Naftosol (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Manpower Employment Organisation",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Optronics Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NanoPhos (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Bank of Greece (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regional Energy Agency of Crete",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "PostScriptum (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Olympic Athletic Center of Athens \"Spiros Louis\"",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sensap (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ELFE Group (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Couniniotis Group (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Planet",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Planetek Hellas (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agroknow (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siemens (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nanothinx (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Quality and Reliability (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WIND Hellas (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "South Eastern Europe Telecommunications Academy",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Technical Chamber of Greece",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ALBA Graduate Business School",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Synthesis and Research (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Synthesites (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Goulandris Natural History Museum",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ogilvy (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Talent Systems (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Secretariat for Research and Technology",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Trias (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Transeuropean Consultants for Transport, Development and Information Technology (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Virtual Trip (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Veria Central Public Library",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Vioryl (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Anevo (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Hospital of Nafplio",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International Hellenic University",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ionian University",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Nuclear and Particle Physics",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Glonatech (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gooch & Housego (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Informer (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Knowledge Broadband Services (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lamda Technology (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Athens City",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Trademco (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Hospital Asklepieio Voulas",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "IASO General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mitera Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Union Agency for Network and Information Security",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Stavros Niarchos Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "State Scholarships Foundation",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fulbright Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "John S. Latsis Public Benefit Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Technological Educational Institute of Peloponnese",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Athens Euroclinic",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Corfu General Clinic",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Drama",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kyanous Stavros Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pammakaristos Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ubitech (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WINGS ICT Solutions (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agios Pavlos General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "American College of Greece",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "American School of Classical Studies at Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological Educational Institute of the Ionian Islands",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological Educational Institute of Thessaly",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Athens School of Fine Arts",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological Educational Institute of Eastern Macedonia and Thrace",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alexander Technological Educational Institute of Thessaloniki",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hellenic Military Academy",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Ecclesiastical Academy of Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Ecclesiastical Academy of Thessaloniki",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Merchant Marine Academy",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hellenic Police Academy",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "School of Pedagogical and Technological Education",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological Educational Institute of Epirus",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological Educational Institute of Central Greece",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological Educational Institute of Central Macedonia",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Western Macedonia University Of Applied Science",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Base Training",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hellenic Air Force",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Metropolitan College",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "British School at Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Consolidated Contractors Company (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "M S Jacovides (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Infrastructure, Transport and Networks",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "French School at Athens",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Swiss School of Archaeology in Greece",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hellenic Naval Academy",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Neoanalysis (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hospital Agioi Anargyroi",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "LETO Maternity Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Amfissa General Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Draxis Environmental Technologies (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Regional and International STI Studies and Support",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kuehne + Nagel (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "N.Bazigos (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irida Labs (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Cardiological Society",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Society for the Study of Bone Metabolism",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Megara Resins (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Library of Greece",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Helbio (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EYDAP (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of the Interior and Administrative Reconstruction",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Future Library",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Association for Regional Development and Mental Health",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "SciFY",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Elpen Pharmaceutical (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Cardiovascular Research Society",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Cooperative Oncology Group",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Oncology Research Group",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Society of Medical Education",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Molecular Medicine and Biomedical Research",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Intermed Pharmaceutical Laboratories (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regulon (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pharmathen (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roche (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Uni Pharma ( Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Verisfield (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ippokrateio General Hospital of Thessaloniki",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Thriasio General Hospital of Elefsina",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bodossaki Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Oceanographers Association",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ophthalmos Eye Research & Therapeutic Institute",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Serum IVF",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Anatolia College",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Greek Society of Rheumatology",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hellenic Thoracic Society",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Foundation for Education and European Culture",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Alexander S Onassis Public Benefit Foundation",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Economy, Development and Tourism",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chios Mastiha Growers Association",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Synapse (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic College of Treatment of Atherosclerosis",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute for the Study of Urologic Diseases",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Social Insurance Institute",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hellenic Atherosclerosis Society",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Cancer Society",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Food Industries Association",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Senologic Hellenic Society",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hellenic Society for Chemotherapy",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ELEPAP-Rehabilitation for The Disabled",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hellenic Society of Hypertension",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "404 General Military Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chania General Hospital \u201dSt. George\u201d",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Hospital of Filiates",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Iakentro",
+ "country": "Greece",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Patras Olympian Hospital",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinic Asklepio Larissa",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Frontier Science Foundation-Hellas",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Osteoporosis Foundation",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eugonia",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Assisting Nature",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Road Safety Institute Panos Mylonas",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Panhellenic Confederation of Unions of Agricultural Cooperatives",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Patriarchal Institute of Patristic Studies",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Swedish Institute at Athens",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Educational Policy",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Sitia Development Organisation",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Development Agency for Amvrakikos",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Development Agency of Karditsa",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Development Agency of Thessaloniki",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hellenic Agency for Local Development and Local Government",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hellenic Civil Aviation Authority",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Environment and Energy",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Labour, Social Insurance and Social Solidarity",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Shipping and Island Policy",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Technological Educational Institute of Western Greece",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ANKO (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Municipal Enterprise for Social Development Trikalon",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Information Technology for Market Leadership (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Niki (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of West Attica",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Generation 2.0 for Rights, Equality & Diversity",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Acropolis Museum",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "American Farm School",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Archaeological Society at Athens",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "General Hospital of Athens Elpis",
+ "country": "Greece",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ballas, Pelecanos & Associates (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hellenic Adult Education Association",
+ "country": "Greece",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hellenic Children's Museum",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Jewish Museum of Greece",
+ "country": "Greece",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Kathimerini Publishing (Greece)",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Labyrinth Musical Workshop",
+ "country": "Greece",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Danish Institute at Athens",
+ "country": "Greece",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Public Health Organization",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "IGM Group (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Centre for the Development of Vocational Training",
+ "country": "Greece",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hellenic Telecommunications and Post Commission (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PiDust Quantum Computing (Greece)",
+ "country": "Greece",
+ "types": [
+  "Company"
+ ]
+}]

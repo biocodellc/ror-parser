@@ -1,0 +1,1691 @@
+[{
+ "name": "University of Ibadan",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Obafemi Awolowo University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abubakar Tafawa Balewa University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ahmadu Bello University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ladoke Akintola University of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ladoke Akintola University of Technology Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lagos State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lagos State University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lagos University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ambrose Alli University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Imo State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Imo State University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bayero University Kano",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Benue State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Lagos",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Covenant University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cross River University of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jos University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ebonyi State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nnamdi Azikiwe University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rivers State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Olabisi Onabanjo University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Olabisi Onabanjo University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ekiti State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Osun State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University College Hospital, Ibadan",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal Teaching Hospital Abakaliki",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Port Harcourt",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Port Harcourt Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Usmanu Danfodiyo University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Usmanu Danfodiyo University Teaching Hospital, Sokoto",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Uyo",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Uyo Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Ilorin",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Ilorin Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Jos",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Abuja",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Maiduguri",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Benin",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Benin Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Calabar",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nigeria Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ahmadu Bello University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aminu Kano Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chidicon Medical Center",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal Medical Centre",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal Medical Centre",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal Medical Centre",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal Medical Centre",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nigerian Institute of Medical Research",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Hospital Abuja",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wesley Guild Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Abuja Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute for Pharmaceutical Research and Development",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Veterinary Research Institute",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Carter Center",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Human Virology",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Afrihealth Optonet Association",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Comprehensive Autism and related Disabilities Education and Training",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University of Technology Owerri",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal College of Education",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Girls Power Initiative",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nasarawa State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nigerian Christian Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Youth Action on Tobacco Control and Health",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AIDS Prevention Initiative in Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Clinical Care and Research in Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Excellence Community Education Welfare Scheme",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Ministry of Health",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Crescent University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "African Institute of Science and Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Veritas University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Adekunle Ajasin University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ondo State University of Science and Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Caritas University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kogi State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Auchi Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Benson Idahosa University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Igbinedion University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal Polytechnic Nekede",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Plateau State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yobe State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University of Petroleum Resource Effurun",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Enugu State University of Science and Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Renaissance University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mkar",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gombe State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ajayi Crowther University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lead City University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Crawford University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tai Solarin University of Education",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Redeemer's University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Joseph Ayo Babalola University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Polytechnic Ibadan",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Babcock University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Hikmah University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kwara State Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kwara State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bowen University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taraba State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kebbi State University of Science and Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kaduna Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kaduna State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Qalam University Katsina",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Umaru Musa Yar'adua University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Caleb University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Open University of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pan-Atlantic University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ibrahim Badamasi Babangida University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Salem University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University of Technology Minna",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Adamawa State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Obong University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bingham University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Western Delta University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Novena University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Madonna University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wesley University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fountain University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bells University of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Achievers University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chukwuemeka Odumegwu Ojukwu University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Michael Okpara University of Agriculture",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tansian University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abia State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Akwa Ibom State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kano State University of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kwararafa University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yaba College of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Niger Delta University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Niger State Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre for Integrated Health Programs",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Afe Babalola University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Elizade University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University of Agriculture",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University Oye Ekiti",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Godfrey Okoye University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gregory University Uturu",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Landmark University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Delta State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "McPherson University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sokoto State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Universities Commission",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bauchi State University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baze University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nile University of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nigerian University Games Association",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rhema University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Maitama Sule University Kano",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Samuel Adegboyega University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Oduduwa University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre for Healthy Start Initiative",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mission to Save the Helpless",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nasarawa State Ministry of Health",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Society for Family Health Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bowen University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal University Kashere",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University Lafia",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University Lokoja",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Obafemi Awolowo University Teaching Hospitals Complex",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Paul University Awka",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Delta State Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nigerian Defence Academy",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Modibbo Adama University of Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Achieving Health Nigeria Initiative",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Adamore (Nigeria)",
+ "country": "Nigeria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Basel Convention Co-Ordinating Centre",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Caritas Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Excellence & Friends Management Care Centre",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Christian Health Association of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Environmental Law Research Institute",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Institute of Industrial Research Oshodi",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Forestry Research Institute of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Ministry of Science & Technology",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Friends for Global Health Initiative Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Justice Development and Peace Caritas",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kusamotu & Kusamotu",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Medical Laboratory Science Council of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Blood Transfusion Service",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Root Crops Research Institute",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Space Research and Development Agency",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Office for Technology Acquisition and Promotion",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Primary Health Care Development Agency",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nigerian Institute for Oceanography and Marine Research",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nigerian Institute for Trypanosomiasis Research",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nobex Technology (Nigeria)",
+ "country": "Nigeria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sacred Heart Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pro Health International",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Songhai Health Trust",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Regional Centre for Training in Aerospace Surveys",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nigerian Geological Survey Agency",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lagos State Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Center for Technology Management",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Postgraduate Medical College of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "West African College of Physicians",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal College of Fisheries and Marine Technology",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Agriculture",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nnamdi Azikiwe University Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sule Lamido University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Adeleke University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wellspring University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Beni American University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cocoa Research Institute of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Environment",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal University Otuoke",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nigerian Institute For Oil Palm Reasearch",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nigerian Stored Products Research Institute",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Federal Ministry of Agriculture and Rural Development",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Centre for Genetic Resources and Biotechnology",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Cereals Research Institute",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nigeria Agricultural Quarantine Service",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Science Teachers Association of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Field Epidemiology Network",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Common Heritage Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Ministers' Council on Water",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal University Birnin Kebbi",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Development Research and Projects Centre",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Health Strategy and Delivery Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Preston Healthcare Consulting",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Agency for the Control of AIDS",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ondo State Primary Health Care Development Board",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Society of Gynaecology and Obstetrics of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Private Sector Health Alliance of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Solina Group (Nigeria)",
+ "country": "Nigeria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smallholders Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "World Health Organization - Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Enhancing Financial Innovation & Access",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Civil Society Legislative Advocacy Centre",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tony Elumelu Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Women's Right to Education Programme",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Women's International League for Peace and Freedom",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Government of Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Institute of Policy and Strategic Studies",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Zankli Medical Centre",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lagos State Health Service Commission",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nigerian Cardiac Society",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Neuro Psychiatric Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Eye Centre",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Niger State Ministry of Health",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Horticultural Research Institute",
+ "country": "Nigeria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Edo University Iyamho",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hassan Usman Katsina Polytechnic",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "African Council on Narcotics",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Contemporary Art",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Public Policy Alternatives",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "French Institute for Research in Africa",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hadejia Jama\u2019are Komadugu Yobe Basin-Trust Fund",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nigerian Meteorological Agency",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cleen Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Evangelical Church Winning All",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "FCT College of Education",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Action Health Incorporated",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Community Life Project",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eko-Konnect",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Media Rights Agenda",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "LEAP Africa",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Centre for Mathematical and Computer Sciences",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Social Action",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Safe Motherhood Ladies Association",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Orderly Society Trust",
+ "country": "Nigeria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "West Africa Vocational Education",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Africa Youth Growth Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Irrua Specialist Teaching Hospital",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nigeria Centre for Disease Control",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "First Consultants Medical Center",
+ "country": "Nigeria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Federal Polytechnic Oko",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Biosciences Research Support Foundation",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Heritage Institution",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Democracy and Development",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nigerian Institute of International Affairs",
+ "country": "Nigeria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre for the Study of the Economies of Africa",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Initiative for Equal Rights",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Research and Information on Substance Abuse",
+ "country": "Nigeria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Polytechnic Ede",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mountain Top University",
+ "country": "Nigeria",
+ "types": []
+},{
+ "name": "First Technical University",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sa'adatu Rimi College of Education",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Skyline University Nigeria",
+ "country": "Nigeria",
+ "types": [
+  "Education"
+ ]
+}]

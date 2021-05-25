@@ -1,0 +1,349 @@
+[{
+ "name": "Yerevan State University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Polytechnic University of Armenia",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alikhanyan National Laboratory",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "American University of Armenia",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Academy of Sciences of Armenia",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Informatics and Automation Problems",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Arabkir Joint Medical Center",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yerevan State Medical University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Erebouni Medical Center",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H.Buniatian Institute of Biochemistry",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Molecular Biology",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Biophysics Center of Armenian",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Psychiatric Medical Center",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute for Physical Research",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Byurakan Astrophysical Observatory",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Eurasia International University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fondation Universit\u00e9 Fran\u00e7aise en Arm\u00e9nie",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gavar State University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haybusak University of Yerevan",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Armenian National Agrarian University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Armenian State Pedagogical University after Khachatur Abovian",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Armenian State University of Economics",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Architecture and Construction of Armenia",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. Theresa's Medical University of Yerevan",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Russian-Armenian University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yerevan State Linguistic University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State Committee of Science",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education and Science",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fund for Armenian Relief",
+ "country": "Armenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Institute of Health",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Wikimedia Armenia",
+ "country": "Armenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for the Advancement of Natural Discoveries using Light Emission",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute Of Perinatology Obstetrics And Gynaecology",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Fine Organic Chemistry of Scientific - Technological Center of Organic and Pharmaceutical Chemistry",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Armenian National Survey for Seismic Protection",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Chemical Physics NAS RA",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Center for Ecological Noosphere Studies",
+ "country": "Armenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Archaeology and Ethnography",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Botany",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Geological Sciences",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Center for Agribusiness Research and Education",
+ "country": "Armenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Philosophy, Sociology and Law",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Center of Maternal and Child Health Protection",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "VA National Center of Oncology after Fanarjyan",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ophtalmological Center After S.V.Malayan",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mikaelyan Institute of Surgery",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Matenadaran",
+ "country": "Armenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ministry of Healthcare",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Statistical Service of the Republic of Armenia",
+ "country": "Armenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Noravank Foundation",
+ "country": "Armenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Saur (Armenia)",
+ "country": "Armenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Armenian Genocide Museum-Institute Foundation",
+ "country": "Armenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center of Medical Genetics and Primary Health Care",
+ "country": "Armenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shirak State University",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "L. A. Orbeli Institute of Physiology NAS RA",
+ "country": "Armenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Defence of Armenia",
+ "country": "Armenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Scientific Center of Zoology and Hydroecology",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Life Sciences International Postgraduate Educational Center",
+ "country": "Armenia",
+ "types": [
+  "Facility"
+ ]
+}]

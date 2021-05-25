@@ -1,0 +1,1657 @@
+[{
+ "name": "Suranaree University of Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prince of Songkla University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chiang Mai University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chulalongkorn University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kasetsart University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khon Kaen University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mahidol University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Department of National Parks Wildlife and Plant Conservation",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "PTT Public Company Limited (Thailand)",
+ "country": "Thailand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mahasarakham University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mae Fah Luang University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Maejo University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Chulalongkorn Memorial Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Burapha University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Naresuan University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Mongkut's University of Technology Thonburi",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thammasat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thammasat University Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Silpakorn University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ramkhamhaeng University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rangsit University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Srinakharinwirot University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ubon Ratchathani University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Walailak University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Phayao",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Navamindradhiraj University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central Chest Institute of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hatyai Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Charoenkrung Pracharak Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Armed Forces Research Institute of Medical Science",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bangkok Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chonburi Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bhumibol Adulyadej Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Phramongkutklao Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Police General Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Prapokklao Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Priest Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Queen Sirikit National Institute of Child Health",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rajavithi Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ramathibodi Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ratchaburi Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Public Health",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lerdsin Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Siriraj Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Maesot General Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Maharat Nakhon Ratchasima Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute of Health of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vajira Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Asian Institute of Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chulabhorn Research Institute",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Prasat Neurological Institute",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Queen Saovabha Memorial Institute",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Dermatology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Cancer Institute of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Center for Genetic Engineering and Biotechnology",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "King Mongkut's Institute of Technology Ladkrabang",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thai Red Cross Society",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "HIV Netherlands Australia Thailand Research Collaboration",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Science and Technology Development Agency",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chulabhorn Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Global Alliance Against Traffic in Women",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Migrant Assistance Program Foundation",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bangkok Metropolitan Administration",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Network of Aquaculture Centres in Asia-Pacific",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hua chiew hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chiang Mai Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thaksin University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Assumption University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dhurakij Pundit University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Thai Chamber of Commerce",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kasem Bundit University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bangkok University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Krirk University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bansomdejchaopraya Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chandrakasem Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phranakhon Si Ayutthaya Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rattana Bundit University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saint John's University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shinawatra University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Siam University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sripatum University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St Theresa International College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mahanakorn University of Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Phra Nakhon",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Development Administration",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Mongkut's University of Technology North Bangkok",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dusit Thani College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bangkokthonburi University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajapark Institute",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saint Louis College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Southeast Bangkok College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thongsook College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asian University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Buriram Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajabhat Rajanagarindra University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chaiyaphum Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rambhai Barni Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Far Eastern University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "North Chiang Mai University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Payap University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Lanna",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chiang Rai Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chiangrai College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Suan Dusit University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Suan Sunandha Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hatyai University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kalasin University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kamphaeng Phet Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kanchanaburi Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "North Eastern University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bangkok Business College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lampang Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nation University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Loei Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thepsatri Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajabhat Maha Sarakham University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Christian University of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nakhon Pathom Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Rattanakosin",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saengtham College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Isan",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vongchavalitkul University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nakhon Ratchasima Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chaopraya University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Central Thailand",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nakhon Sawan Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nakhon Si Thammarat Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Princess of Naradhiwas University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pathumthani University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Valaya Alongkorn Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fatoni University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Stamford International University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phetchabun Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phetchaburi Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Webster University Thailand",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pibulsongkram Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phitsanulok University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Suvarnabhumi",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phuket Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muban Chombueng Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Roi et Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sakon Nakhon Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Huachiew Chalermprakiet University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asia Pacific International University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sisaket Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chalermkarnchana University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Songkhla Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Srivijaya",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala University of Technology Tawan-ok",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Suratthani Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tapee University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Surindra Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lumnamping College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eastern Asia University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dhonburi Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ubon Ratchathani Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Udon Thani Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Santapol College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uttaradit Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yala Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sukhothai Thammathirat Open University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mahachulalongkornrajavidyalaya University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mahamakut Buddhist University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nakhon Phanom University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Naresuan University Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rajabhat University System",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thailand Center of Excellence in Physics",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Government of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chulabhorn Graduate Institute",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Astronomical Research Institute of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sappasithiprasong Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Thailand Research Fund",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Zoological Park Organization",
+ "country": "Thailand",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "National Research Council of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agricultural Research Development Agency",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Thailand Graduate Institute of Science and Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sirindhorn College of Public Health",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mission Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bangkok Christian Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bumrungrad International Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Manarom Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mayo Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nakornthon Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vejthani Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vibhavadi Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yanhee Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rajamangala University of Technology Krungthep",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thailand National Metal and Materials Technology Center",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Electronics and Computer Technology Center",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "SCG Chemicals (Thailand)",
+ "country": "Thailand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Office of the Civil Service Commission",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Science and Technology Thailand",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Electricity Generating Authority of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Armed Forces Academies Preparatory School",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Satriwitthaya 2 School",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Maharaj Nakorn Chiang Mai Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "North Eastern Polytechnic Vocational College",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asian Transportation Research Society",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Medical Sciences",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southeast Asia University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Synchrotron Light Research Institute",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Dairy Farming Promotion Organization",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Royal Forest Department",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Thailand Institute of Scientific and Technological Research",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Institute on Contemporary Southeast Asia",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Concept Foundation",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Food and Drug Administration",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bamrasnaradura Infectious Diseases Institute",
+ "country": "Thailand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Buddhachinaraj Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "ChiangRai Prachanukroh Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chonburi Cancer Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Health Intervention and Technology Assessment Program",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cancer Hospital Lopburi",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lampang Cancer Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lampang Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nakornping Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Mongkut Memorial Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "SanPaTong Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Surin Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Somdet Chaopraya Institute of Psychiatry",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ubonratchathani Cancer Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Udon Thani Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Anandamahidol foundation",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Crown Property Bureau",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chaipattana Foundation",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asian Disaster Preparedness Center",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Biophics",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Royal Project Foundation",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Toray (Thailand)",
+ "country": "Thailand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petromat",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Energy Policy and Planning Office",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for the Promotion of Teaching Science and Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Joint Graduate School of Energy and Environment",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Nanotechnology Center",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Thai Health Promotion Foundation",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Social Security Office (Thailand)",
+ "country": "Thailand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mae Fah Luang University Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "The Royal College Of Anesthesiologists Of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rajamangala Institute of kidney disease",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Health Systems Research Institute",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Thanyarak Institute",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "The Dementia Association of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dermatological Society of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Diabetes Association of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kidney Disease Association of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Thai Dietetic Association",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nopparat Rajathanee Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sirindhorn National Medical Rehabilitation Institute",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vachira Phuket Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dental Innovation Foundation Under Royal Patronage",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Kidney Foundation of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Influenza Foundation of Thailand",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of Disease Control",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Praboromarajchanok Institute of Heath Workforce Development",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Phranakhon Rajabhat University",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Agriculture and Cooperatives",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Disaster Prevention and Mitigation",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Livestock Development",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vidyasirimedhi Institute of Science and Technology",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Songklanagarind Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "UbonRatchathani Rice Research Center",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mahidol Oxford Tropical Medicine Research Unit",
+ "country": "Thailand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Boromarajonani College of Nursing",
+ "country": "Thailand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Court of Appeal",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Office of the Higher Education Commission",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southeast Asian Ministers of Education Organization",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Thai-German Institute",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Asia Pacific Forum on Women, Law and Development",
+ "country": "Thailand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Suratthani Cancer Hospital",
+ "country": "Thailand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "United Nations Economic and Social Commission for Asia and the Pacific",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Besins Healthcare (Thailand)",
+ "country": "Thailand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stockholm Environment Institute",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Thailand Board of Investment",
+ "country": "Thailand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "UNICEF East Asia and Pacific Regional Office",
+ "country": "Thailand",
+ "types": [
+  "Nonprofit"
+ ]
+}]

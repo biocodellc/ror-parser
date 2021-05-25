@@ -1,0 +1,421 @@
+[{
+ "name": "Mustansiriyah University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nahrain University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Baghdad",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Basrah",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mosul",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hawler Medical University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Duhok",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baghdad Medical City",
+ "country": "Iraq",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country": "Iraq",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Babylon",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Anbar",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Koya University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thi Qar University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Al-Qadisiyah",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sulaymaniyah",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Diyala",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Karbala",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kirkuk",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kufa",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Muthana University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tikrit",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Salahaddin University-Erbil",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Technology- Iraq",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Mansour University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iraqi University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese French University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ishik University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Soran University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sulaimani Polytechnic University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Iraq Sulaimani",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Wasit",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Zakho",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kurdistan Hewler",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Raparin",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Misan",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Ahl al-Bayt",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Maaref University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Turath University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Yarmouk University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alrafidain University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baghdad College of Economic Sciences University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dijlah University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alkafeel University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Madenat Alelem University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shatt Al-Arab University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alsalam University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Higher Education and Scientific Research",
+ "country": "Iraq",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Union of Arab Chemists",
+ "country": "Iraq",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Al Rasheed University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cihan University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "British Royal University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Mamon University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iraq University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Komar University of Science and Technology",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nawroz University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Human Development",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kurdistan Regional Government",
+ "country": "Iraq",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Middle East Research Institute",
+ "country": "Iraq",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Iraq Virtual Science Library",
+ "country": "Iraq",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Al-Nisour University College",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Of Fallujah",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iraqi Association for Psychotherapy",
+ "country": "Iraq",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Samarra",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Friends of Basrah Museum",
+ "country": "Iraq",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Iraqi Al-Amal Association",
+ "country": "Iraq",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Duhok Polytechnic University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Southern Technical University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Halabja",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Middle Technical University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Northern Technical University",
+ "country": "Iraq",
+ "types": [
+  "Education"
+ ]
+}]

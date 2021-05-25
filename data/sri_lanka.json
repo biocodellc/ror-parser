@@ -1,0 +1,601 @@
+[{
+ "name": "University of Colombo",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Peradeniya",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kelaniya",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sri Jayewardenepura",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Ruhuna",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Jaffna",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Medical Research Institute",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Hospital of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lady Ridgeway Hospital for Children",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Teaching Hospital Kandy",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Fundamental Studies",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Water Management Institute",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cancer Care Association Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Care International Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rajarata University of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Women\u2019s Fund Asia",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sabaragamuwa University of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Buddhasravaka Bhiksu University",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eastern University, Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Buddhist and Pali University of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wayamba University of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Moratuwa",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Open University of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South Eastern University of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "General Sir John Kotelawala Defence University",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Grants Commission Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Visual & Performing Arts",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uva Wellassa University",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Research and Development",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Anti Filariasis Campaign",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sri Lanka Institute of Information Technology",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kilinochchi General Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lanka Hospitals",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mallavi Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mannar Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mullaitivu Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nawaloka Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dr Neville Fernando Teaching Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Point Pedro Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tellippalai Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Trincomalee Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vavuniya General Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ampara Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ashraff Memorial Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Teaching Hospital Batticaloa",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chavakachcheri Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cheddikulam Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Durdans Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jaffna Teaching Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kalmunai North Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kayts Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Genetech (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Health, Nutrition and Indigenous Medicine",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "WSO2 (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Research Council",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sri Lanka Law College",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Colombo North Teaching Hospital",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Coconut Research Institute",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Industrial Technology Institute",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Foundation for Environment Climate and Technology",
+ "country": "Sri Lanka",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Aquatic Resources Research and Development Agency",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Rubber Research Institute of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Veterinary Research Institute",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry OF City Planning and Water Supply",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "GlaxoSmithKline (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Information and Communication Technology Agency",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Neelan Tiruchelvam Trust",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Centre for Advanced Studies in Humanities and Social Sciences",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sri Lanka Institute of Nanotechnology",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sri Lanka College of Paediatricians",
+ "country": "Sri Lanka",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for Conservation and Research",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Science Foundation of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "South Asian Clinical Toxicology Research Collaboration",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sri Lanka College of Obstetricians & Gynaecologists",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Cancer Institute of Sri Lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Government Medical Officers Association",
+ "country": "Sri Lanka",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Institute of Health Sciences",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federation of Sri Lankan Local Government Authorities",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Law & Society Trust",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bandaranaike Centre for International Studies",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre for Policy Alternatives",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Women\u2019s Research",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of Archaeology",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "GreenTech Consultants (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Centre for Ethnic Studies",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ladies College",
+ "country": "Sri Lanka",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Point Pedro Institute of Development",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "One Text Initiative",
+ "country": "Sri Lanka",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "PASSAsia (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u200bSevalanka Foundation",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sri Lanka Foundation",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wijeya Newspapers (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geo Explore Foundation",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tulana",
+ "country": "Sri Lanka",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Town Planners, Sri lanka",
+ "country": "Sri Lanka",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Lanka Hydraulic Institute (Sri Lanka)",
+ "country": "Sri Lanka",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Muslim Women's Research and Action Forum",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "South Asians for Human Rights",
+ "country": "Sri Lanka",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Advocata Institute",
+ "country": "Sri Lanka",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sri Lanka Council For Agricultural Research Policy",
+ "country": "Sri Lanka",
+ "types": [
+  "Government"
+ ]
+}]

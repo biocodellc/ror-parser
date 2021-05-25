@@ -1,0 +1,19 @@
+[{
+ "name": "University of Seychelles",
+ "country": "Seychelles",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country": "Seychelles",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Seychelles Fishing Authority",
+ "country": "Seychelles",
+ "types": [
+  "Government"
+ ]
+}]

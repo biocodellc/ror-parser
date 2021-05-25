@@ -1,0 +1,1075 @@
+[{
+ "name": "Universite Moulay Ismail De Meknes",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sidi Mohamed Ben Abdellah University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mohammed V University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abdelmalek Essa\u00e2di University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mohamed I University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Hospitalier Ibn Sina",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cadi Ayyad University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Hassan II Casablanca",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Ibn-Tofail",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire Hassan II",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire de Rabat-Sal\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital 20 Ao\u00fbt",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital Militaire Moulay Ismail",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire Ibn Rochd",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital El Ayachi",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire Mohammed VI",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital Ibn Sina-Rabat",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital Militaire Avicenne",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e9 Ibn Zohr",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Agronomique et V\u00e9t\u00e9rinaire Hassan II",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National d'Hygi\u00e8ne du Maroc",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut Pasteur du Maroc",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut National d'Oncologie",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre National de la Recherche Scientifique",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "\u00c9cole Nationale d'Agriculture de Mekn\u00e8s",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National de la Recherche Agronomique",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut National de Recherche Halieutique",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Minist\u00e8re de l'\u00c9ducation Nationale, de la Formation Professionnelle, de l'Enseignement Sup\u00e9rieur et de la Recherche Scientifique",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Office National de l'Eau Potable",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Agency for the Development of Renewable Energy and Energy Efficiency",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre Regional Africain des Sciences et Technologies de l'Espace",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Minist\u00e8re de la Sant\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chouaib Doukkali University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Hassan 1er",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut des Hautes Etudes de Management",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National d'Am\u00e9nagement et d'Urbanisme",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut National de Statistique et d'Economie Appliqu\u00e9e",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National des Postes et T\u00e9lecomunications",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National des Sciences de l'Arch\u00e9ologie et du Patrimoine",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur d\u2019Art Dramatique et d\u2019Animation Culturelle",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur de l'Information et de la Communication",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut sup\u00e9rieur de la Magistrature",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur du G\u00e9nie Appliqu\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute For Leadership And Communication Studies",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Institute for Higher Education in Morocco",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Royal de Formation des Cadres de la Jeunesse et des Sports",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National School of Business and Management in Settat",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole des Hautes \u00c9tudes Commerciales Techniques et Informatiques",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Nationale de Commerce et de Gestion de Tanger",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur International du Tourisme de Tanger",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Normale Sup\u00e9rieure de T\u00e9touan",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "High-Tech Rabat-Agdal",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universiapolis - Universit\u00e9 Internationale d'Agadir",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Gestion",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Academy Mohammed VI of Civil Aviation",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ecole des Hautes Etudes de Biotechnologie et de Sant\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole des Hautes \u00c9tudes en Ing\u00e9nierie des Syst\u00e8mes d'Information",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole des Hautes \u00c9tudes \u00c9conomiques et Commerciales",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hassania School of Public Works",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Normale Sup\u00e9rieure - Marrakech",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Royale de l'Air de Marrakech",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure d'Informatique Appliqu\u00e9e \u00e0 la Gestion",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sup de Co Marrakech",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Marocaine des Sciences de L'ing\u00e9nieur",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Normale Sup\u00e9rieure Casablanca",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Management Appliqu\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des Sciences de l'Ing\u00e9nierie Commerciale",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Normale Sup\u00e9rieure de l'Enseignement Technique de Mohammedia",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Royale Navale",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Hassan II Mohammedia",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole d'Architecture de Casablanca",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut des Hautes Etudes Bancaires et Financi\u00e8res",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure d'Informatique Appliqu\u00e9e",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure du Commerce et des Affaires",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Communication et de Publicit\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Design et des Arts Visuels",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9tablissement Dar El Hadith El Hassania",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Management",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Psychologie",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des Industries du Textile et de l'Habillement",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des Multim\u00e9dia, Informatique & R\u00e9seaux",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure Internationale de Gestion",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut des Hautes Etudes Bancaires, Financi\u00e8res et Manag\u00e9riale",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole des Sciences de I'information",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Marocaine de Banque et de Commerce International",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Groupe Institut Des Hautes Etudes Economiques Et Sociales",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Marocain de Management",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur d\u2019Electronique et des R\u00e9seaux & T\u00e9l\u00e9communications",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur de Commerce et d'Administration des Entreprises",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur de comptabilit\u00e9 Audit et Finance",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur de Formation en Technologie Alimentaire",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur de Gestion",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sup\u00e9rieur d'Etudes Maritimes",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure d'Informatique et de Management des Affaires",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Nationale Sup\u00e9rieure de l'Administration",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National School of Architecture",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National School of Mineral Industry",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole des Hautes \u00c9tudes Commerciales",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Polyvalente Sup\u00e9rieure d'Informatique et d'\u00c9lectronique",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure d'Architecture d'Int\u00e9rieur",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sup Management",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of al-Qarawiyyin",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Akhawayn University",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure de Gestion et des Sciences de l'Informatique",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des T\u00e9l\u00e9communications",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure Vinci",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Internationale de Casablanca",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Centre for Nuclear Energy, Science and Technology",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hassan II Academy of Science and Technology",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire d\u2019Oujda",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e9 Sultan Moulay Slimane",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "OCP Group (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biblioth\u00e8que Nationale du Royaume du Maroc",
+ "country": "Morocco",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Mohammadia School of engineering",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ACRI-EC (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "African Training and Research Centre in Administration for Development",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agence Nationale pour la Promotion des Petites et Moyennes Entreprises",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agence pour le D\u00e9veloppement et la R\u00e9habilitation de la Ville de F\u00e8s",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agence du Bassin Hydraulique de Sebou",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre Marocain de Production Propre",
+ "country": "Morocco",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Telecommunications Regulatory Agency",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Conf\u00e9d\u00e9ration G\u00e9n\u00e9rale des Entreprises du Maroc",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Association Marocaine Pour la Recherche D\u00e9veloppement",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Assystem (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre Marocain des Techniques du Cuir",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Development Centre of the Tensift Region",
+ "country": "Morocco",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre des Techniques et Mat\u00e9riaux de Construction",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Royal Centre for Remote Sensing",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Technique des Industries Agroalimentaires",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "\u00c9cole Nationale Foresti\u00e8re d'Ing\u00e9nieurs",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Direction de l\u2019Epid\u00e9miologie et de Lutte contre les Maladies",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Direction de la M\u00e9t\u00e9orologie Nationale",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eurofilet (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fondation du Roi Abdul-Aziz Al Saoud",
+ "country": "Morocco",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Haut-Commissariat aux Eaux et For\u00eats et \u00e0 la Lutte Contre la D\u00e9sertification",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut of Research in Solar Energy and New Energies",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "MOROCCAN INSTITUTE OF INTERNATIONAL RELATIONS",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Iskane Ing\u00e9nierie",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Maroc Numeric Cluster",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Lesieur Cristal",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture and Fisheries",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Minist\u00e8re de l\u2019Industrie, du Commerce, de l\u2019Investissement et de l\u2019Economie Num\u00e9rique",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Minist\u00e8re de la Culture",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Moroccan Agency For Solar Energy (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Moroccan Foundation for Advanced Science, Innovation and Research",
+ "country": "Morocco",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "PhotoTherme",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Phyto consulting",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Moroccan National Railways Office",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ressources Ing\u00e9nierie (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Observatoire National des Droits de l'Enfant",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale des Travaux du Maroc",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Office National de l'Electricite et de l'Eau Potable",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Soci\u00e9t\u00e9 Nationale d\u2019\u00c9tudes du D\u00e9troit de Gibraltar",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Office of Hydrocarbons and Mines",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Office R\u00e9gional de Mise en Valeur Agricole de Ouarzazate",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Energy, Mines, Water and Environment",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "R\u00e9gie Autonome Multi Services D'Agadir",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International University of Rabat",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Jacques Berque pour le D\u00e9veloppement des Sciences Humaines et Sociales",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Danone (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Laboratoire de Recherche et d\u2019Analyses M\u00e9dicales de la Fraternelle de la Gendarmerie Royale",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Agence de l'Oriental",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arab Civil Aviation Commission",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Euro-Mediterranean University of Fes",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Fran\u00e7ais de Rabat",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "M C I Sant\u00e9 Animale (Morocco)",
+ "country": "Morocco",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universit\u00e9 Mohammed VI des Sciences de la Sant\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "H\u00f4pital Universitaire International Cheikh Khalifa",
+ "country": "Morocco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Laboratoire National de R\u00e9f\u00e9rence",
+ "country": "Morocco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Universit\u00e9 Mohammed VI Polytechnique",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hypatia of Alexandria Institute for Reflexion and Studies",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of National Education, Vocational Training, Higher Education and Scientific Research",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "World Health Organization - Morocco",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "\u00c9cole de Gouvernance et d'\u00c9conomie de Rabat",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole de Formation aux Carri\u00e8res de Sant\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Policy Center for the New South",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institut Amadeus",
+ "country": "Morocco",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Islamic World Educational, Scientific and Cultural Organization",
+ "country": "Morocco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituts Sup\u00e9rieurs des Professions Infirmi\u00e8res et Techniques de Sant\u00e9",
+ "country": "Morocco",
+ "types": [
+  "Education"
+ ]
+}]

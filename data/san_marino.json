@@ -1,0 +1,25 @@
+[{
+ "name": "Ospedale di Stato della Repubblica di San Marino",
+ "country": "San Marino",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of the Republic of San Marino",
+ "country": "San Marino",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Associazione Sammarinese per la Lotta contro le Leucemie e Emopatie Maligne",
+ "country": "San Marino",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for the Conservation and Valorization of Cultural Heritage",
+ "country": "San Marino",
+ "types": [
+  "Facility"
+ ]
+}]

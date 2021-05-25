@@ -1,0 +1,679 @@
+[{
+ "name": "L. N. Gumilyov Eurasian National University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Farabi Kazakh National University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh National Agrarian University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "German Kazakh University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education and Science of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Academy of Sciences of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nazarbayev University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Research Center for Maternal and Child Health",
+ "country": "Kazakhstan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Almaty University of Power Engineering and Telecommunications",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Satbayev University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yessenov University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Almaty Technological University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh Academy of Transport and Communications named after M.Tynyshpaev",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aktobe Regional State University named after K.Zhubanov",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "West Kazakhstan Marat Ospanov State Medical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh Ablai Khan University of International Relations and World Languages",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of Civil Aviation",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "T.K. Zhurgenov Kazakh National Academy of Arts",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kurmangazy Kazakh National Conservatory",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh Academy of Sport and Tourism",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh National Medical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh-British Technical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "KIMEP University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abai Kazakh National Pedagogical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Almaty Management University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Suleyman Demirel University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Turan University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitet Kajnar",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eurasian Humanities Institute",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "S.Seifullin Kazakh Agro Technical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Atyrau State University named of Kh.Dosmukhamedova",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Atyrau University of Oil and Gas",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "KAZGUU University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karaganda Economic University of Kazpotrebsouz",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karaganda State Technical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karagandy State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karaganda State Medical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kokshetau State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kostanai State Pedagogical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kostanay State University A Baitursynov",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Korkyt Ata Kyzylorda State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Innovative University of Eurasia",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "S. Toraighyrov Pavlodar State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "North Kazakhstan state university named after Manash Kozybayev",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Semey State Medical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South Kazakhstan Medical Academy",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "M.Auezov South Kazakhstan State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "M. Kh Dulati Taraz State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taraz State Pedagogical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karaganda State Industrial University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ahmet Yesevi University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mahambet Otemiusly West Kazakhstan University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agrarian-Technical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sarsen Amanzholov East Kazakhstan State University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "D. Serikbayev East Kazakhstan State Technical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zhezkazgan Baikonurov University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arkalyk State Pedagogical Institute named after Ibrai Altynsarin",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Nuclear Center of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Ionosphere",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Rudny Industrial Institute",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pavlodar State Pedagogical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Information Technologies University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Physics and Technology",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kazakh-American University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AIDS Foundation East-West",
+ "country": "Kazakhstan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Turar Ryskulov New Economic University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh-Russian International University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Center for Biotechnology",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Eni (Kazakhstan)",
+ "country": "Kazakhstan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shakarim State University Of Semey",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of International Business",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zhetysu State University named after Ilyas Zhansugurov",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Mathematics and Mathematical Modeling",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eastern Mining-and-Metallurgical Research Institute for Nonferrous Metals",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kazakh Scientific Research Veterinary Institute",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "State Scientific Production Association of Industrial Ecology",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Zoology",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kazakh Scientific Reseach Institute for Ecology and Climate",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Center of Space Research and Technology",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fesenkov Astrophysical Institute",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kazahstanskoe Obshchestvo Bariatricheskih i Metabolicheskih Hirurgov",
+ "country": "Kazakhstan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kazakhstan Academy of Preventive Medicine",
+ "country": "Kazakhstan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kazakhstan Association on Sexual and Reproductive Health",
+ "country": "Kazakhstan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Medical Holding",
+ "country": "Kazakhstan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Polymer Materials and Technologies",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Geography",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Independent Expert Consulting Board to Promote Scientific Research Activity in Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Agency for Technological Development",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Culture and Sport of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Justice of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kazakh Eye Research Institute",
+ "country": "Kazakhstan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Hydrogeology and Geoecology. Ahmedsafina",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ALZHIR Museum and Memorial Complex",
+ "country": "Kazakhstan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Eurasia Foundation of Central Asia",
+ "country": "Kazakhstan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Seismology",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kazakh Research Institute of Agriculture and Plant growing",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Legal Policy Research Centre",
+ "country": "Kazakhstan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0445\u0438\u0440\u0443\u0440\u0433\u0438\u0438 \u0438\u043c.\u0410.\u041d.\u0421\u044b\u0437\u0433\u0430\u043d\u043e\u0432\u0430",
+ "country": "Kazakhstan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Archaeology named after A.Kh.Margulan",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Caspian University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central State Archive of the Republic of Kazakhstan",
+ "country": "Kazakhstan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Economic Research Institute",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Finance Corporation",
+ "country": "Kazakhstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Philosophy, Political Science and Religion Studies",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Plant Biology and Biotechnology",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kazakh Research Institute of Plant Protection and Quarantine",
+ "country": "Kazakhstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Astana Medical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kazakh-American Free University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Psychoanalytical Association",
+ "country": "Kazakhstan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kazakhstan Medical University",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "KazMunayGas (Kazakhstan)",
+ "country": "Kazakhstan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kazakh University of Technology and Business",
+ "country": "Kazakhstan",
+ "types": [
+  "Education"
+ ]
+}]

@@ -1,0 +1,673 @@
+[{
+ "name": "Texas A&M University at Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qatar University",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hamad General Hospital",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hamad Medical Corporation",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Qatar Orthopaedic and Sports Medicine Hospital",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Weill Cornell Medical College in Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aspire Academy",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qatar Foundation",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Al Azhar University",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "FIKRA",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Northwestern University in Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Anti-Doping Laboratory",
+ "country": "Qatar",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Stenden University",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Supreme Council Of Health",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "General Electric (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Georgetown University in Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gulf Organisation for Research & Development",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hamad bin Khalifa University",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Carnegie Mellon University Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qatar Cardiovascular Research Center",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University College London Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qatar Science and Technology Park",
+ "country": "Qatar",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "University of Calgary in Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Queen Medical",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "College of the North Atlantic Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "VCUQatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Silatech",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ConocoPhillips (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Faculty of Islamic Studies",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qatari Diar (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Al-Ahli Hospital",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ahmed Bin Mohammed Military College",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Environment",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Center for Cancer Care and Research",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sidra Medical and Research Center",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Qatar Petroleum (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arab Federation for Libraries & Information",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Qatar National Library",
+ "country": "Qatar",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Qatar Diabetes Association",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Doha Institute for Graduate Studies",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ADGS (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Al Emadi Hospital",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Al Kawther Secondary Independent School for Girls",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Sulaiteen Agricultural & Industrial Complex (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Doha International Center for Interfaith Dialogue",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Al-Wataniya Concrete (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "American School of Doha",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The English Modern School",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ashghal",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ExxonMobil (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Awsaj Academy",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Informatica Qatar (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CEG International (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Child Development Center",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Infrastructure Research & Development (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kahramaa (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Global Dryland Alliance",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gulf Drilling International (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gulf English School",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Halliburton (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Newton International School",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "North Oil Company (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Libra Trading Company (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HEC Paris",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mada Assistive Technology Centre",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hochtief (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Iberdrola (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Magaza (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Marafeq (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "iHorizons (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Occidental Petroleum (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Culture and Sports",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education and Higher Education",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ooredoo (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Public Health",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Oryx Publishing and Advertising (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Interior",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Qatargas (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Primary Health Care",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Transport and Communications",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "MODUS (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Electricity & Water (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatalum (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Airways (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Biobank",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Qatar Computer Emergency Response Team",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Construction Development (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Financial Centre Authority",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Schlumberger (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Green Building Council",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Qatar Mining (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Museums",
+ "country": "Qatar",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Shafallah Center",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Qatar Natural History Group",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vodafone (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Olympic Committee",
+ "country": "Qatar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Shell (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Tourism Authority",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Siemens (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tata Consulting Engineers (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Total (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maersk (Qatar)",
+ "country": "Qatar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qatar Mobility Innovations Center",
+ "country": "Qatar",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Museum of Islamic Art",
+ "country": "Qatar",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Qatar Central Bank",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Equine Veterinary Medical Center",
+ "country": "Qatar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Doha Centre for Media Freedom",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Community College of Qatar",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qatar Credit Bureau",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Qatar National Research Fund",
+ "country": "Qatar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Academic Bridge Program",
+ "country": "Qatar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Amiri Diwan",
+ "country": "Qatar",
+ "types": [
+  "Government"
+ ]
+}]

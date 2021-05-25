@@ -1,0 +1,787 @@
+[{
+ "name": "University of Dar es Salaam",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sokoine University of Agriculture",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhimbili University of Health and Allied Sciences",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of Health and Allied Sciences",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tumaini University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bugando Medical Centre",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ifakara Health Institute",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kilimanjaro Christian Medical Centre",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health and Social Welfare",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Muhimbili National Hospital",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute for Medical Research",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tanzania Commission for Science and Technology",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Animal Diseases Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tanzania Food and Nutrition Center",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Governance Links Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Iringa Development of Youth Disabled and Children Care",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Iringa Mercy Organization",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kivulini Women\u2019s Rights Organisation",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Plan International Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ardhi University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "African Malaria Network Trust",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Management and Development for Health",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mikocheni Agricultural Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tanzania Youth Alliance",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eastern and Southern African Management Institute",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mount Meru University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Arusha",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hubert Kairuki Memorial University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Open University of Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Business Education",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Finance Management",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Medical and Technological University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Social Work",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Rural Development Planning",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. John's University of Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Dodoma",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mzumbe University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of African Wildlife Management",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Moshi Co-operative University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. Augustine University of Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zanzibar University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Accountancy Arusha",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eckernforde Tanga University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mbeya University of Science and Technology",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muslim University of Morogoro",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. Joseph University In Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sebastian Kolowa Memorial University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tanzania Commission for Universities",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "United African University of Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Teofilo Kisanji University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Bagamoyo",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nelson Mandela African Institution of Science and Technology",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mwanza Intervention Trials Unit",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Public Health Laboratory Ivo de Carneri",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Temeke Municipal Council",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "The Jane Goodall Institute",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tanzania Wildlife Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aga Khan Hospital Dar es Salaam",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bombo Hospital",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Haydom Lutheran Hospital",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dar es Salaam Institute of Technology",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Zanzibar",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mvumi Hospital",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Elizabeth Glaser Pediatric AIDS Foundation",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Arusha City Council",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Amref Health Africa",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AVRDC - The World Vegetable Center",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Educational Development in Health Arusha",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Christian Council of Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Christian Social Services Commission",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Concern for Development Initiatives in Africa",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Agriculture, Food Security and Cooperatives",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Livestock and Fisheries Development",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Natural Resources and Tourism",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Water and Irrigation",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Institute of Transport",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education and Vocation Training",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tropical Pesticides Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Environment Management Council",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Research on Poverty Alleviation",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Primary Health Care Institute",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Regional Commissioners Office",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "African Minerals and Geosciences Centre",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tanzania Association of Foresters",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Authorised Association Consortium",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tanzania Commission for AIDS",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tanzania Fisheries Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eastern and Southern Africa small scale Farmers\u2019 Forum",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tanzania Forestry Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tanzania Industrial Research and Development Organization",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "T-MARC",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tanzania National Parks",
+ "country": "Tanzania",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Tanzania Natural Resource Forum",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tanzania Red Cross Society",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tanzania Traditional Energy Development and Environment Organisation",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Twaweza",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Chama Cha Uzazi na Malezi Bora Tanzania",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Western Indian Ocean Marine Science Association",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tanzania Public health Association",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kampala International University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government Chemist Laboratory Agency",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Small Industries Development Organisation",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Aga Khan University",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "World Wide Fund for Nature",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "East, Central and Southern Africa Health Community",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Uongozi Institute",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tanzania Women Research Foundation",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Financial Sector Deepening Trust",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "AIM Group (Tanzania)",
+ "country": "Tanzania",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tanzania Social Action Fund",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Muhimbili Orthopaedic Institute",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ocean Road Cancer Institute",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Association of Gynaecologists and Obstetricians",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pamoja Tunaweza Women's Centre",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Health, Community Development, Gender, Elderly and Children",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "African Institute for Mathematical Sciences",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Joel Samson Ruvugo Traders",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Economic and Social Research Foundation",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tanzania Meteorological Agency",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "MS Training Centre for Development Cooperation",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Zanzibar School of Health",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pastoral Women's Council",
+ "country": "Tanzania",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southern African Centre for Infectious Disease Surveillance",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "St. Francis Referral Hospital",
+ "country": "Tanzania",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Foundation for Civil Society",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dhow Countries Music Academy",
+ "country": "Tanzania",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "East Africa Law Society",
+ "country": "Tanzania",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tanganyika Law Society",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tanzania Media Women's Association",
+ "country": "Tanzania",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vector & Vector-Borne Diseases Research Institute",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Usambara Field Studies Centre",
+ "country": "Tanzania",
+ "types": [
+  "Facility"
+ ]
+}]

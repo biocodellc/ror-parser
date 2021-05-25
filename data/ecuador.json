@@ -1,0 +1,529 @@
+[{
+ "name": "Central University of Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad San Francisco de Quito",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Tecnol\u00f3gica Equinoccial",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pontificia Universidad Cat\u00f3lica del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Vozandes",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Metropolitano",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Luis Vernaza",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Charles Darwin Foundation",
+ "country": "Ecuador",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Runajambi Institute for the Study of Quichua Culture and Health",
+ "country": "Ecuador",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Polytechnic School",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Estatal Amaz\u00f3nica",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica del Norte",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica Particular de Loja",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Tecnol\u00f3gica Indoam\u00e9rica",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Regional Aut\u00f3noma de Los Andes",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica de Ambato",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica de Babahoyo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior Polit\u00e9cnica Agropecuaria de Manab\u00ed Manuel F\u00e9lix L\u00f3pez",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Cuenca",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cuenca",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Azuay",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Politecnica Salesiana University",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica Luis Vargas Torres",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Estatal de Bol\u00edvar",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior Politecnica del Litoral",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Agraria del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Casa Grande",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of Santiago de Guayaquil",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Especialidades Esp\u00edritu Santo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Guayaquil",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cristiana Latinoamericana",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Especialidades Tur\u00edsticas",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Laica Vicente Rocafuerte de Guayaquil",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Las Am\u00e9ricas",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de los Hemisferios",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Metropolitana",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Del Pac\u00edfico Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Tecnol\u00f3gica Ecotec",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Tecnol\u00f3gica Empresarial de Guayaquil",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Iberoamericana del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Estatal del Sur de Manabi",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Estatal Pen\u00ednsula de Santa Elena",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica de Cotopaxi",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Internacional del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional de Loja",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Internacional SEK",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Tecnica de Machala",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Estatal de Milagro",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior Polit\u00e9cnica del Chimborazo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Otavalo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Laica Eloy Alfaro de Manab\u00ed",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad San Gregorio de Portoviejo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional de Chimborazo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica de Manab\u00ed",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica Estatal de Quevedo",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Polit\u00e9cnica Javeriana del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Polit\u00e9cnica del Ej\u00e9rcito",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior Polit\u00e9cnica Ecol\u00f3gica Amaz\u00f3nica",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Facultad Latinoamericana de Ciencias Sociales",
+ "country": "Ecuador",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Universidad Polit\u00e9cnica Estatal del Carchi",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto de Altos Estudios Nacionales",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Israel",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Andina Sim\u00f3n Bol\u00edvar",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "EcoCiencia",
+ "country": "Ecuador",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital Vicente Corral Moscoso",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Secretar\u00eda de Educaci\u00f3n Superior, Ciencia, Tecnolog\u00eda e Innovaci\u00f3n",
+ "country": "Ecuador",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Yachay Tech",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n In Terris",
+ "country": "Ecuador",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CIUDAD",
+ "country": "Ecuador",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Ecuatoriano de Enfermedades Digestivas",
+ "country": "Ecuador",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hospital de Especialidades Jos\u00e9 Carrasco Arteaga",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kennedy Clinic Hospital",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Hermano Miguel",
+ "country": "Ecuador",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Nacional de Investigaci\u00f3n en Salud P\u00fablica",
+ "country": "Ecuador",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Geof\u00edsico de la Escuela Polit\u00e9cnica Nacional",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Nacional de Investigaciones Agropecuarias",
+ "country": "Ecuador",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Universidad Regional Amaz\u00f3nica IKIAM",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Oceanogr\u00e1fico de la Armada del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Nacional de Biodiversidad",
+ "country": "Ecuador",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Superior Tecnol\u00f3gico de Artes del Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Archives of Ecuador",
+ "country": "Ecuador",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Instituto Nacional de Patrimonio Cultural",
+ "country": "Ecuador",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pediatric Hospital \"Baca Ortiz\"",
+ "country": "Ecuador",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centro Jambatu de Investigaci\u00f3n y Conservaci\u00f3n de Anfibios",
+ "country": "Ecuador",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ecuatesis",
+ "country": "Ecuador",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Superior Tecnol\u00f3gico Loja",
+ "country": "Ecuador",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Roche (Ecuador)",
+ "country": "Ecuador",
+ "types": [
+  "Company"
+ ]
+}]

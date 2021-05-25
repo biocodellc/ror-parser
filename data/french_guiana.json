@@ -1,0 +1,25 @@
+[{
+ "name": "Institut Pasteur de la Guyane",
+ "country": "French Guiana",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre Hospitalier Andr\u00e9e Rosemon",
+ "country": "French Guiana",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of French Guiana",
+ "country": "French Guiana",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Guiana Space Centre",
+ "country": "French Guiana",
+ "types": [
+  "Facility"
+ ]
+}]

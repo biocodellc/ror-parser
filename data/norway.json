@@ -1,0 +1,11317 @@
+[{
+ "name": "SINTEF",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Transport Economics",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Oslo",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian University of Science and Technology",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian Institute for Water Research",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Bergen",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Technology",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DNV GL (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute of Marine Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Troms\u00f8 - The Arctic University of Norway",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Energy Technology",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Research Council of Norway",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Stavanger",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian Institute for Air Research",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian University of Life Sciences",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nofima",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Agder",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Telenor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sintef Energi As",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "St Olav's University Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Oslo University Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Norwegian Meteorological Institute",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Marine Technology Research Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Norwegian Veterinary Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Akershus University Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Molde University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Buskerud University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haukeland University Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital of North Norway",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Norwegian School of Sport Sciences",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "OsloMet \u2013 Oslo Metropolitan University",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vestfold University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Stavanger University Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Innlandet Hospital Trust",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "\u00d8stfold Hospital Trust",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "BI Norwegian Business School",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Diakonhjemmet Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Inland Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hammerfest Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Helse F\u00f8rde",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Privatsykehuset Haugesund",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "B\u00e6rum Sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "S\u00f8rlandet Hospital Arendal",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Levanger Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gaustad Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Molde Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lovisenberg Diakonale Sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nordland Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sunnaas sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute of Occupational Health",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Telemark Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "S\u00f8rlandet Sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sykehuset i Vestfold",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Senter for Krisepsykologi",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The FRAM Centre",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Norwegian Institute of Public Health",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Polar Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cancer Registry of Norway",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Simula Research Laboratory",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nordic Institute of Dental Materials",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nordland Hospital Trust",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Takeda (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stiftelsen Norsk Luftambulanse",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Institute for Nature Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Equinor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Orkla (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ComputIT (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Christian Michelsen Institute",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for International Climate and Environmental Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Color Line (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cowi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CognIT (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian School of Economics",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fridtjof Nansen Institute",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Trade, Industry and Fisheries",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fafo Foundation",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Peace Research Institute",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Logit Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LMG Marin (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nasjonalt Kunnskapssenter for Helsetjenesten",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Malthe Winje (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mermayde",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KeraNor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kongsberg Satellite Services (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prototech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Q Free (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nor-tek",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norner (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Elektro Optikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Hydro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Computing Center",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Education and Research",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Northern Research Institute",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Geotechnical Institute",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nordic Institute for Studies in Innovation, Research and Education",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Mapping Authority",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Health and Care Services",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norsar",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vestlandsforsking",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Skanska (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sweco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fugro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Schlumberger (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sensonor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Uni Research (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Uninett (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Transport",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Statistics Norway",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Statnett (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DuPont (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ABB (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avinet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Breivoll Inspection Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AnsuR Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Actigen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agder Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Schenck Process (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jeppesen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Rural Research",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Computas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dacon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ewos Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Epleblomsten (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jotne (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Direktoratet for forvaltning og IKT",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "FMC (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microsoft (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GexCon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Social Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Yara (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mowi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innovation Norway (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intertanko (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Association of Local and Regional Authorities",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "KITH (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kongsberg Gruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HeidelbergCement (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NorChip (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nemko (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Energy Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nordic Innovation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Defence",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dustin (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Industri (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute for Cultural Heritage Research",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Shipowners' Association",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Seafood Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Water Resources and Energy Directorate",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Millab Consult (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Skretting (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Space Centre",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Metrology Service",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Prevas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Northrop Grumman (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Veterinary Centre for Contract Research and Commercial Services",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Research Institute of Stavanger",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Br\u00f8nn\u00f8ysund Register Centre",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Salsnes Filter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Renewable Energy Corporation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Environment Agency",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Stavanger Installasjon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Storvik (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seniornett",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Imenco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Polytec Research (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tel-Tek",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Geological Survey",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tordivel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tingtun (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Troux Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University Graduate Center",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vitas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "S\u00e1mi University of Applied Sciences",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00d8stfold University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Oslo School of Architecture and Design",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "MF Norwegian School of Theology, Religion and Society",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Oslo National Academy of the Arts",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Academy of Music",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian Police University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Volda University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norlandia",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Borregaard (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cerpotech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elkem (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Defence Research Establishment",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Trondheim Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Labour Movement Archives and Library",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Gen\u00d8k",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital of Southern Norway",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nordic Nanovector (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Nurses Organisation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "NordForsk",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Central Norway Regional Health Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kristian Gerhard Jebsen Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nordic Joint Committee for Agricultural and Food Research",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southern and Eastern Norway Regional Health Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Institute of Bioeconomy Research",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Cancer Society",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Metallteknikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Anteo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Athena Seafoods (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Apertus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Akershus County Council",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "APIM Therapeutics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Applica Test & Certification (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OMBE Plast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Applied Petroleum Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aventa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aptomar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00c5krehamn Tr\u00e5lb\u00f8teri (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Denofa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aseon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AksjeNorge",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Avexxin (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aksjon\u00e6rforeningen",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "2K Tools (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vinmonopolet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AKVA Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3GSolar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avfall Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aqua Bio Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aspiro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avinor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aqua Energy Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Akvaforsk Genetics Center (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3T Helse (Norway)",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AquaGen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AXTech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Morenot (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "4Subsea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ayanda (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aquadyne (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bach Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Badger Explorer (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "B\u00e6rg\u00e5rden \u00d8stre Enger (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AT Skog",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Alcoa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alcontrol Laboratories (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alere (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "657 Oslo",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "7Sense Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aquafarm Equipment (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AquaFence (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alfa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Baker Hughes (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alfsen og Gunderson (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aqualine (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "A-Lifting (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Balter Medical (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bama Gruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AquaScan (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bayer (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aquastructures (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Algaetech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Barco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pelias Norsk Skadedyrkontroll (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Atkins (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AlgiPharma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aquatic Concept group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ATM Brovig (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aanderaa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Labour and Welfare Administration",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Aarbakke Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Atmel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bartec Pixavi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Allskog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Abalonyx (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association of Vocational Rehabilitation Enterprises",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bass (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AudioPlus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Abbon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BesteBakken",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Abelia",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Labour Inspection Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Aurland Naturverkstad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Abilia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Coperiosenteret",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Archer (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lyse (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Abyssus Marine Services (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Accenture (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "B\u00e5tservice (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seagarden (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TGS (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Beck Engineering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arctic Nutrition (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arctic Pharma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ericsson (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amedia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acona (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ArcticZymes (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acoustics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AnaCon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ArcusGruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bellona Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ActionPhoto International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "And\u00f8ya Space Center",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Benteler (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vizrt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergen Energi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adalia Film (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nexans (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Argus Remote Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adigo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergen Kommune Byr\u00e5dsavd for Helse og Omsorg",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Animalia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arkitektbedriftene (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergen Teknologioverf\u00f8ring (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Felleskj\u00f8pet Agri (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arkitektskap (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Admincontrol (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Animaze Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergen Science Center",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Arkitektur og Byggteknikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Anlegg Bolig R\u00f8r & Varme AS (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BerGenBio (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Autronica Fire and Security (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Archives Services of Norway",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ansgar Bibelskole",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Admit (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergene Holm (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jaeder (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geno (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adresseavisen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biolink Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergens Rederiforening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BioMar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Data Respons (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BW Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aibel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Artec Aqua (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biomega (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biomolex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Biochemical (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aftenposten (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bionor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Delprodukt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aga Halibut",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Board of European Students of Technology",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Agder Energi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fiskevegn (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Green Cube Management (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Betonmast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hadeland Glassverk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bevital (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AGR Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biosense Laboratories (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BEWi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute of Emotion-focused Therapy",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agromilj\u00f8 (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Torvald Klaveness (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biblioteksentralen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biosergen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Marex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AgroNova (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bulldozer Film (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avdeling for Utdanning Nord-Tr\u00f8ndelag Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "BioBag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biota Guard (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Business Region Bergen",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Biobe (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ak. Grieg Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BiotaTools (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Buskerud County Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Biochos (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biotec Pharmacon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Confederation of Norwegian Enterprise",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Akademika (Norway)",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Biotechnology Advisory Board",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Biovotec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "C-NAV (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biogrid (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "C10 Pharma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biowater Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "C6 Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Commitment (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "C-Feed (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Calanus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bj\u00f8rnson (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Calcus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Completion Technology Resources (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Computer Society",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Calora Subsea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergenshalv\u00f8ens Kommunale Kraftselskap (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Calpro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Emballasjeforeningen",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Calysta (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Medical Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cambi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "H\u00f6egh LNG (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bl\u00e5st Film (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Doble (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Comptel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Docmap (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Blue Planet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rolls-Royce (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Computer Applications and Quantitative Methods in Archaeology",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "DOF Subsea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Camo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Con-Form (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dolphin Interconnect Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BNW-Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Campus Kristiania",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Boa Offshore (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CondAlign (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Conexus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Domos (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Capgemini (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00d8rsted (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Connect LNG (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Capia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Connect",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cappelen Damm (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Farmers' Union",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dovre (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Capwell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Conpart (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dpcom (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Borginnovasj (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cardiaccs (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Consafe Logistics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dr.Techn.Olav Olsen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Drammen Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian State Railways (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cautus Geo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Coop Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "JB Well Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Botngaard (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Celerway Communication (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CellCura (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sekal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Designit (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CoorsTek (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BP Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ceragon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Queen Maud University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "CoreAll (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Brady (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mitsubishi Corporation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal Norwegian Society of Sciences and Letters",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Statped",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Corentium (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Drug Discovery Laboratory (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cerpus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Due Milj\u00f8 (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Consortium of European Social Science Data Archives",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Breeze (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Duverden (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CFD Marine (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cflow Fish Handling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Corticalis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norges Vel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dynatec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dynavec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Changetech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BRI Offshore (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dynea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cova (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bring (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chiron (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "E Plug (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CrayoNano (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Bible Society",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CreoTech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "E-CO Energi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Crevi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EAB Engineering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Br\u00f8drene Dahl (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chriship (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Nobel Institute",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Brunvoll (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslo Centre for Interdisciplinary Environmental and Social Research",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Forestry Society",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Brusell Communications (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Crisis Training",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "City Motion (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Brynsl\u00f8kken (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Csub (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eco Inhibitors (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Trotting Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ClampOn (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cubility (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BT Signaal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clarity Water Treatment Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cultura Bank",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cupp Computing (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bull Ski & Kajakk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ECOsubsea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clean Marine (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boligbygg Oslo KF",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cybernetica (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ecotone (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clavis Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cytovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Academy of Science and Letters",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Praktisk-Teologiske Seminar",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Clean Silicon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Devoteam (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elliptic Labs (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clearwater Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Compello (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rogaland County Council",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Evry (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CLS Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elop (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "eDrilling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Co-action Publishing (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ferd (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elotec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elretur (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Edtech Foundry (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CO2-Norway (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cobuilder (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Didac (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CodeIT (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trondheim-Fjord Rivers",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dans i Skolen",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Colifast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DigiDoc Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Comet Biotech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dignio (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electromagnetic Geoservices (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Commfides Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dataloy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Emisoft (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Davvi Girji (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Encap Security (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Douchebags (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dinamo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Ocean Discovery Program",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dips (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Energy Norway",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Energy Farm",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian National Research Ethics Committees",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "DeAmp (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DeepOcean (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inland Norway Energy Agency",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Directorate for Cultural Heritage",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "EnergiUnion (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deep Sea Anchors (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordly Holding (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ener-G (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Defa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Direktoratet for \u00f8konomistyring",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Oslo Public Library",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Evac (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Delitek (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Evidensia Oslo dyresykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Deltagruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u2028Energy Dynamics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EnergyNest (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Expology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fredrikstad Energi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eyasys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fish Pool (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eyde-Nettverket",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "EyeLife (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Enhanced Drilling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fishbones (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Isola (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fabriscale Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sj\u00f8mat Norge",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Friskg\u00e5rden (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fiskeriforum Vest (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fronteer Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fjellstrand (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vigmostad & Bj\u00f8rke (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fronter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Faktotum Informasjon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Enoco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Frost Produkt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fjord IT (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "En\u00f8k-Senteret (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fjord Marin (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Falck Nutec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ENOVA (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fanbooster (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fjordforsk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Enovate (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fjordland (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EnSol (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fatland (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Environgas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Faveo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Landbruksr\u00e5dgiving",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Flapres (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Feed Control (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flatsetsund Engineering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Feedback Aquaculture (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Made for Movement (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flexit (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flow Design Bureau (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flowtec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Funcom (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Danaher (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Epsis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Felleskj\u00f8pet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Equator Aircraft Norway",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fupe Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Furore film (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eramet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Food Safety Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Grieg Seafood (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Future Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Erichsen & Horgen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Halden Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Future Subsea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forbrukerr\u00e5det",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "FORCE Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "County Governor of Nordland",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ernst-B. Johansen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FEM Engineering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forget-Me-Not (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "S\u00f8r-Tr\u00f8ndelag County Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "County Governor of Sogn og Fjordane",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fornebu Consulting (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ferrx (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Genderguide (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forskerfabrikken",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gena",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fesil (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forskning.no (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tine (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslotech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Etac (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Narvik Science Park",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Figgjo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finance Norway",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eurofins (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Armed Forces",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "General Electric (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Findus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fortum (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnmarkssykehuset",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Digital Insight (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gce Node Service (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Society for Medical Informatics",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Gavita (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forus N\u00e6ringspark (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finsbr\u00e5ten (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GKN (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gastronomisk Institutt",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FiReCo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ForzaSys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gl\u00e5mdal Regionr\u00e5d",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Glamox (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dr\u00e4ger (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glen Dimplex Nordic (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gassco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GasPlas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glencore (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gartnerhallen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Firmenich (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glommen Skog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Torghatten (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GlucoSet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GlycaNova (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Go Mobile (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "First Scandinavia",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "FourC (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fraktefart\u00f8yenes Rederiforening (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Goodtech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alfa Laval (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Graminor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gran Tre (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gaidaros Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hermes Academic Publishing and Bookshop (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Graphene Batteries (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "G3 Ungplanter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fredrikstad Dyrehospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "G&T Septech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hexagon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grenland Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GeneSeque (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Genetic Analysis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "High Density Devices (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GridSky Software (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsvin (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Genomar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gentian (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grieg Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hydrolift (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hynor Lillestr\u00f8m (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gr\u00f8nt Punkt Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nui (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hyperthermics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grove Knutsen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geograf (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hypet Data (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geomatics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hystorsys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geomatikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "I-Sea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GeoPlayGround (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gether (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ibsentelecom (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gr\u00fcnderskolen Alumni",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nortura (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eureka Pumps (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IC Targets (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gintel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GOE-IP (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gjemnes Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bergen Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hermetikken N\u00e6ringshage",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Industrial Control Design (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gjerdrum kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "GS1 Norway",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gj\u00f8co (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ICT Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Holmens (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gudbrandsdalsmat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HomeControl (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Idex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ko-Aks (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Idrettssenteret (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austevoll Seafood (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GK (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Industriell Design og Teknologi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gursk\u00f8y (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Idteq (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inspiria Science Center",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "iExcel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aschehoug (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "H. J. Kyvik (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hordaland County Council",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "H. Henriksen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EFD Induction (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hacienda (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hafenstrom (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institutt for Grafiske Medier",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hafslund (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IKM Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hornindal Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Effect Ships International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tana Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "\u00c5mot Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fjell Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Municipality of Andebu",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "H\u00f8rselslaben (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egal Teater",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Egede Instituttet",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Scandinavian Business Seating (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egersund Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hospital IT",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kirkelig Pedagogisk Senter",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eidsiva Bredb\u00e5nd (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IKT Indre Namdal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eidskog Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "IKT-Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hospital Organiser",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ICT Telemark",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International technology Alliance (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hagen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Imatis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ekornes (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Halify (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Imerso (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elecde (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hotel Ullensvang (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hallingplast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Halogen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Society for Ecological Economics",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Electrical Subsea and Drilling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Industry Media Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jomar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "L\u00f8venskiold Fossum",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Maritime Suppliers (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hammertech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Halvors Tradisjonsfisk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ipark (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Impetro International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IMPETUS Afea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hans-Petter Brathaug (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "InterMedium (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IMS Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inaq (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infrared Clinical Cancer Diagnostics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hansen Protection (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hrafn (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Harald Krogs\u00e6ter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inder\u00f8y Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hardanger Fjordfrukt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Indra Navia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HS News Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Huddlestock Capital (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Integrated Optoelectronics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Integrated Detector Electronics AS (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Human Factors (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association for Electrotechnics and Automation in Industry",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Human Factors Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "L3Harris (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hattfjelldal Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Atheno (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Human Dialog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hunton Fiber (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ispas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian State Housing Bank",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Industriplast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Insurance Process Management (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HV Plast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ITS (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Comparative Research in Human Culture",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ineos (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WhaleSafari",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hedmark County Council",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hedmark IKT (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "InflowControl (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IV Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HyBond (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hedmark Kunnskapspark",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hybrid Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Heggset Engineering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Helland M\u00f8bler (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interwell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hydal Aluminium Profiler (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intrapoint (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TechnipFMC (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intravision Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Helse M\u00f8re og Romsdal HF",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "InNano (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inven2 (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Invenia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Herbj\u00f8rn Kolstad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inventas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Western Norway Regional Health Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Inventi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kom Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IOR Chemco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innotech Solar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innova (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "J\u00e6rmuseet",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Hemne Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kongsberg Automotive (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hemnes Mekaniske Verksted (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innovation Performance (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian National Rail Administration",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Linus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jets Vacuum (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lipidx (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innoventus S\u00f8r (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Heads (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Liquiline (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innovest",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Helly Hansen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "InnSep (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lividi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Memscap (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Enghouse Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Menon Business Economics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inovyn Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "L\u00f8dingen kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "JointBiomed (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "InPhase Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Joma International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mentum (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inpower (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lofotr\u00e5det",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Inspirator (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Logiq (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Centre for Space-related Education",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Jool Capital Partner (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Semcon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mepex Consult (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kongsberg Innovasjon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "J\u00f8tul (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jotun (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Konjekt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MESH (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Narvik Sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lattix (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NHO Logistikk og Transport",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mestergruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Security Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kristiansand Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kruse Smith (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Agency for Quality Assurance in Education",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lovisenberg Diakonale H\u00f8gskole",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Metafocus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Justice and Public Security",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Oilwell Varco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lumex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lillestr\u00f8m Centre of Expertise",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "K.A. Rasmussen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metallco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nasjonalmuseet",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Bod\u00f8 Science Park (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lundes Gartneri",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Kverneland Aqua (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lundin (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kverneland Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Beisfjord Sementvarefabrikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kvinner i Skogbruket",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "K & K Designs (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Meventus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Luxo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Coastal Administration",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nattopharma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MHWirth (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LABO Mixed Realities (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kahoot (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Labrida (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kaleidoskopet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Naturbilder (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MicroA (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Laerdal Global Health",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kalkulo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nature Oil & Gas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lyngdal kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Laerdal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microbeads (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kappa Bioscience (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lyskultur",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lytix Biopharma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "M3 Helse",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "County Governor of S\u00f8r-Tr\u00f8ndelag",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "MicroTech Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Karasjok Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Macgregor Pusnes (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Karde (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Madshus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Naviaq (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "M\u00e6re Landbruksskole",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Langlee Wave Power (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kautokeino Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Magtech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Making View (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NavSys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kebony (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "M\u00e5ltidets (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lanopro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Keep-it Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miko Marine (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Other Side Studio",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kelda Drilling Controls (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Navtor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Larvik kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Church, Religion, and Worldview Research",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "NCC (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "King Oscar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Marine Constructions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Milj\u00f8kom (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Marine design (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nebb (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kings Bay (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Milj\u00f8-Teknologi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mills (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kitemill (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lebesby kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lectinect (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MiniHydro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Neorad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kjeldstad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Leif H\u00f8egh (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maritime CleanTech West",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nerg\u00e5rd (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kjeller Innovasjon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miriam (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Leiv Eiriksson Nyskaping (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kjeller Vindteknikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maritime M\u00f8bler (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miros (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nes Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Maritime Robotics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nesna Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lenvik kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Markedh\u00f8yskolen",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kjemi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mustad Autoline (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nettverk Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ler\u00f8y (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lerum (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kje\u00f8y Research & Education Center",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Network Learning Lab",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Light Emergency Stretcher Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mj\u00f8sen Skog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NewSchool",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "MarLife (Norway)",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Marna Motor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Marlo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nextera (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lid Invest (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Masiv Bygg (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nextsys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Liegruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Massefabrikken",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MMC Green Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Matpartner (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mobilarm (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Max Manus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Gartnerforbund",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Lillehammer Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Klepp Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Maxeta (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MazeMap (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kleven Maritime (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Meawallet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Geografisk Selskap",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lindum (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mobiletech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mechanix Film (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mecmar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mecsense (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mectro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Climate and Environment",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Med-Storm Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kleive Mekaniske and Industriservice (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Modum Bad \u2013 Gordon Johnsens stiftelse",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Knowit (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Aquafarms (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MedCoast Scandinavia",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Medema (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Moelven (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Mining (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Media Lunde Tollefsen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medieoperat\u00f8rene (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Quantum Computing Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Knutsen OAS Shipping (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hvorfor det",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Molde kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Learn By Motion",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Thermo Fisher Scientific (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Molde Kunnskapspark (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Seal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Hummer (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Semiconductor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Moltres (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic wildfish (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nicarnica Aviation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Hydrogen Forum",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kontali (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "North Cape Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norges Ingeni\u00f8r- og Teknologorganisasjon",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nordlaks (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordland County Council",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "MedNose (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Moods of Norway (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mektron",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "M\u00f8re Maritime (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "North Norwegian Art Center",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Melbu Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mellomrom Arkitekturpsykologi",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "MemfoACT (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Juletre (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Memor Software (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Kennel Club",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arendal Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "M\u00f8reforsking (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Asker kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norsk Kirkeg\u00e5rdsservice (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aust-Agder County Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Berg kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwea",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Oslo Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Crystals (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnmark Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Graphite (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fredrikstad Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Arts Council Norway",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Hull Club (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mosaic Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "M\u00f8re og Romsdal Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nordnorske Entrepren\u00f8rers Service Organisasjon",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Oilfield Supply",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute of Local History",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Subsea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Aviation Museum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Nordox (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Matematisk Forening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MOTECH Plasma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Matraps",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norsk Medieforskerlag",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Noryards (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SalMar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Electro Ceramics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Medisinsk Syklotronsenter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Movation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Beekeepers Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "NLA University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norges Blindeforbund",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Move About (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\ufeff\ufeffNLI Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Namnelag",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norges Fiskarlag",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Hydropower (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Golf Federation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "N\u00f8tter\u00f8y Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Association of Disabled",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "NovaBiotics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nofi Troms\u00f8 (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nova Sea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NRK (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Internal Auditors Norway",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Multiconsult (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novelda (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Sau og Geit",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norges Kystfiskarlag",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hansa Borg Bryggerier (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nome Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Head Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NorTronic (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Naturvernforbundet",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nord-Tr\u00f8ndelag Elektrisitetsverk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norboat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NTNU Social Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Federation of Norwegian Agricultural Co-operatives",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Munch Museum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Norconsult (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norskog Consulting (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NTNU Technology Transfer (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norges R\u00f8de Kors",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsk Skogmuseum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Mundal Gruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Sosiologforening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norges Sildesalgslag",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nucleus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Steel Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dolphin Geophysical (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Sveiseteknisk Forbund",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Seafood Council",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Forest Owners Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mycoteam (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Teknisk Museum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Numedalsutvikling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Myhrene (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mylifeproducts (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nunatak (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NutraQ (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pemco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Myworkout (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nygon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Solskjerming",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mustad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Academy of Technological Sciences",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "NorDan (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scatec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kainun Institutti",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Steinsvik (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norgesf\u00f4r (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NorgesGruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute of Wood Technology",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Saint-Gobain (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ocean Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OptiNose (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Business and Industry Security Council",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norgesm\u00f8llene (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Trevare",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ocean Visuals (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nammo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nokia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norhard (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute of International Affairs",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nansen Neuroscience Network",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Orkana Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Corporate Governance Board",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Water",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Orkel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plastal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norinnova (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plasto (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OceanSaver (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Orthogenics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Virkesm\u00e5ling",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Oshaug Metall (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pleat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Wax (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslo Stock Exchange",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "NorLense (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslo Cancer Cluster",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Co-opertive Housing Federation of Norway",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norli Libris (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslo Chamber of Commerce",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Polarkonsult (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NorMedia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslo Port Authority",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Normex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norr\u00f8nt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsafe (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norske Skog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "poLight (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsif",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norske Takstolprodusenters Forening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norsk Algeforening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Oslo Medtech",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsonic (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Arkeologisk Selskap",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Politiet",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "NorStella Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tomra (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NorSun (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Automatisering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Odfjell Drilling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kvalvik (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oslo Vest Rotary Klubb",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nortek (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "North Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NorthSea Container Line (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OSO Hotwater (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Centre for Design and Architecture",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "\u00d8stensj\u00f8 Rederi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Offshore Sensing (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Porolon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nortransport (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nortroll (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Porsanger Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Portahead (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Film Institute",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00d8sterdalsmia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Portal (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00d8stfold Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "POSC Caesar Association",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsk Fj\u00f8rfelag",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norway Well Solutions",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Folkemuseum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Offshore Simulator Centre (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siemens (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Mineral (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oil Tools Of Norway (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Society of Automatic Control",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "OilCraft (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Poseidon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ostfold Research (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Forening for Bildebehandling og M\u00f8nstergjenkjenning",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Posicom (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oilfield Technology Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OiW Process (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eastern Norway Research Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tannlege Ole Christian Amundsen",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Norwegian Association for Development Research",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Posten (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ostomycure (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Otech Marine Services (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Friluftsliv",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Exova Metech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00d8ksnes Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Otechos (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Otivio (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Overhalla Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "\u00d8vre Eiker Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norsk Fysisk Selskap",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "PostNord (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OWC Power (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Gjenvinning (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arendals Fossekompani (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00d8KOKRIM",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Ports Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rauma Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Hestesenter Stiftelse",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "\u00d8kologisk Spesialkorn (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AFRY (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Re Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norsk Hoppemelk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Re-Turn (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Reactive Metal Particles (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oxford Research (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rotoboost (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Olivita (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prediktor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Omega Media (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Omegatri (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prekubator (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Emerson (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Omex (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Real Alloy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OmniVision Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OxyVision (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "R\u00f8yken Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Realistforeningen",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Preline Fishfarming Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RPR Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oyatel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oncoinvent (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Onsite Treatment Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Runde Environmental Centre",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ruter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Preseria (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PaleBlue (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Panalpina (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Paper and Fibre Research Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Holta Invest (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ryfylke (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Papirbredden Innovasjon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rygge Municipality",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "RED Consulting (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PartnerPlast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Viken Skog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Saemien Sijte",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Redcord (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Safelink (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Opera Software (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Saga Welco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Redox (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PatoGen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Br. Birkeland (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Redpill Linpro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PREZIOSO Linjebygg (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Reelwell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Opinion (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pax Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Reemsys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PricewaterhouseCoopers (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PCI Biotech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oppeg\u00e5rd Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pelagic Power (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sagaplant (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oppland Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pro Analysis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00f3nin Refa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Opplysningskontoret for Meieriprodukter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regatta (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pro Barents (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OptimarStette (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regenics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Optime Subsea Services (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Optimeering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Public Roads Administration",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Proceda (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Benchmark Holdings (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Salt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Peterson (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center for Child and Adolescent Mental Health, Eastern and Southern Norway",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Salten Regionr\u00e5d",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ProduksjonsTeknologi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petoro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Produs Aqua (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petrell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Profectum (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petroleum Technology Company (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petroleumsoft (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Selfa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petrolink (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Profixio (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sel\u00f8y Undervannsservice (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Salto (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Profvet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Selvaag Gruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Semco Maritime (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Association of Economists",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Reichhold (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Agency for Development Cooperation",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sana Pharma Medical (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Expro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Semicolon",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Reime (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maritim Food (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sencel Bioinformatics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Petroleum Geo-Services (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sensocure (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Reinertsen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sandefjord Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Remora (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RemovAid (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infineon Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sensorlink (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sandvik (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pharmaq (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sensorteknikk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BASF (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pharmasum Therapeutics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prophylix Pharma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "REN (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PRORES (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regionr\u00e5det i Nord-Gudbrandsdal",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sensovann (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fjellregionen",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Regionr\u00e5det for Hallingdal",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sarsia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ReNorway (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Photocure (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SAS Cargo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wienerberger (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pipetech International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Piql (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Res Publica (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SAS Institute (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Piscada (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Advanced Study",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Protector (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Management (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ReSight (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Proteket (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scale Protection (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Parker Maritime (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scan4news (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scana (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Weatherford (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Resman (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Provista (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Planktonic (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Resonator (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plany (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Response Nordic (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scanmar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Savo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prox Dynamics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scanship (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scantrol (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Restrack (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ScanVacc (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Psykologica",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rettspolitisk Forening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "PubGene (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PXO (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Retura (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rheumatech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Quality Management Software (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association of Consulting Engineers",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Office of the Auditor General of Norway",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ICR (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "R.J.Rygg International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sea Urchin Farm (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center for Studies of Holocaust and Religious Minorities",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rimfrost (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rindalshytter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Center of Expertise",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Smartbrain (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rising Star Products (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SmartCare (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seacalx (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Council for Mental Health",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Robot Aviation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Radionor Communications (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smartcom:tv (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seadrill (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Robotic Drilling Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegain Radium Hospital Research Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Smartfish (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Robotnorge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vestfold fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ralston & Bau (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rofi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seamless (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ramboll (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Searis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seram Coatings (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Leonhard Nilsen & S\u00f8nner (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rogaland Training & Education Centre",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Seas Fabrikker (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smart Solution (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seria (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seashell (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smerud Medical Research (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Setred (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SeaSide (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RollerSafe (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smi Human (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SES Europe (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rolvsoy Metalindustri (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Serodus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smia Gjerdeprodukter (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seatower (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sero (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "R\u00f8ros Vinduer og D\u00f8rer ( Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seatrans (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Directorate of Public Construction and Property",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Seaweed Energy Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seaworks (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Statskog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sn\u00f6ball Film (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sway (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Securenok (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sheriff Film Company (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sn\u00f8gg (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stavanger Health Research (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Securo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ship Modelling & Simulation Centre",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Swix Sport (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sn\u00f8hetta (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BMS Kuhn Steel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Segel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tieto (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Symphonical (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Synthetica (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arctic Monitoring And Assessment Programme",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sypress Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Syslab International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shippingcluster (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Barratt Due",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sogn Aqua (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Systeml\u00f8sning (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bergen School of Architecture",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sogn og Fjordane Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "T&G Elektro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sogn Regionr\u00e5d",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Stiftelsen Bergensklinikkene",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tagarno Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sogndal Fotball",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Talkped (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tingvoll Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Unifeeder (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tinn kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sognefrukt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Targovax (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KRONOS (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Catch Solar Energy (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SolidTech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grid-Arendal",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tax Justice Network",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sigla (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Institute of Journalism",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Solstad Offshore (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kanvas",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Toma Mat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Solum Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sigurd L\u00f8keland (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tomax (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Solution Seeker (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kappabel",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tommen Gram Folie (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TeamTec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Simlink (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sonitor Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Simicon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sonowand (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Klar Tale",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sima (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tone Lise Academy",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "TECE Norge (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Silicon Labs (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sorbwater Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kunnskapssenter for Laks og Vannmilj\u00f8",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tech Damper (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tool Tech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Topro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "S\u00f8rlandet Boligbyggelag",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Single-Phase Power (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Simula School",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "S\u00f8rlandet Kunnskapspark",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Materialisten",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Simula Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "South Norway European Office",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "S\u00f8rlandslisten",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Simrad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SimSea (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Techni (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sikkerhetssenteret R\u00f8rvik",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Torsken kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Simtronics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "siRNAsense (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TotAl-gruppen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian National Museum of Justice",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Tectonor (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Studentsamskipnaden i Trondheim",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "SpareBank 1 Nord-Norge",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norsk Sj\u00f8matsenter",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Teddy TV (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sitma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TraceTracker (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sparebankforeningen i Norge",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "TracID (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teekay (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spartacus Forlag (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TEGma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Maritime Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Museum of Migration",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Tekna (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Polaria",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Spermatech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Transparency International Norge",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rubin",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Teknisk Lys (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seed Forum",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Spesialprodukter S\u00f8r (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Skedsmo kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Telemark Research Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Trefokus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ski kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Spider Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SpinChip Diagnostics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spiro Medical (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Det Norske Samlaget (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Treindustrien (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stiftinga For Folkemusikk og Folkedans",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Trelleborg (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stimline (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stinger Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SquareHead Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ulstein Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tresenteret",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Triad (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ultimovacs (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teknomedia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trilobite (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Storfjord Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Standard Bio (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trollhetta (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "StormGeo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Standards Norway",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Troms Kraft (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teknova",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Stangeskovene (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stranda Prolog (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Star Information Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Troms Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Str\u00f8mme Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Trolltind (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Start Norge",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Baader Food Processing Machinery (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Strongpoint (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Studix",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tidewater (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tele-Com (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Statkraft (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Subhydro (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Telemark Fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Subsea Chokes International (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Subsea Smart Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teleplan Consulting (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ulltveit-Moe Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tr\u00f8ndelag Forskning og Utvikling (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vaxxinova (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Telio (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tr\u00f8nderEnergi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tellu (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vectron Biosolutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Suldal Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tendeka (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trondheim Havn IKS",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tr\u00f8ndelags Europakontor",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fram Flora (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vedde (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Underbakke (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SunSense (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tronrud Engineering (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Veidekke (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SuperOffice (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unge aksjon\u00e6rer",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tenketanken Tau",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Unger Fabrikker (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ungt Entrepren\u00f8rskap",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Trustper (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trysil Kommune",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Verdal Inspection and Technology Center (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Svorka (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unified Messaging Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tsat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Termorens (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Svovel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Fund and Asset Management Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Warm Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TV 2 (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Securities Dealers Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Typhonix (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "W\u00e4rtsil\u00e4 (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Washington Mills (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VS Safety (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ulefos Esco (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Terratec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Texas Instruments (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VeriSat (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Association of Higher Education Institutions",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vest i Havet (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wave Propulsion (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GGG (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Urban Sj\u00f8front",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Utdanningsdirektoratet",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Xepto (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Webstudent",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Utlendingsdirektoratet",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Weifa (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Xrgia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vest-Telemarkr\u00e5det",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "XTronica (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thales (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vestdavit (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00e5gan kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Congress-Conference",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vestre Viken Hospital Trust",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Z Energi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zaptec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Quartz Corp (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valdres Folkemuseum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Vallvi (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thelma Biotel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Therma Industri (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thermtech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thinfilm (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ZEG Power (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stavanger Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Metas (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00c1rran Julevs\u00e1me Guovd\u00e1sj Lulesamisk Senter",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ZEM (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valnesfjord Helsesportssenter",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Wellcem (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zenitel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wenaas Workwear (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vestskog",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "West Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vestv\u00e5g\u00f8y Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Olav Thon (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thrace Polybulk (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tidal Sails (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VARD (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wikimedia Norge",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wilh. Wilhelmsen (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WindSim (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vardar (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WindMaster Technologies",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vard\u00f8 Barents Base (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vard\u00f8 kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hegnar Media (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wireless Instrumentation Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Varier (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vartdal Plast (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wirescan (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WiSub (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Viking Development Group (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wireless Power & Communication (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vikna Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "TideTec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Timm (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tind Technologies (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vinje Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Viscenario (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vision iO (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Visitech (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zeracryl (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Visma (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zero Emissions Resource Organisation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ziebel (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vista Analyse (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zoaring (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vista Utredning (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Visual Solutions (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vidarforlaget (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Visuray (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vitality Innovation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vitenparken",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Vitensenteret i Trondheim",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Vitensenteret Innlandet",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Vitensenteret S\u00f8rlandet",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "VivID (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Voca (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VoiceASP (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Voss Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "VitenWahl Andreas Wahl",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Haraldsplass Diakonale Sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Martina Hansens Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "\u00c5lesund Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ullev\u00e5l Sykehusapotek",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Stord hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Detec (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fluenta (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fobox (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rocksource (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ervik & S\u00e6vik (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foreningen GranittRock",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsk Kjemisk Selskap",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "N2 Applied (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agra (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PPM Robotics (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nord-Tr\u00f8ndelag FylkesKommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "OneCo (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Buddy Electric (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Skogselskapet i Oppland (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Polyform (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scanwatt (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Science and Technology Corporation (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PetroMarker (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sector Asset Management",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Namsos Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Norwegian Universities and Colleges Admission Service",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian University College for Agriculture and Rural Development",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rudolf Steiner University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian Directorate of Health",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "VID Specialized University",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of South-Eastern Norway",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "G\u00c1LDU Resource Centre for the Rights of Indigenous Peoples",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Centre for Reindeer Husbandry",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nord University",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Circumpolar Agricultural Association",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Scientific Academy for Polar Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Bjerknes Centre for Climate Research",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nordland Research Institute",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Saami Council",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Betanien University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian Defence University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Westerdals Oslo School of Arts, Communication and Technology",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Forestia (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Northern Norway Regional Health Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Revmatismesykehuset",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Drammen Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Norwegian Centre for Research Data",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ExxonMobil (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Arctic Gas Hydrate, Environment and Climate",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fontes Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsk Gastrointestinal Cancer Gruppe",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Novartis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Smerteklinikken",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Inland Norway University of Applied Sciences",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Western Norway University of Applied Sciences",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "J\u00e6ren District Psychiatric Centre",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rehabiliteringssenteret Nord-Norges Kurbad",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aleris Rosenborgklinikken",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Unilabs (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unifor",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Aust-Agder Utviklings- og Kompetansefond",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bergen Research Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dam Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CIVITA",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Development Fund",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Grieg Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Agriculture and Food",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Womens Public Health Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Regionale forskningsfond Oslofjordfondet",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cisco Systems (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Laerdal Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Government of Norway",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Letten Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BIGCCS",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norsk Revmatikerforbund",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Agriculture Agency",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nodus (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vial (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Troms\u00f8 research foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsk Ergoterapeutforbund",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Oslo Sports Trauma Research Center",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Kavli Trust",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Aqualis (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MSD (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Akupunkturforeningen",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nasjonalforeningen for Folkehelsen",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norsk Kiropraktorforening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Diabetes Association",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Pain Society",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Norwegian Pharmacy Association",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Landsforeningen Uventet Barned\u00f8d",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Physiotherapist Association",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norsk C\u00f8liakiforening",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Landsforeningen for hjerte- og lungesyke",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Betanien Hospital",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kristiansund Sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "B\u00e6rum Kommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Norwegian Medicines Agency",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Diakonhjemmet Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mats Uldal Humanitarian Foundation",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Solveig og Johan P. Sommers stiftelse",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Stavanger Akuttmedisinfond for utdanning og forskning",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Olav Raagholt and Gerd Meidel Raagholt Research Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Evjeklinikken",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institutt for Eksperimentell Medisinsk Forskning",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Directorate of Fisheries",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Culture",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Petroleum and Energy",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ranheim Paper & Board (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Board of Technology",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vest-Agder fylkeskommune",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Aker BP (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Children and War Foundation",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CO2 Technology Centre Mongstad",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Skedsmo Medisinske Senter",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kongsberg sykehus",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Trondheim Hjertesenter",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rainforest Foundation Norway",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Norwegian Centre for Violence and Traumatic Stress Studies",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Council for Open and Distance Education",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nordic e-Infrastructure Collaboration",
+ "country": "Norway",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "EAT",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Coalition for Epidemic Preparedness Innovations",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aker (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Horten Kommune",
+ "country": "Norway",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International S\u00e1mi Film Institute",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "S\u00e1mi High School and Reindeer Husbandry School",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norwegian Radiation and Nuclear Safety Authority",
+ "country": "Norway",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Roche (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norwegian Research Centre",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "DSG Technology (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biofokus",
+ "country": "Norway",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Theracule (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Helgeland Museum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Norwegian Biodiversity Information Centre",
+ "country": "Norway",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fjellhaug Internasjonale H\u00f8gskole",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Stavanger Museum",
+ "country": "Norway",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Bj\u00f8rknes University College",
+ "country": "Norway",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Akvaplan-niva (Norway)",
+ "country": "Norway",
+ "types": [
+  "Company"
+ ]
+}]

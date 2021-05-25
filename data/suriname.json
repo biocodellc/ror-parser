@@ -1,0 +1,37 @@
+[{
+ "name": "Anton de Kom University of Suriname",
+ "country": "Suriname",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academic Hospital Paramaribo",
+ "country": "Suriname",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Multi Electrical System (Suriname)",
+ "country": "Suriname",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Surinaamse Postspaarbank",
+ "country": "Suriname",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministerie van Volksgezondheid",
+ "country": "Suriname",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Polytechnic College Suriname",
+ "country": "Suriname",
+ "types": [
+  "Education"
+ ]
+}]
