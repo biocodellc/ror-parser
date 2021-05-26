@@ -6,7 +6,7 @@ Script for parsing the ROR JSON data by country.
 **This repo does not include `ror.json` file. Requires `ror.json` in order to run.**
 
 ## Data
-All JSON files in `data/` are output from the script.
+All JSON files in `data/` are output from the script. File names are organized by country code.
 
 ## ROR API
 - Latest `ror.json` can be downloaded as a .zip file from here:
