@@ -1,0 +1,22 @@
+[{
+ "name": "University Centre in Svalbard",
+ "country_code": "SJ",
+ "country_name": "Svalbard and Jan Mayen",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Svalbard Global Seed Vault",
+ "country_code": "SJ",
+ "country_name": "Svalbard and Jan Mayen",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Store Norske (Norway)",
+ "country_code": "SJ",
+ "country_name": "Svalbard and Jan Mayen",
+ "types": [
+  "Company"
+ ]
+}]

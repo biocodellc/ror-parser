@@ -1,0 +1,15 @@
+[{
+ "name": "Minist\u00e9rio da Sa\u00fade",
+ "country_code": "ST",
+ "country_name": "Sao Tome and Principe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centro Nacional de Endemias",
+ "country_code": "ST",
+ "country_name": "Sao Tome and Principe",
+ "types": [
+  "Healthcare"
+ ]
+}]

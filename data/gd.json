@@ -1,0 +1,29 @@
+[{
+ "name": "St. George's University",
+ "country_code": "GD",
+ "country_name": "Grenada",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Grenada National Organisation of Women",
+ "country_code": "GD",
+ "country_name": "Grenada",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Windward Islands Research and Education Foundation",
+ "country_code": "GD",
+ "country_name": "Grenada",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Southern Fishermen Association",
+ "country_code": "GD",
+ "country_name": "Grenada",
+ "types": [
+  "Other"
+ ]
+}]

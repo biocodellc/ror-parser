@@ -1,0 +1,22 @@
+[{
+ "name": "National University of Samoa",
+ "country_code": "WS",
+ "country_name": "Samoa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the South Pacific",
+ "country_code": "WS",
+ "country_name": "Samoa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Agriculture and Fisheries",
+ "country_code": "WS",
+ "country_name": "Samoa",
+ "types": [
+  "Government"
+ ]
+}]

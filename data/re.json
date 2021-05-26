@@ -1,0 +1,29 @@
+[{
+ "name": "University of La R\u00e9union",
+ "country_code": "RE",
+ "country_name": "Reunion",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Peuplement V\u00e9g\u00e9taux et Bio-agresseurs en Milieu Tropical",
+ "country_code": "RE",
+ "country_name": "Reunion",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ecologie Marine Tropicale des Oc\u00e9ans Pacifique et Indien",
+ "country_code": "RE",
+ "country_name": "Reunion",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Conseil R\u00e9gional de La R\u00e9union",
+ "country_code": "RE",
+ "country_name": "Reunion",
+ "types": [
+  "Government"
+ ]
+}]

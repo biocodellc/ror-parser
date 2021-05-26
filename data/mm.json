@@ -1,0 +1,631 @@
+[{
+ "name": "Ministry of Health",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University Of Medicine 1 Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yangon ENT Hospital",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mandalay University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pyay Technological University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medicine Magway",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mandalay Technological University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Computer Studies Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medicine Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yadanabon University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mawlamyine University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Veterinary Science",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yezin Agricultural University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taunggyi University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dagon University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Dental Medicine",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Arts and Culture Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Computer Studies Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medicine 2 Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yangon University of Economics",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yangon University of Education",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yangon Technological University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yangon University Of Distance Education",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yangon University of Foreign Languages",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Myitkyina University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Theravada Buddhist Missionary University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Myanmar Aerospace Engineering University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Myanmar Maritime University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of East Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taungoo Technological University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Taungoo University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Bhamo",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Traditional Medicine, Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of West Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Community Health Magway",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Public Health Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medical Technology Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medical Technology Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "West Yangon Technological University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Dawei",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Hinthada",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Hpa-An",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Kyaukse",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Lashio",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Loikaw",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Magway",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Maubin",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Meiktila",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Monywa",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Myeik",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Myitkyina",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Pakokku",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Pathein",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Sittwe",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University, Taunggyi",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nursing Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nursing Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pharmacy Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pharmacy Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "East Yangon General Hospital",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "North Okkalapa General Hospital",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "West Yangon General Hospital",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yangon Central Women's Hospital",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yangon Children's Hospital",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Dental Medicine at Mandalay",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Hmawbi",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Kyaing Tong",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Mawlamyaing",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University Panglong",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thanlyin Technological University",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Myanmar Timber Enterprise",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Myanmar Liver Foundation",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mandalay University of Distance Education",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Enlightened Myanmar Research Foundation",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Health and Sports",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Myanmar Environment Institute",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Myanmar Geosciences Society",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "American Center Yangon",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Metta Development Foundation",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Natural Resources and Environmental Conservation",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Myanmar Institute of Information Technology",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Myanmar Institute of Theology",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Management Degree College",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "U.S. Embassy in Burma",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Yangon School of Political Science",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Biodiversity and Nature Conservation Association",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Livestock Breeding and Veterinary Department",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vantage Health Solutions (Myanmar)",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University Of Information Technology",
+ "country_code": "MM",
+ "country_name": "Myanmar",
+ "types": [
+  "Education"
+ ]
+}]

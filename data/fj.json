@@ -1,0 +1,71 @@
+[{
+ "name": "University of the South Pacific",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Colonial War Memorial Hospital",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fiji National University",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Habitat for Humanity Fiji",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Fiji",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry Of Health",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Agriculture",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fiji Museum",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "iTaukei Trust Fund Board",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Development Alternatives with Women for a New Era",
+ "country_code": "FJ",
+ "country_name": "Fiji",
+ "types": [
+  "Other"
+ ]
+}]

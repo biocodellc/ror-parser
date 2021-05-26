@@ -1,0 +1,4705 @@
+[{
+ "name": "Austrian Academy of Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian Institute of Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Graz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Natural Resources and Life Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "TU Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Innsbruck Medical University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e4t Innsbruck",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Veterinary Medicine Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Salzburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Klagenfurt",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Joanneum Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Johannes Kepler University of Linz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Medical University of Graz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Voestalpine (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Institute of Molecular Pathology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Profactor (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Danube University Krems",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre for Social Innovation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vienna University of Economics and Business",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Paracelsus Medical University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Medical University of Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gregor Mendel Institute of Molecular Plant Biology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Applied Sciences Kufstein",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "FWF Austrian Science Fund",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Science and Technology Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "UMIT - Private Universit\u00e4t f\u00fcr Gesundheitswissenschaften, Medizinische Informatik und Technik",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Institute for Applied Systems Analysis",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Anstalt f\u00fcr Verbrennungskraftmaschinen List",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Environment Agency Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Leoben",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Austrian Research Promotion Agency",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sigmund Freud University Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Graz University of Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Interdisciplinary Studies of Austrian Universities",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Hospital Innsbruck",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e4tsklinik f\u00fcr Chirurgie Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Graz University Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vienna General Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Clinic of Traumatology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e4tskliniken Salzburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Landeskrankenhaus Feldkirch",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Krankenanstalt Rudolfstiftung der Stadt Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hanusch Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hietzing hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Austrian Agency for Health and Food Safety",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Krankenhaus der Elisabethinen",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kaiser-Franz-Josef-Spital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Salzburger Landeskliniken",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klinikum Klagenfurt",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Health Technology Assessment",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "St Anna Children's Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Orthopaedic Hospital Speising",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wilhelminen Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Women's General Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Otto Wagner Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Molecular Biotechnology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "CeMM Research Center for Molecular Medicine",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Wunschbaby Institut f\u00fcr Kinderwunsch",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ludwig Boltzmann Gesellschaft",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Novartis (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Allgemeine Unfallversicherungsanstalt",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Wiener Krankenanstaltenverbund",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tyrolean Cancer Research Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Atomic Energy Agency",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Baxter (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unfallkrankenhaus Wien Lorenz B\u00f6hler",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Intercell (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valneva (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Institute of Economic Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Central European Institute of Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central Institution for Meteorology and Geodynamics",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "AC2T Research (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Mobility Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Society for Systems Engineering and Automation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AustriaTech (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center for Usability Research and Engineering",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nokia (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bartenbach (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kompetenzzentrum f\u00fcr elektrochemische Oberfl\u00e4chentechnologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BearingPoint (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AMS (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Andritz (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BEST - Bioenergy and Sustainable Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biofaction (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biolution (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AEE Institute for Sustainable Technologies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BIOS Bioenergiesysteme (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Efkon (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BOC (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "B\u00f6hler Edelstahl (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Institute for Biomedical Imaging Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Brimatech (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FACC (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electrovac (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fluidtime (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bundesanstalt f\u00fcr Bergbauernfragen",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "EmergenTec (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Federal Chancellery Republic of Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Ministry for the Interior",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bundesministerium f\u00fcr Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Ministry of Science, Research and Economics",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian Energy Agency",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Forschungs- und Beratungsstelle Arbeitswelt",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Guger Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forschungs- und Technologietransfer (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Frequentis (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forschungszentrum Telekommunikation Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Spectra-Physics (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HS-Art Digital Service (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Centre for Social Welfare Policy and Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut f\u00fcr H\u00f6here Studien - Institute for Advanced Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Imagination Computer Services (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eutema Technology Management",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EV Group (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GeoVille (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infineon Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vorarlberg University of Applied Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Factum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Austrian Research Centre for Forests",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Inte:Ligand (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Applied Sciences Upper Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Interdisciplinary Centre for Comparative Research Foundation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lenzing (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ionicon Analytik (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Human Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut f\u00fcr \u00f6kologische Wirtschaftsforschung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Magna (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Natex Prozesstechnologie (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metos (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plansee (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Electric (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Natural History Museum Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Virtual Vehicle (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Know Center",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "SAIL LABS Technology (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MODUL University Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Semantic Technology Institute International",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "RHP Technology (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "O\u00d6 Energiesparverband",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sustainable Europe Research Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Melissa Food",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Federal Railways",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian National Library",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "\u00d6sterreichischer Rundfunk",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00d6sterreichisches Forschungsinstitut f\u00fcr Chemie und Technik",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Siemens (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "R\u00fcbig (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OMV (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Technikon (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "T\u00dcV (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Telekom Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vienna Institute for International Economic Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vienna Science and Technology Fund",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "TTTech Computertechnik (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Space Research Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tyrolit (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "United Nations Industrial Development Organization",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian Cooperative Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "HiTec Marketing",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Upper Austrian Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vienna Consulting Engineers (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AFRY (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BioMed zet Life Science",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "QPS (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unidost (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Max Perutz Library",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Biocrates Life Sciences (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AT&S (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biomay (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Foundry Research Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Research Institute for Artificial Intelligence",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BioNanoNet",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arge Vegetations\u00f6kologie und Landschaftsplanung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alpex Technologies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Centre of Industrial Biotechnology (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Best High Pressure & Drilling Technology (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ars Electronica Center",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Oesterreichs Energie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aerospace & Advanced Composites (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Anton Paar (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Benteler (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agilent Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austria Personal Service (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Federal Office of Metrology and Surveying",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Ministry for Education and Women",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre for Environmental Management and Decision Support",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Business Upper Austria \u2013 O\u00d6 Wirtschaftsagentur",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Altran (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CISC Semiconductor (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cemit Center of Excellence in Medicine and IT",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Elektrobit (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kulturrat \u00d6sterreich",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Carinthian Tech Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Herry Consult (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RTD Services (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ukrainian Anti Cancer Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Evercyte (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qualizyme (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FerRobotics Compliant Robot Technology (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Diamond Aircraft Industries (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Environmental Software and Services (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EOX IT Services (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "St. P\u00f6lten University of Applied Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Sciences Technikum Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fachhochschule Wiener Neustadt",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ernst Wittner (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FunderMax (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ec3 NetWorks (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fronius (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "E. Br\u00f6ll (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Science Events Association",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "IMS Nanofabrication (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hueck Folien (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "H\u00e4mosan (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Society for Environmental Protection",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut f\u00fcr Bildungsforschung der Wirtschaft",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "IC Consulenten Ziviltechniker (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Association for Cereal Science and Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "OS Alliance (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Competence Centre of Food Safety",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for the Sociology of Law and Criminology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kapsch (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Centre for Migration Policy Development",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Commission for the Protection of the Danube River",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Austrian Center for Medical Innovation and Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Isovolta (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Learning Industry Group",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Prevent Safety (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kompetenzzentrum Holz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Konrad Fischer (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Road Safety Board",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kompetente Werthaltige Ingenieurleistung (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mechatronic Systemtechnik (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MED-EL (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fuchs (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Landwirtschaftliche Fachschule Tulln",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "NanoTecCenter Weiz Forschungsgesellschaft (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Organisation for International Dialogue and Conflict Management",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Verbund (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Progis Software (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Parliament of the Republic of Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "PROJEKTkompetenz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Piezocryst (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plastic Electronic (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Repotec (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SOLID (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Studios Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Polymun (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RISC Software (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scan Messtechnik (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sico Technology (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Software Competence Center Hagenberg (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sonnenkraft (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seekda (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Semantic Web Company (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sunplugged (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Technisches Museum Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Austrian Society for Environment and Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Synyo (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thien eDrives (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Institute of Spatial Planning",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tiroler Zukunftsstiftung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Treibacher (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thales (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VRVis (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vereinigung der \u00d6sterreichischen Zementindustrie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wirtschaftsf\u00f6rderungsinstitut",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "WIGeoGIS (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wiener Stadtwerke (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wittmann (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Convent Hospital of the Brothers of Saint John of God",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Music and Performing Arts Graz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European Peace University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "IMADEC University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "IMC University of Applied Sciences Krems",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Anton Bruckner Private University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mozarteum University of Salzburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "PEF Private University of Management Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "New Design University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Arts Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Arts and Industrial Design Linz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Webster Vienna Private University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of High Energy Physics",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Anger Machining (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biobanking and Biomolecular Resources Research Infrastructure Consortium",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Austro Control (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Happy Plating (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Life Science Governance Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Komet Group (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seibersdorf Laboratories (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Varta Micro Innovation (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wasser Cluster Lunz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "StifterHaus",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "AFreeze (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bundesamt f\u00fcr Wasserwirtschaft",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Centre of Tort and Insurance Law",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bundesmobilienverwaltung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Academy of Fine Arts Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Albertina",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Filmarchiv Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Central European Society for Anticancer Drug Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "DSM (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Architekturzentrum Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Institut f\u00fcr den Donauraum und Mitteleuropa",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Archiv der Erzdi\u00f6zese Salzburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Institute for Jewish History in Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Austrian Institute of Historical Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut f\u00fcr Volkskultur und Kulturentwicklung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut f\u00fcr Wissenschaft und Kunst",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Austrian Institute for International Affairs",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Political Science Association",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BioEnergy International (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Josephinum Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic Theological Private University Linz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Initiative Minderheiten Tirol",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Museum of Applied Arts",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Kunsthistorisches Museum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Landesmuseum K\u00e4rnten",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Research Center for Non Destructive Testing (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian State Archives",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian Museum of Folk Life and Folk Art",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "P\u00e4dagogische Hochschule Salzburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pflanzensoziologische Institut",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polymer Competence Center Leoben (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Society for Cybernetic Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "SBA Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Music and Performing Arts Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sony Digital Audio Disc Corporation (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Verein f\u00fcr Geschichte der Arbeiterbewegung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Austrian Association of Women Artists",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Verlag Holzhausen (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vienna Wiesenthal Institute for Holocaust Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tirol Kliniken",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wolfgang Pauli Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wolf Science Center",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Austrian Research Agency for Post-War Justice",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "University of Applied Sciences Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universities of Applied Sciences Joanneum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Salzburg University of Applied Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Carinthia University of Applied Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Sciences Burgenland",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "BioTechMed-Graz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Campus Science Support Facilities",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "AFFiRiS (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tyrolean State Museums",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "National Bank of Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Austrian Agency for International Cooperation in Education and Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Wings for Life",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Abwasserverband Achental-Inntal-Zillertal",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Federal Ministry for Transport, Innovation and Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "CAMPUS 02 University for Applied Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Cancer Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Experimental and Clinical Traumatology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institut f\u00fcr Epilepsie und Neuromuskul\u00e4re Erkrankungen",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Age Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann f\u00fcr Klinische Neurobiologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Retinology and Biomicroscopic Laser Surgery",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Cluster for Cardiovascular Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Climate and Energy Fund",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vorarlberger Landesbibliothek",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Austrian Development Agency",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Society of Radiology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Krankenhaus der Elisabethinen",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Christian Doppler Klinik",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Krankenhaus der Barmherzigen Schwestern",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Karl Landsteiner University of Health Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e4tsklinikum St. P\u00f6lten",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klinikum Wels-Grieskirchen",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universities Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rudolfinerhaus Hospital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Unfallkrankenhaus Meidling",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e4tsklinikum Tulln",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Krankenhaus Oberndorf",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute of Human Rights",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Austrian Polar Research Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Max F. Perutz Laboratories",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Danube Private University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of National Defence and Sport",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Catholic University College of Education Graz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Music and Arts University of the City of Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lauder Business School",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Private University College of Education of the Diocese of Linz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Seeburg Castle University",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pedagocial University Tyrol",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University College for Agrarian and Environmental Pedagogy",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "P\u00e4dagogische Hochschule Viktor Frankl Hochschule",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Sciences Tyrol",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University College of Teacher Education of Christian Churches Vienna/Krems",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Teacher Education Styria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Sciences bfi Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Sciences the health professions Upper Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fachhochschule f\u00fcr Management & Kommunikation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "P\u00e4dagogische Hochschule Burgenland",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "P\u00e4dagogische Hochschule Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "P\u00e4dagogische Hochschule Nieder\u00f6sterreich",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kirchliche P\u00e4dagogische Hochschule Edith Stein",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "P\u00e4dagogische Hochschule Vorarlberg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Austrian Archeological Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Bank f\u00fcr Tirol und Vorarlberg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Landesschulrat f\u00fcr Tirol",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fonds Gesundes \u00d6sterreich",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "OPEC Fund for International Development",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut f\u00fcr Kultur- und Geistes\u00adgeschichte Asiens",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Carinthian Economic Promotion Fund",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fraunhofer Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Clinical Investigation Support (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Space Policy Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Barmherzige Schwestern vom heiligen Kreuz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "GrAT - Center for Appropriate Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Liquifer Systems Group (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ottobock (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vienna Centre for Societal Security",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Christian Doppler Research Association",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Society of Dermatology and Venereology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u00d6sterreichische Gesellschaft f\u00fcr H\u00e4matologie & Medizinische Onkologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wikimedia \u00d6sterreich",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Erich Schmid Institute of Materials Science",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "CIVIDEC Instrumentation (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Center Pharmaceutical Engineering (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Atlas Copco (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "American Superconductor (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CNH Industrial (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Imerys (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universalmuseum Joanneum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "MAS Alzheimerhilfe",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mediacult",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "DCS Computing (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arge \u00d6kologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Statistics Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dynea (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eaton (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hoerbiger (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hewlett-Packard (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Knorr-Bremse (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Liebherr (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Anton Proksch Institut",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Urban and Regional Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Chamber of Labour",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institut f\u00fcr Salutogenese",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kepler Universit\u00e4tsklinikum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Practical Robotics Institute Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vienna Biocenter",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mahle (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Toshiba (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lam Research (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Materials Center Leoben (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TeleConsult Austria (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miba (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nuance Communications (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sandvik (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scientific Games (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deutsche Telekom (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TRUMPF (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TE Connectivity (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zumtobel Group (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Union of Immunological Societies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Quantum Optics and Quantum Information Innsbruck",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Acoustics Research Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Austrian Centre for Digital Humanities and Cultural Heritage",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Comparative Media and Communication Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for European Tort Law",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Interdisciplinary Mountain Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Medieval Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Habsburg and Balkan Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Oriental and European Archaeology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Social Anthropology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for the Study of Ancient Culture",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Culture Studies and Theatre History",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of History of Art and Musicology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Iranian Studies",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Technology Assessment",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Johann Radon Institute for Computational and Applied Mathematics",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Stefan Meyer Institute for Subatomic Physics",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Vienna Institute of Demography",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Arbeitsgemeinschaft medikament\u00f6se Tumortherapie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AOP Orphan (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Breast & Colorectal Cancer Study Group",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Apeptico (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biotest (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Croma Pharma (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyathus Exquirere (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EB House Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "EVER Neuro Pharma (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gerot Lannach (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gebro Pharma (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for COPD And Respiratory Epidemiology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Montavit (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nabriva Therapeutics (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universit\u00e4tsklinik f\u00fcr Hals-, Nasen- und Ohrenkrankheiten",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Octapharma (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sanochemia Pharmazeutika (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roche (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sterreichisches Akromegalie Register",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Unfallkrankenhaus Salzburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Themis Bioscience (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vienna Institute for Research in Ocular Surgery",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Zytoprotec (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Allergiezentrum Wien West",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Green Beat (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Landesklinikum Korneuburg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "KiloCoach (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nuhr Medical Center",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St.Anna Kinderspital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Siesta Group (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Borealis (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Economics Center",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kurt G\u00f6del Society",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Julius Blum (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Solvay (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Primetals Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plasser and Theurer (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nitsch Foundation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Amer Sports (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RHI Magnesita (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sanofi (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Donauspital",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Geological Survey of Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "International Dialogue Centre",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vorarlberg Museum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Austrian Marshall Plan Foundation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nationalstiftung f\u00fcr Forschung Technologie und Entwicklung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Steirische Wirtschaftsf\u00f6rderung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Society of Cardiology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bundesministerium f\u00fcr Familien und Jugend",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Government of Lower Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "International Union of Forest Research Organizations",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Union of Nutritional Sciences",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Linz Center of Mechatronics (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Fistball Association",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Government of Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Complexity Science Hub Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "FCC Austria Abfall Service AG",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chemopharma (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bio Forschung Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Swietelsky (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dr. Peithner KG (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Karl Landsteiner Society",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Marinomed Biotech (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gelenkpunkt",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "MSD (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Central European Cooperative Oncology Group",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "European Association of Nuclear Medicine",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bionorica (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innovacell Biotechnologie (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pfizer (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vinforce",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "AGO Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Universit\u00e4tszahnklinik Wien",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "BrustGesundheitZentrum Tirol",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e4tsklinik f\u00fcr Neurologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e4tsklinikum Krems",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universit\u00e4tsklinik f\u00fcr Frauenheilkunde und Geburtshilfe",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vienna School of Clinical Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vienna Challenge Chamber",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Lung Vascular Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute for Translational Heart Failure Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute of Electrical Stimulation and Physical Rehabilitation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institut Health Promotion Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cardiovascular and Interventional Radiological Society of Europe",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Arbeitsgemeinschaft f\u00fcr Klinische Ern\u00e4hrung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "\u00d6sterreichische Gesellschaft f\u00fcr Hypertensiologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "\u00d6sterreichische Gesellschaft f\u00fcr Parodontologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Austrian Atherosclerosis Society",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "\u00d6sterreichische Diabetes Gesellschaft",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "\u00d6sterreichische Gesellschaft f\u00fcr Pneumologie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tauern Hospital Zell am See",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Medalp Imst - Zentrum f\u00fcr ambulante Chirurgie Betriebs",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital of the Brothers of St. John of God",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Academy of Neurology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Abbott (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geriatrische Gesundheitszentren",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Debra",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Apomedica (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Albert Schweitzer Klinik",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Crohn's and Colitis Organisation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ludwig Boltzmann Cluster Arthritis and Rehabilitation",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ludwig Boltzmann Institute of Osteology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nieder\u00f6sterreichischer Gesundheits- und Sozialfond",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "\u00d6sterreichische Gesellschaft f\u00fcr An\u00e4sthesiologie, Reanimation und Intensivmedizin",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "SeneCura Kliniken und Heime (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IVF Centers Prof. Zech",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "SteadySense (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universit\u00e4tsklinik f\u00fcr Kinder und Jugendpsychiatrie",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "INiTS (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interdisciplinary Research Centre for Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Institute for European and Security Policy",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Austrian Standards",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Energieinstitut Vorarlberg",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Institute for Information Design",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u00d6sterreichische Lateinamerika-Institut",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Institute of Ecology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federal Ministry of Education, Science and Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Ministry of Justice",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Ministry of Social Affairs, Health, Care and Consumer Protection",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bundesrechenzentrum (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Der \u00d6sterreichische Weinbauverband",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bundesamt f\u00fcr Weinbau",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "HBLFA Tirol",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Federal Institute of Agricultural Economics",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "HBLFA Raumberg-Gumpenstein",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bundesministerium f\u00fcr Nachhaltigkeit und Tourismus",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "International Commission on Illumination",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "H\u00f6here Bundeslehranstalt und Bundesamt f\u00fcr Wein- und Obstbau",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tgm",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bundesverband Photovoltaic Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Resource Management Agency",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Austrian Centre for Electron Microscopy and Nanoanalysis",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Bertalanffy Center for the Study of Systems Science",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cerner (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "B\u00fchler (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AiGameDev.com (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FAO/IAEA Agriculture and Biotechnology Laboratories",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "RIKA (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vienna Center for Quantum Science and Technology",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Renewable Energy and Energy Efficiency Partnership",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Association for Robots in Architecture",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Center For Biomarker Research In Medicine",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Solid Waste Association",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vienna Institute for Urban Sustainability",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Diplomatic Academy of Vienna",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Management Center Innsbruck",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nawi Graz",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Salzburg Global Seminar",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sigmund Freud Museum",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Jesuiten",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eliette and Herbert von Karajan Institute",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Open Acting Academy",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Austrian Foundation for Development Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Austrian Electrotechnical Association",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Viscovery Software (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gesundheit \u00d6sterreich",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gesundheitszentrum Oberndorf",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vienna Institute for Nature Conservation & Analyses",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Keysight Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gespag",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zentrum f\u00fcr Seelische Gesundheit",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Georesearch Forschungsgesellschaft",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bruker (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Red Cross",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Procomcure Biotech (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Waldrappteam",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vienna City Library",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Zentrum f\u00fcr Erinnerungskultur und Geschichtsforschung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "United Nations Office on Drugs and Crime",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Takeda (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Austrian Physical Society",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "LKH Hochsteiermark",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Swarco (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wienerberger (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Education Upper Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Amann Girrbach (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Apeiron Biologics (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agency for Medical Innovations (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KDZ - Centre for Public Administration Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Centre for Archival Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Haus der Natur - Museum f\u00fcr Natur und Technik",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "W&H (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MedAustron",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Alpine Quantum Technologies (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Engineering Software Steyr (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VASP Software (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VitreaLab (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Silicon Austria Labs (Austria)",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Economica",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agency for Quality Assurance and Accreditation Austria",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian Institute for SME Research",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Meteoceanics Institute for Complex System Science",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Austrian Council for Research and Technology Development",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Austrian Mathematical Society",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "\u00d6sterreichisches Institut f\u00fcr Berufsbildungsforschung",
+ "country_code": "AT",
+ "country_name": "Austria",
+ "types": [
+  "Facility"
+ ]
+}]

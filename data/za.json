@@ -1,0 +1,3263 @@
+[{
+ "name": "Council for Scientific and Industrial Research",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Cape Town",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Western Cape",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Witwatersrand",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Stellenbosch University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of KwaZulu-Natal",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "North-West University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pretoria",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rhodes University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Limpopo",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cape Peninsula University of Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Durban University of Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nelson Mandela University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Free State",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tshwane University of Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Walter Sisulu University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Venda",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Johannesburg",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Fort Hare",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Addington Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Grey's Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Groote Schuur Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Health & Medical Publishing Group",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aurum Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hlabisa Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chris Hani Baragwanath Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Edendale Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Johannesburg Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South African Medical Research Council",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Frere Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "King Edward VIII Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Helen Joseph Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "GF Jooste Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "R. K. Khan Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Milpark Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Red Cross War Memorial Children's Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South African Institute for Medical Research",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute for Occupational Health",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Health Laboratory Service",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Netcare Sunninghill Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wentworth Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tygerberg Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Human Sciences Research Council",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cape Shoulder Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Brain Research Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sports Science Institute of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sasol (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Department of Science and Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Research Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Organisation for Research and Training in Cancer",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Childline South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Central University of Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre for Community Justice and Development",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for the AIDS Programme of Research in South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Agricultural Research Council of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Deciduous Fruit, Vines and Wine",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ibis Reproductive Health",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute for Security Studies",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mosaic",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mangosuthu University of Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Project Empower",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Restorative Justice Centre",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sonke Gender Justice",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Thohoyandou Victim Empowerment Programme",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sabinet (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Council for Geoscience",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Soul City Institute for Health & Development Communication",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of Health",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Transnet (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TB HIV Care Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Netcare Jakaranda Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Port Elizabeth Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Weskoppies Psychiatric Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bronberg Observatory",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "IMM Graduate School of Marketing",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Production Management Institute of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Damelin",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Management College of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Regent Business School",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Greenside Design Center College of Design",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Regenesys Business School",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South African College of Applied Psychology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Zululand",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St Augustine College of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Foundation for Professional Development",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Open Window School Of Visual Communication",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Milpark Education",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South African School of Motion Picture Medium and Live Performance",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Midrand Graduate Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cranefield College",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Independent Institute of Education",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Da Vinci Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vaal University of Technology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Centre for Genetic Engineering and Biotechnology",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Animal Production Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sol Plaatje University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sicambeni Rural University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mpumalanga",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AngloGold Ashanti (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Government of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "South African National Space Agency",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Anova Health Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Square Kilometre Array",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BroadReach Healthcare (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "African Institute for Mathematical Sciences",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Endangered Wildlife Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dyer Island Conservation Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Environmental Affairs",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kalahari Meerkat Project",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Iziko Museums of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "National Museum",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "M\u00e9decins Sans Fronti\u00e8res",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "South African National Biodiversity Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Onderstepoort Veterinary Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Shark Spotters",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Scientific Services",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Water Research Commission",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Poliomyelitis Research Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Claude Leon Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Arts Council of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "South African Thoracic Society",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arts and Culture Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sibanye Gold (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sefako Makgatho Health Sciences University",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bambisana Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bedford Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bhisho Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Burgersdorp Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Butterworth Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cala Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Canzibe Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bedford Orthopedic Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cathcart Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cecilia Makiwane Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cloete Joubert Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cofimvaba Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cradock Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Denmar Specialist Psychiatric Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dora Nginza Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dordrecht Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dr George Mukhari Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Duncan Village Day Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Elizabeth Donkin Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Elliot Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Empilisweni District Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fort Beaufort Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fort England Psychiatric Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fort Grey TB Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Frontier Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Glen Grey Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Grey Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hewu Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Indwe Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jamestown Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jose Pearson TB Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kalafong Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Komga Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Onderstepoort Veterinary Academic Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lady Grey Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "P.Z. Meyer Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Life Groenkloof Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Livingstone Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "S.S. Gida Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Maclear Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Settlers Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Madwaleni Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Somerset Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Madzikane Ka Zulu Memorial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Barnabas Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Martje Venter Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Midlands Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Elizabeth Mission Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Francis Chronic Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mjanyana Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Molteno Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Lucy's Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Patrick's Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mount Ayliff Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mthatha General Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sterkstroom Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Steve Biko Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nelson Mandela Academic Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Steynsburg Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Stutterheim Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nkqubela Chest Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tafalofefe Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tayler Bequest District Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nompumelelo Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tower Psychiatric Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Umlamli Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Valkenberg Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Victoria Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aberdeen Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wilhelm Stahl Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zithulele Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Adelaide Provincial Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zuid-Afrikaans Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aliwal North Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "All Saints Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Andries Vosloo Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "B.J. Vorster Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Helderberg College",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "iThemba Laboratory",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Agincourt Health and Socio-Demographic Surveillance System",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Academy of Science of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Africa Society for Blood Transfusion",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "WorldWide Information Services",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "African Association of Remote Sensing of the Environment",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Explosives (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agama Energy (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AIDS Foundation of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Soil, Climate and Water",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Assore (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Anglo American (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CareWorks",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Consumer Goods Council of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "De Beers (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deltamune (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EThekwini Municipality",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "e-Waste Association of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Desmond Tutu HIV Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Community Media Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Epicentre (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eskom (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Food, Agriculture and Natural Resources Policy Analysis Network",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "EcoMetrix Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geoterra Image (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Education Labour Relations Council",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "GS1 South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Flower Valley Conservation Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Health Science Academy (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EIS AFRICA",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Golder Associates (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health Systems Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ICLEI - Local Governments for Sustainability Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Illovo Sugar (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infusion (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Natural Resources",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ICSU Regional Office for Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ISS International (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jembi Health Systems",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Market Matters",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Grounded Media",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kamiesberg Local Municipality",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Microchem (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kheth\u2019Impilo",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "MultiMedia InnoVations (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nama Khoi Local Municipality",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nano Energy (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mintek",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Department of Arts and Culture",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Wool Growers Associations of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Correctional Services",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Philanjalo",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pikitup",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Research Research (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shout It Now",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "South African Nuclear Energy Corporation (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Southern African Clothing & Textile Workers\u2019 Union",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African Weather Service",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southern African NGO Network",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Southern African Catholic Bishops Conference",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Scripture Union",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Southern African Research and Innovation Management Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Business Coalition",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sappi (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "St. Mary\u2019s Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sophumelela Centre",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South African Association for Marine Biological Research",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rainman Landcare Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African Democratic Teachers Union",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Agriculture, Forestry and Fisheries",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Section27",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African Institute of Tax Practitioners",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "South African National AIDS Council",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Southern African Aids Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South African National Blood Service",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "South African National Energy Development Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Re Action",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African National Parks",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Technoscene (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deutsche Telekom (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "South African Holocaust and Genocide Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Talbot & Talbot (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "South African San Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Perinatal HIV Research Unit",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Umvoto Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "TogaLabs (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ubuntu Education Fund",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "WAM Technology (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Umgeni Water Amanzi",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "WR Nyabeze & Associates (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Omnia (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Youth for Christ South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Colleges of Medicine of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "City of Cape Town",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "L&S Consulting (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Western Cape Department of Health",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dr Maliso Mphele Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Africagrowth Institute (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gauteng Department of Agriculture and Rural Development",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Development Bank of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "African Federation for Emergency Medicine",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Citrus Growers Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cancer Association of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Winter Cereal Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Heritage Council",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Baptist Theological College of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lyceum College",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bayworld Centre for Research and Education",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "HOPE Cape Town Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hartebeesthoek Radio Astronomy Observatory",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Society for Endocrinology, Metabolism and Diabetes of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Association of Women Graduates",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Southern Africa Association for the Advancement of Science",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Association for Progressive Communications",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Monash South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South African Heart Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Wikimedia ZA",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Element Six (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cape Leopard Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Climate Resilience Infrastructure Development Facility",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sandvik (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Association of African Business Schools",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Desmond and Leah Tutu Legacy Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cape Town HVTN Immunology Laboratory / Hutchinson Centre Research Institute of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gateway Health Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Praekelt Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federation of Infectious Diseases Societies of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Southern Africa Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Library of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Sustainability Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Global Call to Action Against Poverty",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mylan (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Karl Bremer Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Netcare Unitas Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Optimed Eye and Laser Clinic",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Setshaba Research Centre",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African Tuberculosis Vaccine Initiative",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Absa Bank (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Carl & Emily Fuchs Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Trade and Industry",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "AfricaBio",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Fertilizer and Agribusiness Partnership",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Development and Enterprise",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "FinMark Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Clinvet",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Collaborative Africa Budget Reform Initiative",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Khanyisa Projects",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African Institute for Distance Education",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "McCord Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Conversation Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gift of the Givers Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Kidney Foundation of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Physiology Society of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Open Society Foundation for South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Right to Care",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Telkom (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IBM Research - Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Sugar Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Donald Woods Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Citrus Research International",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Geographical Union",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Palaeontological Scientific Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Treasury",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "South African Veterinary Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Winetech (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Southern African Institute of Mining and Metallurgy",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Impact Instruments (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hebron Theological College",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South African Theological Seminary",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Africa Health Research Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nestl\u00e9 (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Bioproducts Institute (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dermatology Society of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African Society of Anaesthesiologists",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vascular Society of Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Brooklyn Chest Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Stanger Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AIDS Healthcare Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Small Enterprise Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Task Applied Science",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Respiratory and Meningeal Pathogens Research Unit",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Metrology Institute of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute for Theoretical Physics",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Wellcome Centre for Infectious Diseases Research in Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Climate and Development Knowledge Network",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Conservancies KZN",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Medical Oncology Centre of Rosebank",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mpumalanga Deparment of Health",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Regional Inter-agency Task Team on Children and AIDS",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Smuts House Museum",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Southern African Social Policy Research Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sustainable Livelihoods Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mikhulu Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Thusanani Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tygerberg Children\u2019s Hospital",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Anglo-Boer War Museum",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Akademie Reformatoriese Opleiding en Studies",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Umalusi",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Molteno Institute for Language and Literacy",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sedibeng TVET College",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Council on Higher Education",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Keleketla Library",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "South African Council for Planners",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South African History Archive",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Afesis-Corplan",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for AIDS Development, Research and Evaluation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Environmental Rights",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Higher Education Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Rural Legal Studies",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for the Study of Violence and Reconciliation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Equal Education Law Centre",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Equal Education",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hlanganisa Institute for Development Southern Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Economic Policy Research Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Alliance on Natural Resources in Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Isandla Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nkuzi Development Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mapungubwe Institute for Strategic Reflection",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ndifuna Ukwazi",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Public Affairs Research Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Section 27",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sex Workers Education & Advocacy Taskforce",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Studies in Poverty and Inequality Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sue Mbaya & Associates (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Planact",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Leadership Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The African Safari Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ubuntu Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Socio-Economic Rights Institute of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Inyathelo: The South African Institute for Advancement",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wheat Trust",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Young Africa FOUNDATION",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Science Spaza",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cape Town Science Centre",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "South African Radio Astronomy Observatory",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Reserve Bank",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tertiary Research and Education Network of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "South African Sugarcane Research Institute",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mandela Institute for Development Studies",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Browns' School",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Protein Research Foundation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "South African Institute for Aquatic Biodiversity",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Zoological Gardens of South Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "South African Environmental Observation Network",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Agency for Science and Technology Advancement",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Armscor (South Africa)",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infection Control Africa Network",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Johannesburg Wildlife Vet",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Samson Institute For Ageing Research",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "LEAP Science and Maths Schools",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South African Institute of International Affairs",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "South African Medical Association",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Electoral Institute for Sustainable Democracy in Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research ICT Africa",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Global Dialogue",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "African Centre for the Constructive Resolution of Disputes",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Twende Mbele",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Justice and Reconciliation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "SouthSouthNorth",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mabula Ground Hornbill Project",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of International Relations and Cooperation",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Civicus",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Poverty, Land and Agrarian Studies",
+ "country_code": "ZA",
+ "country_name": "South Africa",
+ "types": [
+  "Education"
+ ]
+}]

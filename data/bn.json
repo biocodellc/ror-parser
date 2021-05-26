@@ -1,0 +1,57 @@
+[{
+ "name": "Raja Isteri Pengiran Anak Saleha Hospital",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universiti Brunei Darussalam",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sultan Sharif Ali Islamic University",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Prime Minister's Office",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut Teknologi Brunei",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government of Brunei Darussalam",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Brunei Polytechnic",
+ "country_code": "BN",
+ "country_name": "Brunei",
+ "types": [
+  "Education"
+ ]
+}]

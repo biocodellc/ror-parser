@@ -1,0 +1,43 @@
+[{
+ "name": "University of Guyana",
+ "country_code": "GY",
+ "country_name": "Guyana",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Texila American University",
+ "country_code": "GY",
+ "country_name": "Guyana",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "New Amsterdam Public Hospital",
+ "country_code": "GY",
+ "country_name": "Guyana",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Guyana School of Agriculture",
+ "country_code": "GY",
+ "country_name": "Guyana",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gemsville Technical University",
+ "country_code": "GY",
+ "country_name": "Guyana",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Guyana Forestry Commission",
+ "country_code": "GY",
+ "country_name": "Guyana",
+ "types": [
+  "Government"
+ ]
+}]

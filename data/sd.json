@@ -1,0 +1,372 @@
+[{
+ "name": "University of Khartoum",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Gezira",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kassala University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal Ministry of Health",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Centre for Research",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Al-Neelain University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sudan University of Science and Technology",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Blue Nile University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "West Kordofan University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gadarif University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nile Valley University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dalanj University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kordofan",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Dongola",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Fashir University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Bakhtalruda",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sudan International University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Open University of Sudan",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International University of Africa",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khartoum International Institute for Arabic Languague",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alzaiem Alazhari University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of El Imam El Mahdi",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nyala",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ahfad University for Women",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Omdurman Ahlia University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Omdurman Islamic University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Red Sea University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shendi University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sinnar University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wad Medani Ahlia University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Zalingei",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karary University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AlMughtaribeen University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Ribat University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sudanese Universities Information Network",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Holy Quran and Islamic Sciences",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Future University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Science and Technology Omdurman",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Bahri",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medical Sciences and Technology",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agricultural Research Corporation",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sudan Meteorological Authority",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bayan College for Science & Technology",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Garden City",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nahda College",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Higher Education And Scientific Research",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sudan Medical Specialization Board",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of Engineering Sciences",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sudan Academy for Banking and Financial Sciences",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mashreq University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sudan Childhood Diabetes Association",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sudan Academy of Sciences",
+ "country_code": "SD",
+ "country_name": "Sudan",
+ "types": [
+  "Education"
+ ]
+}]

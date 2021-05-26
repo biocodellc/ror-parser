@@ -1,0 +1,99 @@
+[{
+ "name": "National University of Laos",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Health Sciences Vientiane",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mahosot Hospital",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Souphanouvong University",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre d\u2019Infectiologie Christophe M\u00e9rieux of Laos",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wildlife Conservation Society",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Institute of Public Health",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Agriculture and Forestry",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Science and Technology",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Natural Resources and Environment",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Participatory Development Training Centre",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rural Development Agency",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Library of Laos",
+ "country_code": "LA",
+ "country_name": "Laos",
+ "types": [
+  "Archive"
+ ]
+}]

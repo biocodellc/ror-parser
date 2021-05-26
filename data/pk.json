@@ -1,0 +1,2136 @@
+[{
+ "name": "Aga Khan University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Punjab",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Karachi",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Peshawar",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kohat University of Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aga Khan University Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Foundation University Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Liaquat University of Medical & Health Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bahauddin Zakariya University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baqai Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government College University, Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Islamic University, Islamabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gomal University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Isra University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government College University, Faisalabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jinnah University for Women",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hamdard University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dow University of Health Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Sciences and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Edward Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Agriculture",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamia University of Bahawalpur",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Quaid-i-Azam University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sargodha",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sindh",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Health Sciences Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Veterinary and Animal Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Agriculture Faisalabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Azad Jammu and Kashmir",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Balochistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ziauddin University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abbasi Shaheed Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Allama Iqbal Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hayatabad Medical Complex",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chandka Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Army Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Health Services Academy",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ayub Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Holy Family Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bolan Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Civil Hospital Karachi",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Combined Military Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jinnah Medical & Dental College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jinnah Postgraduate Medical Center",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mayo Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fatima Jinnah Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Riphah International University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karachi Medical and Dental College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Frontier Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Post Graduate Medical Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Khyber Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Khyber Teaching Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Punjab Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Services Institute of Medical Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Military Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shaikh Zayed Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shaikh Zayed Postgraduate Medical Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shaukat Khanum Memorial Cancer Hospital and Research Center",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shifa International Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rawalpindi Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lady Reading Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lahore General Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Liaquat National Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jinnah Sindh Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nishtar Medical College and Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Institute of Child Health",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute of Health",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Women Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakistan Institute of Medical Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pakistan Health Research Council",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fatima Jinnah Dental College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Armed Forces Institute of Pathology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Punjab Institute of Cardiology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Molecular Sciences and Bioinformatics",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "COMSATS University Islamabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shifa Tameer-e-Millat University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakistan Agricultural Research Council",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sindh Institute of Urology and Transplantation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute for Biotechnology and Genetic Engineering",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Cardiovascular Diseases",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Karachi Institute of Radiotherapy and Nuclear Medicine",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tabba Heart Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nuclear Threat Initiative",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kidney Centre",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pakistan Institute of Engineering and Applied Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakistan Institute of Nuclear Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Pakistan Council of Scientific & Industrial Research",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Aware Girls",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Crescent Development Foundation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Institute Of Blood Disease and Bone Marrow Transplantation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute of Population Studies",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Uks",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Muscular Dystrophy Patients Welfare Association",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Abdul Wali Khan University Mardan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Balochistan University of Information Technology, Engineering and Management Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federal Urdu University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hazara University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karakoram International University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lahore University of Management Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "NED University of Engineering and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pir Mehr Ali Shah Arid Agriculture University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Education",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Gujrat",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Malakand",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Science and Technology Bannu",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sukkur IBA University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sindh Agriculture University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Engineering and Technology Taxila",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lasbela University of Agriculture Water and Marine Science",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Wah",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Textile University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Faisalabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "GIFT University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khyber Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of East",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Air University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Khair University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bahria University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Foundation University Islamabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Space Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mohammad Ali Jinnah University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Computer and Emerging Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Modern Languages",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakistan Institute of Development Economics",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mehran University of Engineering and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dadabhoy Institute of Higher Education",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Greenwich University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indus University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indus Valley School of Art and Architecture",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Business Administration Karachi",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Business and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Business Management",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iqra University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karachi Institute of Economics and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khadim Ali Shah Bukhari Institute of Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Newports Institute of Communications and Economics",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Preston Institute of Management Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sir Syed University of Engineering and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Textile Institute of Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shah Abdul Latif University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Balochistan University of Engineering and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Preston University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Beaconhouse National University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Forman Christian College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hajvery University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Management Sciences Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kinnaird College for Women University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lahore College for Women University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Imperial College of Business Studies",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lahore School of Economics",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Minhaj University Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National College of Arts",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National College of Business Administration and Economics",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Superior University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Central Punjab",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Engineering and Technology Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Management and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of South Asia",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Virtual University of Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Quaid-e-Awam University of Engineering, Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mohi-ud-Din Islamic University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Northern University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abasyn University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "CECOS University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "City University of Science and Information Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gandhara University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Management Sciences Peshawar",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Engineering and Technology Peshawar",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qurtuba University of Science and Information Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sarhad University of Science and Information Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sardar Bahadur Khan Women's University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fatima Jinnah Women University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Allama Iqbal Open University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "HITEC University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alkauthar Islamic University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ghazi University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lahore Leads University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dawood University of Engineering and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "DHA Suffa University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iqra National University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mirpur University of Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baba Guru Nanak University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Defence University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qarshi University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shaheed Benazir Bhutto University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shaheed Benazir Bhutto Women University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shaheed Mohtarma Benazir Bhutto Medical University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Swat",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universal Research Group (Pakistan)",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Islamic Studies",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bahawal Victoria Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Higher Education Commission",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Namal College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bacha Khan University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamia College University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mari Petroleum Company (Pakistan)",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Muhammad Nawaz Sharif University of Engineering & Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rashid Latif Medical College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khawaja Farid Social Security Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saidu Teaching Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Services Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shaikh Zayed Medical College and Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shalamar Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sindh Madressatul Islam University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sir Ganga Ram Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Elizabeth's Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Raphael's Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Surgimed Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University College Lahore",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University College of Islamabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aga Khan Hospital for Women",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Allied Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Daud Memorial Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Divisional Headquarters Teaching Hospital Mirpur",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "District Headquarters Hospital Battagram",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Farooq Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Center for Applied and Molecular Biology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ayub Agriculture Research Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "College of Physicians and Surgeons Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indus Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gmarketing (Pakistan)",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Government of Khyber Pakhtunkhwa",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Board of Intermediate Education Karachi",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Abdus Salam Centre for Physics",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Centre of Excellence in Analytical Chemistry",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Pakistan Army",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pakistan Space and Upper Atmosphere Research Commission",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pakistan Telecommunication Company (Pakistan)",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Haripur",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Urban Unit",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Water and Power Development Authority",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "American Institute of Pakistan Studies",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Government College of Science",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karachi School for Business and Leadership",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "SKANS School of Accountancy",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nuclear Institute for Agriculture and Biology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Center for Chemical and Biological Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Alhamd Islamic University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Planwel",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government Sadiq College Women University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakistan Nuclear Regulatory Authority",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pakistan Academy of Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Aman Foundation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "World Health Organization - Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Trust for Vaccines & Immunization",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ziauddin Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fertility Care Multan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pakistan Institute of Learning and Living",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vital Pakistan Trust",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CMH Lahore Medical College and Institute of Dentistry",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministerial Standing Committee on Scientific and Technological Cooperation of the Organization of Islamic Cooperation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pakistan Science Foundation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Foundation for Research and Socio Ecological Harmony",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sustainable Development Policy Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pakistan Atomic Energy Commission",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Government of Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Remedial Centre Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Baqai Institute of Diabetology and Endocrinology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Karachi Institute of Heart Diseases",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rahnuma",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pakistan Association of Cognitive Therapists",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Marie Stopes Society",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Benazir Bhutto Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of National Health Services Regulation and Coordination",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Human Development Research Foundation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Omair Sana Foundation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Aga Khan Development Network",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Democratic Commission for Human Development",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pakistan Environmental Protection Agency",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pakistan Council of Research in Water Resources",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Abbottabad University of Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bilquis Postgraduate College For Women",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Center for Non-Communicable Diseases",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Information Technology University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Habib University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Engineering and Scientific Commission",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kharadar General Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Northwest General Hospital and Research Center",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rural Development Foundation of Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Shirkat Gah",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sobhraj Maternity Hospital",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aitchison College",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fauji Fertilizer (Pakistan)",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Industries and Production",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "United States Educational Foundation in Pakistan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Swabi",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indus Resource Centre",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The TAU Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "FATA University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government College Women University Faisalabad",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Business Leadership",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central Cotton Research Institute",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National University of Medical Sciences",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nur International University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Okara",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakistan Scientific and Technological Information Centre",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Capital University of Science and Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bridge Consultants Foundation",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Women University Multan",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indrashil University",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khwaja Fareed University of Engineering and Information Technology",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Innovative Scientific Information & Services Network",
+ "country_code": "PK",
+ "country_name": "Pakistan",
+ "types": [
+  "Nonprofit"
+ ]
+}]

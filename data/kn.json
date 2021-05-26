@@ -1,0 +1,36 @@
+[{
+ "name": "Ross University School of Veterinary Medicine",
+ "country_code": "KN",
+ "country_name": "Saint Kitts and Nevis",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Medical University of the Americas",
+ "country_code": "KN",
+ "country_name": "Saint Kitts and Nevis",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Medicine and Health Sciences",
+ "country_code": "KN",
+ "country_name": "Saint Kitts and Nevis",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Windsor University School of Medicine",
+ "country_code": "KN",
+ "country_name": "Saint Kitts and Nevis",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "KN",
+ "country_name": "Saint Kitts and Nevis",
+ "types": [
+  "Government"
+ ]
+}]

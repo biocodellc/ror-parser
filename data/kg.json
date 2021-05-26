@@ -1,0 +1,274 @@
+[{
+ "name": "American University of Central Asia",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz State National University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Atat\u00fcrk-Alatoo University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz National University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz Economic University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz State Medical Academy",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kyrgyz State University of Construction, Transport and Architecture named after N. Isanov",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz-Russian Slavic University named after B.N. Yeltsin",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz-Turkish Manas University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International University of Kyrgyzstan",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Issyk-Kul State University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Osh Technological University Abidov",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Talas State University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jalalabad State University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz State Technical University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyz National Agrarian University named after K.I. Skryabin",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Osh State University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Central Asia",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Osh State Social University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bishkek Humanities University",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Academy of Sciences of the Republic of Kyrgyzstan",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Station of the Russian Academy of Sciences in Bishkek",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Health of Kyrgyzstan",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Plant and Fungi Biotechnology Laboratory",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aigine Cultural Research Center",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Geological Survey of Kyrgyzstan",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Center of Cardiology and Internal Medicine",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Central-Asian Institute for Applied Geosciences",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Emergency Situations",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Academy of Public Administration under the President of the Kyrgyz Republic",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bishkek Academy of Finance and Economics",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International University of Central Asia",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kabar",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kyrgyz State Law Academy",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyrgyzskaya State Academy of Physical Culture and Sports",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Ministry of Education and Science of the Kyrgyz Republic",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Internal Affairs of the Kyrgyz Republic",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Delegation of the European Union to the Kyrgyz Republic",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Aga Khan Foundation",
+ "country_code": "KG",
+ "country_name": "Kyrgyzstan",
+ "types": [
+  "Nonprofit"
+ ]
+}]

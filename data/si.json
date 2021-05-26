@@ -1,0 +1,2612 @@
+[{
+ "name": "University of Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jo\u017eef Stefan Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Higher Education Science, and Technology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National and University Library of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ljubljana University Medical Centre",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Clinic of Pulmonary and Allergic Diseases Golnik",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Clinical Centre Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Primorska",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Public Health",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Splo\u0161na Bolni\u0161nica Celje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Blood Transfusion Centre of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Univerzitetni Rehabilitacijski In\u0161titut",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Occupational Safety",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Oncology Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Biology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre for Computational Continuum Mechanics (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gorenje (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gospodarska zbornica Slovenije",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Giz-Grozd Plasttehnika",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Gradbeni In\u0161titut Zrmk d.o.o",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Environment Agency",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Etrel (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Economic Research",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Geological Survey Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Metals and Technology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Agricultural institute of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Education, Science and Sport",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tecos (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Academy of Sciences and Arts",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Slovenian Forestry Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Slovenian National Building and Civil Engineering Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Slovenski Gradbeni Grozd",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "XLAB (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Security Technology Competence Centre",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agencija za Radioaktivne Odpadke",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Academic and Research Network of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Arctur (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amanova (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amis (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BIA Separations (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Celica (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center za Kartografijo Favne in Flore",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Informatizacija Energetika Avtomatizacija (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Sustainable Development",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "IRGO Consulting (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kopitarna Sevnica (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Korona (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Research Agency",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ljubljana Passenger Transport",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture Forestry and Food",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Culture",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Interior",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Magneti Ljubljana (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metrology Institute of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Optotek (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prometni institut Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pipistrel (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "In\u0161titut za Celulozo in Papir Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Polycom (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Statistical Office of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Slovenian Institute for Adult Education",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "House of Experiments",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "University of Nova Gorica",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Urban planning Institute of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Varsi (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vipap (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Laboratory of Health, Environment and Food",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University Psychiatric Hospital",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lajovic Tuba Embala\u017ea (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elektro Ljubljana (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IEDC-Bled School of Management",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Faculty of Commercial and Business Sciences",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International School for Social and Business Studies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Angela Bo\u0161kin Faculty of Health Care",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Graduate School of Government and European Studies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Faculty of Media",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alma Mater Europaea",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jo\u017eef Stefan International Postgraduate School",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160ola za Risanje in Slikanje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Accounting",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher School of Applied Sciences",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "DOBA Business School",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European Faculty of Law",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Faculty of Applied Social Studies in Nova Gorica",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Education Centre Novo Mesto",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "School of Business and Management Novo Mesto",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "GEA College",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Euro Mediterranean University",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Faculty of Polymer Technology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Environmental Protection",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wood Industry Cluster",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Univerzitetno Sredi\u0161\u010de Novo mesto",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Chemistry",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "IBE (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Abelium (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nova revija Institute for Humanities",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Acer Novo Mesto (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acies Bio (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "In\u0161titut za Nutricionistiko",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Acroni (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IGEA (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Omega Consult (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ACROS Security (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Omega (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Igmat (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adapti (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OptaCore (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Impol (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Optopol Technology (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advanced Materials and Technologies (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jolly Aero (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Robert Bosch (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Orthopaedic Hospital Valdoltra",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pan-Nutri (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Induktio (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Peace Institute- Institute for Contemporary Social and Political Studies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Anton Trstenjak Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kmetijsko Gozdarski Zavod Nova Gorica",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Alianta (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Water of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Perutnina Ptuj (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alpina (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alpineon (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Institute for Hop Growing and the Brewing",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Amebis (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Metal Constructions",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "AMES (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Spatial Policies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AMS (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pinus TKI (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Contemporary History",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Litostroj Group (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for developmental and strategic analysis",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aquarius (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arcont (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Predilnica Litija (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arex Defense (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pristop (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ATES (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Atotech (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Ethnic Studies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Hydraulic Research",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Infinita (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "B2 (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Research in Materials and Applications",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BIA (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Sustainable Innovative Technologies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for the Protection of Cultural Heritage of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "PUH Team (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Civilization and Culture",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "In\u0161titut Bion",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Biotehni\u0161ki Center Naklo",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Criminology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kolektor (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Animal Hospital Postojna",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Radenska (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CBS In\u0161titut (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regional Development Agency Mura (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inspectorate of the Republic of Slovenia for the Environment and Spatial Planning",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pomurski muzej Murska Sobota",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Centre of Excellence for Biosensors, Instrumentation and Process Control",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "S&T Slovenija",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for High Technologies and Systems",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sadar + Vuga (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre of Excellence for Integrated Approaches in Chemistry and Biology of Proteins",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Mathematics, Physics, and Mechanics",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Metagenomics and Microbial Technologies (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nanocenter",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "CenterKontura (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Salonit Anhovo (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sava (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Savatech (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "In\u0161tituta za Neionizirna Sevanja",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Scientific Research Centre Bistra Ptu",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Semenarna (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sensum (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Centre of Excellence for Space Sciences and Technologies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "In\u0161titut za Javno Upravo",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre of Excellence NAMASTE",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sicenter (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Silkem (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Institute of Quality and Metrology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "PoliMaT Centre of Excellence (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sistemska Tehnika (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovene Ethnographic Museum",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "IRSPIN (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovenian Museum of Natural History",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Cetis (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u010cetrta Pot (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CGS plus (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Tourism Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Slovenska Industrija Jekla (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Environmental Protection and Sensors",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Telekom Slovenije (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cimos (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Symbolic analysis and Development of Information Technologies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cinkarna (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Project Management and Information Technology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "In\u0161titut za Razvoj Dru\u017ebene Odgovornosti",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Helios (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Iskra Medical (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Iskra Mehanizmi (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Iskra Pio (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SMM production systems (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Community Health Centre Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Iskra (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Svetovalna in Razvojna Dejavnost (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cosylab",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Iskra Za\u0161\u010dite (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Counselling Centre for Children, Adolescents and Parents",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "CPZ International",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Social Protection Institute of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Le-tehnika (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elsewedy Electric (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CVS Mobile (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Iskratel (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DFG Consulting (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Domel (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vodovod-Kanalizacija (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spica International (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DARS (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Skupina IRI Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160tore Steel (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Keko Equipment (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ECHO (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Structum (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ecological Engineering Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gramatex (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ERICo (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Educational Research Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Svilanit (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Educell",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Chamber of Agriculture and Forestry of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Talum (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ekonomski In\u0161titut",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ekliptik (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kolpa (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Testing and Certification Laboratories",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "TECES",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ekoremediacijski Tehnolo\u0161ki Center",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tehnolo\u0161ko raziskovalni center JUB",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Krka (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ektimo (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tekstina (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elea iC (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TMG-BMC (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TKK",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Em.tronic Elektromehanski Sistemi (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Labena (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EMO Orodjarna (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novartis (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TIC-LENS Laser Technologies (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EN-FIST Centre of Excellence (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Limnos (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Energy Restructuring Agency (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Coal Mining Museum of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Litostroj Power (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Envit (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Milan Vidmar Electric Power Research Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Logon (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National School of Leadership in Education",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Episcenter (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Esotech (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unior (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ETI Elektroelement (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unichem (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gorenjska Predilnica (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trojina Institute for Applied Slovene Studies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Trimo (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LPKF Group (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Faculty of Design",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tosama (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mahle Letrika (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Veterinarska Bolnica Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Marmor Hotavlje Group (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fisheries Research Institute of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Daihen Varstroj (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fotona (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Velana Living (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mediterranean Institute for Advanced Studies",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Veplas (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vilpo (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fran\u010di\u0161kanski Dru\u017einski In\u0161titut",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "MEIS Storitve za Okolje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Viris (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metal Ravne (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metrel (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metronik (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Splo\u0161na Bolni\u0161nica Slovenj Gradec",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Geodetic Institute of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "VIsport (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mg Soft (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geodetski Zavod Celje (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Welding Institute (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Goap (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MKS Electronic Systems (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mlinotest (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Yaskawa (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Education Institute of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Museum of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Harpha Sea (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nigrad (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roga\u0161ka Medical Centre",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Niko (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Comtrade (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hidria (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HIPOT-RR (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "I 2 Dru\u017eba za Zalo\u017eni\u0161tvo Izobra\u017eevanje in Raziskovanje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grm Novo mesto - Center Biotehnike in Turizma",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ZootFly (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ZUM urban planning, design (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zdravstveni dom dr. Adolfa Drolca Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "College of Industrial Engineering",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Psihiatri\u010dna Bolni\u0161nica Ormo\u017e",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "B & B",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Biotechnical Educational Centre Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Nursing in Celje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Izobra\u017eevalni Center Piramida Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Vocational College for Hospitality and Tourism Bled",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vi\u0161ja Strokovna \u0160ola za Gostinstvo in Turizem Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute and Academy of Multimedia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski Center za Po\u0161to, Ekonomijo in Telekomunikacije",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski Center Postojna",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski Center Ptuj",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski Center \u0160entjur",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski Center \u0160kofja Loka",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski center Slovenj Gradec",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u0160olski Center Velenje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Celje School of Economics",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "School Centre Celje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ekonomska \u0160ola Murska Sobota",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kranj School Centre",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ekonomska \u0160ola Novo Mesto",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tehni\u0161ki Solski Center Maribor",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "School Centre Nova Gorica",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "School Center Novo mesto",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zlatarna Celje (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Economic Development and Technology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eles (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vocational College of Traffic and Transport",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Smetumet",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Labour, Family, Social Affairs and Equal Opportunities",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of the Republic of Slovenia for Nature Conservation",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Dru\u0161tvo Klju\u010d",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Surveying and Mapping Authority of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "International Network of Health Promoting Hospitals & Health Services",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Musicology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "O\u010desna Klinika UKC Ljubljana",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "In\u0161titut za preventivno medicino",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Slovenian Society of Anaesthesiology and Intensive Care Medicine",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Energy Agency of Podravje",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Intellectual Property Institute",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Research and Development \u201cUtrip\u201d",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Information Science",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "In\u0161titut za Raziskovanje Krasa",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Health Insurance Institute of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Infrastructure",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Public Administration",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Defence",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Environment and Spatial Planning",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Slovenian Nuclear Safety Administration",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Agriculture, Forestry and Food Security",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Research Genetics and Agrochemistry (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Izola General Hospital",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "\u0160KUC Association",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Supreme Court of the Republic of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Study Center for National Reconciliation",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Bank of Slovenia",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Login BV (Slovenia)",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SPIRIT Slovenia - Public Agency for Entrepreneurship, Internationalization, Fore\u00adign Investments and Technology",
+ "country_code": "SI",
+ "country_name": "Slovenia",
+ "types": [
+  "Other"
+ ]
+}]

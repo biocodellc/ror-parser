@@ -1,0 +1,29 @@
+[{
+ "name": "Havstovan",
+ "country_code": "FO",
+ "country_name": "Faroe Islands",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Syntesa (Faroe Islands)",
+ "country_code": "FO",
+ "country_name": "Faroe Islands",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Faroese Research Council",
+ "country_code": "FO",
+ "country_name": "Faroe Islands",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "University of the Faroe Islands",
+ "country_code": "FO",
+ "country_name": "Faroe Islands",
+ "types": [
+  "Education"
+ ]
+}]

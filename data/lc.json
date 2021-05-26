@@ -1,0 +1,50 @@
+[{
+ "name": "Caribbean Environmental Health Institute",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Spartan Health Sciences University",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American International Medical University",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International American University",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health and Wellness",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sir Arthur Lewis Community College",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Caribbean Electric Utility Services Corporation",
+ "country_code": "LC",
+ "country_name": "Saint Lucia",
+ "types": [
+  "Other"
+ ]
+}]

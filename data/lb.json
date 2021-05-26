@@ -1,0 +1,484 @@
+[{
+ "name": "Beirut Arab University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Beirut",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Balamand",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saint Joseph University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Open University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese American University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Beirut Medical Center",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rafik Hariri University Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4tel-Dieu de France",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Medical Center Rizk Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Makassed General Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saint George Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Council for Scientific Research",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Litani River Authority",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute for Development, Research, Advocacy and Applied Care",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Regional Arab Network against AIDS",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lebanese Association for Energy Saving & for Environment",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Lebanese Agricultural Research Institute",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Notre Dame University \u2013 Louaize",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese Canadian University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Culture and Education",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Science and Technology",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure des Affaires",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Imam Al Ouzai University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Kafa\u00e0t University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 La Sagesse",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Makassed University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Beirut Islamic University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haigazian University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Middle East University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese International University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Modern University for Business and Science",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Antonine University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Technology",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Holy Spirit University of Kaslik",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamic University of Lebanon",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jinan University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "City University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire Notre Dame des Secours",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Global University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese German University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arts, Sciences and Technology University in Lebanon",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tripoli Lebanon",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Center for Human Sciences",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Middle East Fertility Society",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Al-Salam Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Near East School of Theology",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Association Philippe Jabre",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre Universitaire de Technologie",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rafik Hariri University",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hammoud Hospital University Medical Center",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nini Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Azm & Saade Association",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sheikh Ragheb Harb Hospital",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Public Health",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Arab Foundation For Freedoms And Equality",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lebanese Hospital Geitaoui-University Medical Center",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Office of the Minister of State for Administrative Reform",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Arab Educational Information Network",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arab NGO Network for Development",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Beirut Art Center",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ashkal Alwan",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Orient Institut Beirut",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Arab Network for Early Childhood Development",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "World Health Organization - Lebanon",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "United Nations Economic and Social Commission for Western Asia",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Roche (Lebanon)",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lebanon Support",
+ "country_code": "LB",
+ "country_name": "Lebanon",
+ "types": [
+  "Nonprofit"
+ ]
+}]

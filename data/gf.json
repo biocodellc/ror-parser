@@ -1,0 +1,29 @@
+[{
+ "name": "Institut Pasteur de la Guyane",
+ "country_code": "GF",
+ "country_name": "French Guiana",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre Hospitalier Andr\u00e9e Rosemon",
+ "country_code": "GF",
+ "country_name": "French Guiana",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of French Guiana",
+ "country_code": "GF",
+ "country_name": "French Guiana",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Guiana Space Centre",
+ "country_code": "GF",
+ "country_name": "French Guiana",
+ "types": [
+  "Facility"
+ ]
+}]

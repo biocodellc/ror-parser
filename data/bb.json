@@ -1,0 +1,64 @@
+[{
+ "name": "University of the West Indies",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Queen Elizabeth Hospital",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ross University School of Medicine",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Boston Scientific (Barbados)",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Caribbean Disaster Emergency Management Agency",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Barbados Community College",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Caribbean Institute for Meteorology and Hydrology",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Erdiston Teachers' Training College",
+ "country_code": "BB",
+ "country_name": "Barbados",
+ "types": [
+  "Education"
+ ]
+}]

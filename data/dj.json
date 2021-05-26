@@ -1,0 +1,15 @@
+[{
+ "name": "University of Djibouti",
+ "country_code": "DJ",
+ "country_name": "Djibouti",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre d'Etude et de Recherche de Djibouti",
+ "country_code": "DJ",
+ "country_name": "Djibouti",
+ "types": [
+  "Facility"
+ ]
+}]

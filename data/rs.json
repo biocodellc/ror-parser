@@ -1,0 +1,652 @@
+[{
+ "name": "University of Belgrade",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Novi Sad",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nis",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Masinski Fakultet - Univerziteta U Nisu",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Children's Hospital, Belgrade",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinical Centre of Kragujevac",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Kragujevac",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Military Medical Academy",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut za kardiovaskularne bolesti Dedinje",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dki centar Srbije",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut za onkologiju i radiologiju Srbije",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut za zdravstvenu za\u0161titu dece i omladine Vojvodine",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Klini\u010dki centar Ni\u0161",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dki centar Vojvodine",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut za Zdravstvenu Zastitu Majke i Deteta",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Serbian Academy of Sciences and Arts",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Technical Sciences",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "DunavNET (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institut Mihajlo Pupin",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ericsson (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Astronomical Observatory",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Bitgear (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nissatech Innovation Centre (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CIM Group (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centar za Promociju Nauke",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Zdravstveni centar",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Physics",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Telekom Srbija (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kreativno Edukativni Centar",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Education, Science and Technological Development",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Belit (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Technical College of Applied Sciences",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Defence",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Megatrend University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Arts in Belgrade",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Union University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Novi Pazar",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Univerzitet u Novom Pazaru",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Singidunum University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Hospital Center Dr Dragi\u0161a Mi\u0161ovi\u0107",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Novi Sad Open University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pokrajinski Sekretarijat za Nauku i Tehnolo\u0161ki Razvoj",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Library of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Euromedik",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Field and Vegetable Crops",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Univerzitet Union Nikola Tesla",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Educons University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Metropolitan University",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Military Geographical Institute",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Science and Environmental Protection",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Wikimedia Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sportska Akademija Beograd",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zemun Hospital",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Belgrade Centre for Security Policy",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Center for Liberal Democratic Studies",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Architecture and Urban & Spatial Planning of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Plant Protection and Environment",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Scientific Veterinary Institute \"Novi Sad\"",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Museum of Yugoslav History",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "University Hospital Medical Center Bezanijska kosa",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dko Bolni\u010dki Centar Zvezdara",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Oncology Institute of Vojvodina",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Pulmonary Diseases of Vojvodina",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute for Cardiovascular Diseases of Vojvodina",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zavod ''Konzilijum''",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Virology, Vaccines and Sera \u201cTorlak\u201d",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Mental Health",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut za Reumatologiju",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Association of Children and Preventive Dentists of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Klinika za Psihijatrijske Bolesti Dr Laza Lazarevi\u0107",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Center for Health, Exercise and Sport Sciences",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "MSD (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Center for Peace and Development",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Univerexport (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Economic Sciences",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "BioSense Institute",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Technology of Nuclear and other Mineral Raw Materials",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Recent History of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "RT-RK Institute for Computer Based Systems (Serbia)",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Development Agency of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Finance and Economy",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Interior of the Republic of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Directorate for Inland Waterways",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Regulatory Agency for Electronic Communications and Postal Services",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Petnica Science Center",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Health Insurance Fund",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Belgrade Open School",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Business Technology Incubator of Technical Faculties Belgrade",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut za savremenu istoriju",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Social Sciences",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Victimology Society of Serbia",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Evaluation in Education and Science",
+ "country_code": "RS",
+ "country_name": "Serbia",
+ "types": [
+  "Facility"
+ ]
+}]

@@ -1,0 +1,22 @@
+[{
+ "name": "Pontifical Academy of Sciences",
+ "country_code": "VA",
+ "country_name": "Vatican",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vatican Secret Archives",
+ "country_code": "VA",
+ "country_name": "Vatican",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "R\u00f6misches Institut der G\u00f6rres-Gesellschaft",
+ "country_code": "VA",
+ "country_name": "Vatican",
+ "types": [
+  "Nonprofit"
+ ]
+}]

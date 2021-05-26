@@ -1,0 +1,57 @@
+[{
+ "name": "Royal University of Bhutan",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Agriculture and Forests",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Environment Commission",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Loden Foundation",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bhutan Centre for Media and Democracy",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Education Council",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre for Bhutan Studies and GNH Research",
+ "country_code": "BT",
+ "country_name": "Bhutan",
+ "types": [
+  "Education"
+ ]
+}]

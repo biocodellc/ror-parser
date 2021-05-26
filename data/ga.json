@@ -1,0 +1,78 @@
+[{
+ "name": "Omar Bongo University",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Albert Schweitzer Hospital",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Libreville Hospital",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre International de Recherches M\u00e9dicales de Franceville",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Universit\u00e9 des Sciences et Techniques de Masuku",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Nationale d'Administration",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Africain d'Informatique",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre de Recherche M\u00e9dicales de Lambar\u00e9n\u00e9",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Agency for National Parks",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ministre de la For\u00eat,de la Mer et de l'Environnement",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Universit\u00e9 des Sciences de la Sant\u00e9",
+ "country_code": "GA",
+ "country_name": "Gabon",
+ "types": [
+  "Education"
+ ]
+}]

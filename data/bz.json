@@ -1,0 +1,36 @@
+[{
+ "name": "University of Belize",
+ "country_code": "BZ",
+ "country_name": "Belize",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Galen University",
+ "country_code": "BZ",
+ "country_name": "Belize",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central America Health Sciences University",
+ "country_code": "BZ",
+ "country_name": "Belize",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Department of Agriculture",
+ "country_code": "BZ",
+ "country_name": "Belize",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Belize Zoo",
+ "country_code": "BZ",
+ "country_name": "Belize",
+ "types": [
+  "Archive"
+ ]
+}]

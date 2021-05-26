@@ -1,0 +1,694 @@
+[{
+ "name": "United Arab Emirates University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Sharjah",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gulf Medical University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sharjah",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Ain Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Corniche Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Latifa Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Al Noor Hospitals",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dubai Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dubai Health Authority",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Shaikh Khalifa Medical City",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rashid Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mafraq Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tawam Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zayed Military Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Central Veterinary Research Laboratory",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Dubai Pharmacy College",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Environment Agency Abu Dhabi",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Emirates NBD",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Abu Dhabi Falcon Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Khalifa University of Science and Technology",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "New York University Abu Dhabi",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abu Dhabi University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Colleges of Technology",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zayed University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ajman University of Science and Technology",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Ain University of Science and Technology",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Ghurair University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University in Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dubai Medical College",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Emirates Aviation University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hamdan Bin Mohammed Smart University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "British University in Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Wollongong in Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European University College",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Canadian University of Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alhosn University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Heriot-Watt University Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University in the Emirates",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sorbonne University Abu Dhabi",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ittihad University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ras al-Khaimah Medical and Health Sciences University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mohamed Bin Zayed Species Conservation Fund",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Al Khawarizmi International College",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mediclinic City Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ajman Specialty General Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "City University College of Ajman",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Danat Al Emarat Women & Children\u2019s Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dar Al Shifaa Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "GMC Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Oasis Hospital",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Emirates Academy of Hospitality Management",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Skyline University College",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Islamic and Arabic Studies",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Emirates College for Advanced Education",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American College of Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abu Dhabi Education Council",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Birla Institute of Technology and Science, Pilani - Dubai Campus",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Center for Biosaline Agriculture",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Abu Dhabi National Oil (United Arab Emirates)",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mubadala (United Arab Emirates)",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Higher Education and Scientific Research",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mohammed Bin Rashid School of Government",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jumeira University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Synergy University",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Jazeera",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Emirates Diplomatic Academy",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arab Science and Technology Foundation",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Emirates Foundation",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kalam Research and Media",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Thumbay Group (United Arab Emirates)",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Al Jalila Foundation",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Imperial College London Diabetes Centre",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gulf Heart Association",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Healthpoint",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "IVI Middle East Fertility Clinic",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "INSEAD",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rochester Institute of Technology - Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dr. Humeira Badsha Medical Center",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Intel (United Arab Emirates)",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre for Arab Genomic Studies",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dubai International Financial Centre",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "EBTIC",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Renewable Energy Agency",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Emirates Center for Strategic Studies and Research",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Holland and Knight (United Arab Emirates)",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zayed Higher Organization for Humanitarian Care and Special Needs",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Modern Sciences",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "MODUL University Dubai",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Abu Dhabi Health Services",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sheikh Shakhbout Medical City",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mohamed bin Zayed University of Artificial Intelligence",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamic Azad University, UAE Branch",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mohammed Bin Rashid University of Medicine and Health Sciences",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Ras Al Khaimah",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "TRENDS Research & Advisory",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Technology Innovation Institute",
+ "country_code": "AE",
+ "country_name": "United Arab Emirates",
+ "types": [
+  "Facility"
+ ]
+}]

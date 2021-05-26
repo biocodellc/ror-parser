@@ -1,0 +1,421 @@
+[{
+ "name": "University of Jordan",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yarmouk University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Princess Sumaya University for Technology",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hashemite University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jordan University of Science and Technology",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Ahliyya Amman University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jordanian Universities Network (Jordan)",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Al al-Bayt University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Applied Science Private University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jordan Hospital",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Petra University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Hussein Medical Center",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "King Hussein Cancer Center",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Scientific Society",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Energy Research Center",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Higher Council for Science and Technology",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Water Authority of Jordan",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "German Jordanian University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mutah University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Open University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Amman Arab University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Philadelphia University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Academy for Management, Banking and Financial Sciences",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Zaytoonah University of Jordan",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jerash University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Hussein Bin Talal University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zarqa University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Balqa` Applied University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ajloun National University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Madaba",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Middle East University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Irbid National University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jadara University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tafila Technical University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "World Islamic Sciences and Education University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Applied Scientific Research Fund",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Isra University",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King Abdullah University Hospital",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Specialty Hospital, Jordan",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Islamic Hospital",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Arab Foundations Forum",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Scientific Research Support Fund",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Farah Hospital",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Royal Health Awareness Society",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "West Asia-North Africa Institute",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Akilah Hospital",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "TQ Pharma (Jordan)",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arab Medical Association Against Cancer",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "King Hussein Foundation",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "United Nations Relief and Works Agency for Palestine Refugees in the Near East",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Jordan National Gallery of Fine Arts",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Jordan Radio and Television Corporation",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Royal Film Commission",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Royal Institute for Inter-Faith Studies",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Royal Society for the Conservation of Nature",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Jordan Media Institute",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Arab Education Forum",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eastern Mediterranean Public Health Network",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "World Health Organization - Jordan",
+ "country_code": "JO",
+ "country_name": "Jordan",
+ "types": [
+  "Government"
+ ]
+}]

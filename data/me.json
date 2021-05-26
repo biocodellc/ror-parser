@@ -1,0 +1,106 @@
+[{
+ "name": "University of Montenegro",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prona",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Prirodnjacki Muzej Crne Gore",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ministry of Science",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Faculty for State and European Studies",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Donja Gorica",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mediterranean University",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fakultet za Poslovni Menad\u017ement u Baru",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fakultet za Mediteranske Poslovne Studije",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fakultet za menad\u017ement Herceg Novi",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Klini\u010dki Centar Crne Gore",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Economy",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country_code": "ME",
+ "country_name": "Montenegro",
+ "types": [
+  "Government"
+ ]
+}]

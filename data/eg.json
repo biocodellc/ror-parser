@@ -1,0 +1,1555 @@
+[{
+ "name": "Alexandria University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ain Shams University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cairo University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mansoura University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zagazig University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Suez Canal University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "German University in Cairo",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University in Cairo",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Assiut University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egyptian Universities Network",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fayoum University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Azhar University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Assiut University Hospitals",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Benha University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Beni-Suef University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Menoufia University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Children's Hospital Mansoura University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Minia University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Misr International University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kafrelsheikh University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Helwan University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tanta University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "October 6 University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sohag University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South Valley University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health and Population",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "World Health Organization - Egypt",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "United States Naval Medical Research Unit III",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aswan University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agricultural Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Institute of Ophthalmology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Oceanography and Fisheries",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Organization for Drug Control and Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Research Centre",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "City of Scientific Research and Technological Applications",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Theodor Bilharz Research Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Academy of Scientific Research and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Environment and Development for the Arab Region and Europe",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Communications and Information Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Higher Education",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Al Shehab institution for Comprehensive Development",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Center for Development Services",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Children Cancer Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Egyptian American Medical Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "MedicalOne Market Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Menoufia University Hospitals",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Egyptian Atomic Energy Authority",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Shebin Teaching Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Suez University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bibliotheca Alexandrina",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Central Laboratory for Agricultural Climate",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Egyptian Ministry of Environment",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Water Resources and Irrigation",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "New and Renewable Energy Authority",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Authority for Remote Sensing and Space Sciences",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Supreme Council of Antiquities",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "British University in Egypt",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egypt-Japan University of Science and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Future University in Egypt",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Misr University for Science and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Modern University for Information and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nile University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Port Said University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zewail City of Science and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Akhbar El Yom Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ahram Canadian University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "El Shorouk Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "High Institute for Management Sciences",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "October High Institute For Enginnering and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Academy for Engineering and Media Science",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Knowledge Institute of Languages \u200b\u200band Translation",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alexandria Higher Institute of Engineering and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Academy for Science, Technology and Maritime Transport",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egyptian Institute of Alexandria Academy for Administration & Accounting",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute for Tourism, Hotels and Computer",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pharos University in Alexandria",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Senghor University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute of Social Service",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nahda University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Open University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cairo Higher Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Obour Institutes",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egyptian Russian University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute of Applied Arts",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute for Cooperative and Administrative Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Thebes Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Modern Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Telecommunications Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sadat Academy for Management Sciences",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sinai University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tabbin Institute for Metallurgical Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Delta University for Science and Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute of Engineering",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of Arts",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "October University of Modern Sciences and Arts",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egyptian Aviation Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pharaohs Higher Institute of Computer Information Systems and Management",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Canadian International College",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arab Studies and Research Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Social Work Institute in Cairo",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "New Cairo Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sinai Higher Institute for Tourism and Hotels",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "French University of Egypt",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute of Computer Science and Management Technology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute for Qualitative Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Institute of Islamic Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Madina Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Egyptian General Company for Tourism and Hotels (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "El Asher University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AlAlamein International University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Heliopolis University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Damanhour University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sadat City",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Science and Technology Development Fund",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Scientific Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Egyptian Petroleum Research Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Housing and Building National Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut Fran\u00e7ais d'Arch\u00e9ologie Orientale",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Research Institute of Astronomy and Geophysics",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Egyptian e-Learning University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Damietta University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Higher Technological Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "WADI Group (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arab and African Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Arab Institute of Navigation",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Central Laboratory For Agricultural Expert Systems",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "British Council Egypt",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cairo Institute for Human Rights Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Electronics Research Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Water Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Environement Quality International (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egyptian Consulting & Trading Co. Ltd",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egypt Exploration Society",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Egyptian Information Telecommunications Electronics and Software Alliance",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Egyptian Museum",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Vacsera (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egyptian Solar Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egyptian Center for Public Policy Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "IBM (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Grand Egyptian Museum",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Information Technology Industry Development Agency",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Consultants (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mimar Engineering Consultancy (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Misc (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture and Land Reclamation",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nile Valley Engineering (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "North South Consultants Exchange (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sakhr Software (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flora Pyramids Paper Mills",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sekem",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Egyptian Center for Public Opinion Research Baseera",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Townhouse Gallery",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Military Technical College",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Desert Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Information Technology Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mobica (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nuclear Materials Authority",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Telecommunication Regulatory Authority",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mansoura University Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "General Organization For Teaching Hospitals and Institutes",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Egyptian College of Critical Care Physicians",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egyptian German Society of Zoology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Egyptian Society of Radiology and Nuclear Medicine",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Egyptian Society of Chest Diseases and Tuberculosis",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Egyptian Society of Cardiology",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Egyptian Society of Ear, Nose, Throat and Allied Sciences",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Higher Institute of Advanced Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "High Institute For Computers and Management Information Systems",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central Metallurgical Research and Development Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Almishkat Centre for Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cairo University hospitals",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tanta University Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agricultural Genetic Engineering Research Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Egypt Nanotechnology Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "World Health Organization Regional Office for the Eastern Mediterranean",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Egyptian Government",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "The Egyptian IVF-ET Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Servier (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ain Shams University Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Minia University Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Heart Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nasser Institute hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Military Medical Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Adam International Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Behman Hospital",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dar AlMaraa Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Riyadh Fertility and Reproductive Health Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Genuine Research Center",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Drug Agency for Pharmaceutical Industry (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egyptian Foundation for Cancer Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Magdi Yacoub Heart Foundation",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "American International School in Egypt",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Smartec-Group (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spiretronic (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Egyptian Foundation for Refugee Rights",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Antiquities",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Future Academy",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Culture",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Women and Memory Forum",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Al-Ahram Center for Political and Strategic Studies",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Better Life Association for Comprehensive Development",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Culture Resource",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Egyptian Center for Culture and Arts",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "El Mastaba Center for Egyptian Folk Music",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Economic Research Forum",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "New Horizon Association for Social Development",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Partners in Development for Research, Consulting and Training (Egypt)",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Islamic Center for Population Studies and Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Coptic Evangelical Organization for Social Services",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Deutsches Arch\u00e4ologisches Institut",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Badr University in Cairo",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Veterinary Serum and Vaccine Research Institute",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Egyptian Society of Hematology and Research",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Egyptian Society of Laboratory Medicine",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The National Institute of Neuromotor System",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Egyptian Engineers Syndicate",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Egyptian Center for Innovation and Technology Development",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Edge Foundation",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arish University",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Egyptian Initiative for Personal Rights",
+ "country_code": "EG",
+ "country_name": "Egypt",
+ "types": [
+  "Nonprofit"
+ ]
+}]

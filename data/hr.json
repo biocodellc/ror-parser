@@ -1,0 +1,890 @@
+[{
+ "name": "University of Zagreb",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rudjer Boskovic Institute",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Rijeka",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Split",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Klini\u010dka bolnica Merkur",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital Dubrava",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dki Bolni\u010dki Centar Rijeka",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dki bolni\u010dki centar Osijek",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sisters of Charity Hospital",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Osijek",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Hospital Centre Zagreb",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dki Bolni\u010dki Centar Split",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital for Infectious Diseases \"Dr Fran Mihaljevic\"",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hrvatski zavod za javno zdravstvo",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Children's Hospital Zagreb",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute for Medical Research and Occupational Health",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Op\u0107a bolnica Karlovac",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klinika za psihijatriju Vrap\u010de",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Klini\u010dka bolnica \"Sveti Duh\"",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Zabok General Hospital",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Croatian Institute of Transfusion Medicine",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Croatian Veterinary Institute",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Anthropological Research",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Immunology",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Croatian Chamber of Economy",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Brodarski Institute",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ericsson (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University of Zadar",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Genos (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inetec (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Oceanography and Fisheries",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Science, Education and Sports",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "NOVAMINA Innovative Technology Centre",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Uljanik (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Children's Hospital Srebrnjak",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "as2con (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Agency for Mobility and EU Programmes",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Meteorological and Hydrological Service",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Croatian Academic and Research Network",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "H\u017d Passenger Transport (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institut Dru\u0161tvenih Znanosti Ivo Pilar",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut IGH (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oikon (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Catholic University of Croatia",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Dubrovnik",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Juraj Dobrila University of Pula",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vern University of Applied Sciences",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Center for Protestant Theology Matthias Flacius Illyricus",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dubrovnik International University",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Energy Institute Hrvoje Po\u017ear",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Croatian Natural History Museum",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Croatian Science Foundation",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Croatian Forest Research Institute",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Archaeology",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Ethnology and Folklore Research",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Physics",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Old Church Slavonic Institute",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Croatian Language and Linguistics",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Art History",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Development and International Relations",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute for Tourism",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Archaeological Museum in Zagreb",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "College of Agriculture at Kri\u017eevci",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Economics Zagreb",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Agricultural Institute Osijek",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Croatian Geological Survey",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Croatian Institute of History",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Croatian Academy of Sciences and Arts",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Zagreb School of Economics and Management",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Rochester Institute of Technology Croatia",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College for Management in Tourism and Informatics in Virovitica",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Occupational Safety and Health",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baltazar Zapre\u0161i\u0107 University of Applied Sciences",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zagreb School of Business",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytechnic of Me\u0111imurje in \u010cakovec",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytechnic Lavoslav Ru\u017ei\u010dka Vukovar",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytechnic Marko Marulic",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Veleu\u010dili\u0161te \"Nikola Tesla\" u Gospi\u0107u",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied Health Sciences",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karlovac University of Applied Sciences",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytecnic in Po\u017eega",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytechnic of Rijeka",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytechnics of \u0160ibenik",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Visoka \u0160kola za Informacijske Tehnologije Zagreb",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Slavonski Brod",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tehni\u010dko Veleu\u010dili\u0161te u Zagrebu",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Veleu\u010dili\u0161te Velika Gorica",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polytechnic Pula",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Policijska akademija",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Culture of the Republic of Croatia",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "State Institute for Nature Protection",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Galapagos (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GlaxoSmithKline (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Public Finance",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Social Research",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Centre for Sustainable Development of Energy, Water and Environment Systems",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Genera (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pliva (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Xellia (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Unity Through Knowledge Fund",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mediterranean Institute for Life Sciences",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Agriculture and Tourism",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Dukat (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Croatian Society of Regional Anaesthesia and Analgesia",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Op\u0107a Bolnica Zadar",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Op\u0107a Bolnica Vara\u017edin",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agrokor (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Adriatic Crops and Karst Reclamation",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Agency for Medicinal Products and Medical Devices of Croatia",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Construction and Physical Planning",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Environmental Protection and Energy",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Economy, Entrepreneurship and Crafts",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Interior",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre for Women War Victims",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Miroslav Krle\u017ea Institute of Lexicography",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sokrat",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Public Health Osijek-Baranja County",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University North",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Croatian National Bank",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "D.I.I.V. (Croatia)",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Croatian Personal Data Protection Agency",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Algebra University College",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Croatian Hydrographic Institute",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Migration and Ethnic Studies",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institut za filozofiju",
+ "country_code": "HR",
+ "country_name": "Croatia",
+ "types": [
+  "Facility"
+ ]
+}]

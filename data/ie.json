@@ -1,0 +1,4348 @@
+[{
+ "name": "Royal College of Surgeons in Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Ireland, Galway",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Marine Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Teagasc - The Irish Agriculture and Food Development Authority",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Enterprise Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University College Cork",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University College Dublin",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Trinity College Dublin",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Limerick",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Irish Universities Association",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dublin City University",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Economic and Social Research Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Waterford Institute of Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dublin Institute For Advanced Studies",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National University of Ireland, Maynooth",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Forbairt",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mater Misericordiae University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mercy University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Coombe Women & Infants University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cork University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital Galway",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Temple Street Children's University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South Infirmary Victoria University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Vincent's University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tallaght Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cappagh National Orthopaedic Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Health Protection Surveillance Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Health Research Board",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Beaumont Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dublin Dental University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mayo General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Connolly Hospital Blanchardstown",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Portiuncula Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Merlin Park University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital Limerick",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Maternity Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Letterkenny University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nenagh Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sligo University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rotunda Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Royal Victoria Eye and Ear Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. James's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Davnet's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Luke's General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Patrick's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital Waterford",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wexford General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Our Lady of Lourdes Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Our Lady's Children's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Central Remedial Clinic",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Galway-Mayo Institute of Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Athlone Institute of Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Charitable Infirmary",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dundalk Institute of Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Technology Sligo",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Suicide Research Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Intel (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Archives",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Centre For Irish and European Security",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "CyberColloids",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Daithi O\u2019Murchu Marine Research Station",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CIRCA Group Europe (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "An Garda S\u00edoch\u00e1na",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "BHP Laboratories",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AquaTT (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CAPTEC (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arqtech Laboratories (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DiaSorin (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ecological Consultancy Services (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electricity Supply Board (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dublin City Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dunreidy Engneering (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Engineering Solutions International (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Google (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Environmental Protection Agency",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eolas (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health Service Executive",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "IBM Research - Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre for Research in Engineering Surface Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Future Analytics",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Information Management Corporation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of the Environment, Climate and Communications",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Foras \u00c1iseanna Saothair",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Irish Research Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Greencore (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Local Government Management Agency",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Wood Group Kenny",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Council for the Blind of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pintail (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Juniper Networks (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "InnovaWood",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Raidi\u00f3 Teilif\u00eds \u00c9ireann (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Radiological Protection Institute of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "SensL (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NortonLifeLock (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roughan & O'Donovan Innovative Solutions",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sigmoid Pharma (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TE Laboratories (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Orbsen Therapeutics (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Skytek (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SolarPrint (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Work Research Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "State Laboratory",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "United Technologies Research Center",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boyne Research Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Berand (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Children's Leukaemia Research Project",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Concern Worldwide",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CodeX Discovery (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Front Line Defenders",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Opsona Therapeutics (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BioAtlantis (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AJ Plastic Components (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rusal (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alimentary Health (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biosensia (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lundin Mining (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bord na M\u00f3na (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oryx International Growth Fund (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Higher Education Authority",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Broadcom (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Diageo (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Central Statistics Office",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Business and Employers Confederation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cellix (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dairygold Co-Operative Society (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Codema (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Convex Electrical (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cork County Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Agriculture Food and the Marine",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Creme Global (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Delap & Waller (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Coillte (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Department of Culture, Heritage and the Gaeltacht",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eblana Photonics (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Espion (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Food Safety Authority of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Farran Technology (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Department of Health",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Element Six (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Paints (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Institute of Women's Health",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tunstall (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Data Fusion International (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health and Safety Authority",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "HEAnet",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hyperion (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innopharma Education",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Irish Rail",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Technology Carlow",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Intune Networks (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Progress (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inter-Euro Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Congress of Trade Unions",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Irish Hydrodata (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Management Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "IMS Maxims (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Limerick County Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Limerick Institute of Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Henkel (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ericsson (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Louth County Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mitel (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tokyo Electron (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Institute for Bioprocessing Research and Training",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Met \u00c9ireann",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nexus Research",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Molecular Medicine Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Entellexi (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KLA (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mincon (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ossidian Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OncoMark (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Reagecon (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Red Hat (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RedZinc (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FitzGerald Nurseries (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal College of Physicians of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Science Foundation Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Services, Industrial, Professional and Technical Union",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "South West Regional Authority",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "SR Technics (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aer Lingus (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Supply Network Shannon (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Discovery Programme",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Environmental and Sustainable Construction Association",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Sea Fisheries Board",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Microelectronics Applications Centre (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norcontel",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TSM Control Systems (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vornia Biomaterials (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VistaMed (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glanbia (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "St. Finbarr's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hydro International (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Era-Maptec (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Free University of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "DELL (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Southern Regional Assembly",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sustainable Energy Authority of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Children\u2019s Research Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Irish Cancer Society",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Medtronic (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal Irish Academy",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "HeyStaks Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aqualex Multimedia Consortium (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Central Mental Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Midland Regional Hospital at Tullamore",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Johns Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Aut Even Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bantry General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bon Secours Hospital Cork",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bon Secours Hospital Dublin",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bon Secours Hospital Galway",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bon Secours Hospital Tralee",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cavan General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University Hospital Kerry",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Leopardstown Park Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kilcreene Orthopaedic Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mallow General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Midland Regional Hospital Mullingar",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Midland Regional Hospital Portlaoise",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mount Carmel Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Roscommon University Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sacred Heart Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South Tipperary General Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Columcille's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Conal's Psychiatric Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Dympna's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kingsbridge Private Hospital Sligo",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Saolta University Health Care Group",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "All Hallows College",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dublin Business School",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Garda S\u00edoch\u00e1na College",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Griffith College Cork",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "IBAT College",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "King's Inns",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National College of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The American College",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Milltown Institute of Theology and Philosophy",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "D\u00fan Laoghaire Institute of Art, Design and Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Letterkenny Institute of Technology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chinese Students and Scholars Association of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Brennan & Company (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bausch Health (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Endo (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clarity Centre for Sensor Web Technologies",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Perrigo (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Department of Enterprise, Trade and Employment",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Foreign Affairs and Trade",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Arts Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Education and Skills",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "IDA Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for Ageing Research and Development in Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Heritage Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mental Health Commission",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Irish Institute of Clinical Neuroscience",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Collaborative Centre for Applied Nanotechnology",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Gavin and Doherty Geosolutions (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Royal Dublin Society",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gaelic Athletic Association",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Accenture (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Isles International University",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nokia (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Allergan (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Becton Dickinson (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alkermes (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Schlumberger (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valeo (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cook Medical (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eli Lilly (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Integra LifeSciences (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ipsen (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Leo Pharma (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lero",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Xperi (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EirGrid (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Opera Software (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Naval Group (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "eBay (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Renishaw (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GlaxoSmithKline (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stryker (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Johnson & Johnson (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Texas Instruments (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Our Lady's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Michael\u2019s Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International Society for Quality in Health Care",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cancer Trials Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BioMarin (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cosmo Pharmaceuticals (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DS Biopharma (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Flamel (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innocoll (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Solvotrin Innovations (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oxurion (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Heartbeat Trust",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "St. Luke's Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Department of Children and Youth Affairs",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cystinosis Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Society of Cataract and Refractive Surgeons",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Brandtone (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GOAL",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Memjet (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Heart Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Irish Hospice Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Youth Justice Service",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Meath Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Parkinson's Association of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Abbott (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microsoft (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electro Automation (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Algae Health (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Burnside Autocyl (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Celtrak (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nypro (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Digital Research Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kingspan (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mitsui & Co (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mallinckrodt (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Portasol (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shellfish Ireland (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teleflex (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pfizer (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Horizon Therapeutics (United Kingdom)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PerkinElmer (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Danaher (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Combilift (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AbbVie (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KCI (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Instruments (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prothena (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teva Pharmaceuticals (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Government of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Irish Life (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Muscular Dystrophy Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research Data Alliance",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Irish Centre for High-End Computing",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Pharmacy Union",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Marigot (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Food for Health Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "SilverCloud (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "University Maternity Hospital Limerick",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Irish Nutrition & Dietetic Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "TobaccoFree Research Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asthma Society of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Health Informatics Society of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Society of Chartered Physiotherapists",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Thoracic Society",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Surgical Infection Society of Europe",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Atlantia Food Clinical Trials",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Merrion Fertility Clinic",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sports Surgery Clinic",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Crospon (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Blood Transfusion Service",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Museum of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "F\u00e1ilte Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Public Expenditure and Reform",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of the Taoiseach",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ECDL Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Defence",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fishing in Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Housing, Planning and Local Government",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Justice",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Cancer Registry",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Local Enterprise Office Cork North & West",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Olympic Council of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Adult Literacy Agency",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of Transport, Tourism and Sport",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Western Development Commission",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vhi Healthcare",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "European Foundation for the Improvement of Living and Working Conditions",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "22q11 Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nuritas (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acquired Brain Injury Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ActionAid Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Office of Public Works",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Java Clinical",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Focus Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kelada Pharmachem (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OGT Amenity (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "For\u00f3ige",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agilent Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cancer Clinical Research Trust",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fota Wildlife Park",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Optrace (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Airmid Healthgroup",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kerry Education and Training Board",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cloyne Diocesan Youth Services",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u00c1iseanna Taca\u00edochta",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Oran Pre-Cast (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cluid Housing",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kimmage Development Studies Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kinesis Health Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ais\u00e9ir\u00ed",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Origin Enterprises (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Galway One World Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kora Healthcare (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OxyMem (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Learning Hub Limerick",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Novartis (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ervia (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Parameter Space (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pavee Point",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "COPE Galway",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Genomics Medicine (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cork Alliance Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pieta House",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pilot Photonics (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amnesty International Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AnaBio Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Analog Devices (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Animal Health Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cro\u00ed",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gorta Self Help Africa",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Marine Renewables Industry Association",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "McCormick Advanced Marcomm Services (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Project Arts Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aquila Bioscience (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MCO (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medfit Proactive Healthcare",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Free Legal Advice Centres",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Men Overcoming Violence",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Arthritis Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Men\u2019s Development Network",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mental Health Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Merchants Quay Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "\u00c9ireComposites (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Q4 Public Relations (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Baldoyle Forum",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mergon (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Quality and Qualifications Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hewlett Packard Enterprise (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cystic Fibrosis Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ballymun Job Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rape Crisis Network Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Horse Sport Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "DeafHear",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "BH Consulting (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bio-Marine Ingredients (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IBM (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RediCare (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Reprodoc (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Home Energy Rating Energy Services (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Respond Housing Association",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BioClin (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alltech (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dermot Foley Landscape Architects (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Roche (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eurofins (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Immigrant Council of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Saoirse Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Boardmatch",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Impedans (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Science Gallery International",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Disability Federation of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Inclusion Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Doras Luimn\u00ed",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bodywhys",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ingersoll Rand (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ServusNet Informatics (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Boliden Tara Mines (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shine Center for Autism",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Innovation Zed (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Brandon Bioscience (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Early Childhood Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bridge Interpreting (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tekno Surgical (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Burrenbeo Trust",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Smartbay Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Business to Arts",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Social Justice Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "SolanoTech (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Swim Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Caredoc",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Family Carers Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Archaeology Field School",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Carlow County Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "St Nicholas Trust",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Irish Council for Civil Liberties",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Irish Equine Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "EmployAbility Galway",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Enable Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Manor Farm (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MicroGen Biotech (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Heritage Trust",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Suas Educational Development",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Migrant Rights Centre Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Castolin Eutectic (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ENBIO (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Minch Malt (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Human Rights and Equality Commission",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Museum of Modern Art",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Molloy Environmental Systems (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sulzer (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Monaghan Biosciences (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cloughjordan Ecovillage",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Irish Penal Reform Trust",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Enzolve Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Childminding Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Epilepsy Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Refugee Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tango Telecom (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Move4Parkinson\u2019s",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Equilume (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Rugby Football Union",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Techworks Marine (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "City of Dublin Skin and Cancer Hospital Charity",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "The Alzheimer Society of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Plusvital (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Galway Clinic",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Multiple Sclerosis Society of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sport Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Glencree",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "European Recycling Platform (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nasc The Irish Immigrant Support Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Irish Society for the Prevention of Cruelty to Animals",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Youth Theatre Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Association of Regional Game Councils",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Disability Authority",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Exergyn (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Horseracing Regulatory Board (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Transpharmation (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vita Actives (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Exerscout (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Forum for the Enhancement of Teaching & Learning in Higher Education",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vitalograph (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fatima Groups United",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Think-tank for Action on Social Change",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Platform of Self Advocates",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vornia (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tusla - Child and Family Agency",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Transport Infrastructure Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Voysis (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Youth Council of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "U-Casadh Project (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Transgender Equality Network Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "NSilico (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avara Pharmaceutical Services (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Phorest Salon Software (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Xeolas Pharmaceuticals (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "YAMSU Technologies (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Neuromod (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adient (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eaton (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Johnson Controls (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kerry Group (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Seagate (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cell Stress Discoveries",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Janssen (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OPKO Health (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "World Rugby",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Technological University Dublin",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kite Entertainment (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lifetime Lab",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Baboro",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mayo County Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ballyhoura Development (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mind the Gap Films (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Monaghan County Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Brigit's Garden",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "British Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ocean FM (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cork City Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Rough Magic Theatre (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Blackrock Castle Observatory",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Crossing the Line (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Scouting Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ICS Skills",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Stop. Watch Television (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fighting Blindness",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cork\u2019s Technology Network",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Engineers Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "True Films (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shinawil (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rediscovery Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tile Films (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Whipsmart Media (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Galway Education Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Galway Film Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CoderDojo Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "I Wish",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Junior Achievement",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kildare Education Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Xilinx (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "All Ireland Institute for Hospice and Palliative Care",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Balor Arts Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Dublin Tenants",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Gl\u00f3r",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Cervantes Institute",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "PublicPolicy.ie (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Irish Jewish Museum",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "International Energy Research Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Linenhall Arts Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Economic and Social Council",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Rehabilitation Hospital",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shannon Applied Biotechnology Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "St Johns Theatre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Trials Methodology Research Network",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Garda S\u00edoch\u00e1na Inspectorate",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Highlanes Gallery",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Newpark Music Centre",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Soar Foundation",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Ark",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "International Federation of Television Archives",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Central Bank of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Takeda (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aptiv (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jazz Pharmaceuticals (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amarin (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aerogen (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bristol-Myers Squibb (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cardinal Health (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Citizens Information Board",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Geological Survey of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nogra Pharma (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Recordati (Ireland)",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advanced Materials and BioEngineering Research",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Munster Technological University",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Royal Institute of the Architects of Ireland",
+ "country_code": "IE",
+ "country_name": "Ireland",
+ "types": [
+  "Other"
+ ]
+}]

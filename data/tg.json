@@ -1,0 +1,78 @@
+[{
+ "name": "University of Lom\u00e9",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire de Tokoin",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Kara",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Africaine des M\u00e9tiers de l'Architecture et de l'Urbanisme",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Nationale d'Administration",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Science and Technology of Togo",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Togolais de Recherche Agronomique",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Minist\u00e8re de l'Agriculture, de l'Elevage et de l'Hydraulique",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Espoir Vie-Togo",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u00c9cole des Cadres",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Autonome d'Etudes et de Renforcement des capacit\u00e9s pour le D\u00e9veloppement au Togo",
+ "country_code": "TG",
+ "country_name": "Togo",
+ "types": [
+  "Government"
+ ]
+}]

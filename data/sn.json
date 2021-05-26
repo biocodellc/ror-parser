@@ -1,0 +1,512 @@
+[{
+ "name": "Cheikh Anta Diop University",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut S\u00e9n\u00e9galais de Recherches Agricoles",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "H\u00f4pital Aristide Le Dantec",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u00f4pital Principal de Dakar",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre Hospitalier National Universitaire de Fann",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut de Recherche pour le D\u00e9veloppement",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut Pasteur de Dakar",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Minist\u00e8re de la Sant\u00e9 Publique et Action Sociale",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "R\u00e9seau Africain pour le D\u00e9veloppement Int\u00e9gr\u00e9",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "St. Christopher Iba Mar Diop College of Medicine",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre de Suivi Ecologique",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Environment and Development Action Third World",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Minist\u00e8re de l'Enseignement Superieur et de la Recherche",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ziguinchor University",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Polytechnique de Thi\u00e8s",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 de Thi\u00e8s",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Africain d'\u00c9tudes Sup\u00e9rieures en Gestion",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Inter-\u00c9tats des Sciences et M\u00e9decine V\u00e9t\u00e9rinaires de Dakar",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Nationale d'Administration",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Groupe \u00c9cole Sup\u00e9rieure de Commerce de Dakar",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 du Sahel",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 du Sine Saloum El-H\u00e2dj Ibrahima NIASS",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut International des Sciences et de Technologie",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Dakar-Bourguiba",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Sup\u00e9rieure Multinationale des T\u00e9l\u00e9communications",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ecole Sup\u00e9rieure d\u2019Economie Appliqu\u00e9e",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Gaston Berger",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Priv\u00e9 de Gestion Institut Sup\u00e9rieur de Technologie Industrielle",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Brighton International University",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Telecommunication Union",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Agency for Aerial Navigation Safety in Africa and Madagascar",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agence Nationale de l'Aviation Civile et de la M\u00e9t\u00e9orologie",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Association Africa AgroEXport",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre d'Etude Regional pour l'Amelioration de l'Adaptation a la Secheresse",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Consortium pour la recherche \u00e9conomique et sociale",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Commune de Matam",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Enda Sahel et Afrique de l\u2019Ouest",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "West and Central African Council for Agricultural Research and Development",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Sub-Regional Fisheries Commission",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Group For Research and Technology Exchanges",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institut Africain de Gestion Urbaine",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Panos Institute West Africa",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Minist\u00e8re de l\u2019Environnement et du D\u00e9veloppement Durable",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Energy Services in Sahelian Environment (Senegal)",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "R\u00e9seau des Plateformess d\u2019ONG d\u2019Afrique de l\u2019Ouest et du Centre",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Senegal River Basin Development Authority",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "World Wide Fund For Nature",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Council for the Development of Social Science Research in Africa",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Groupe AFI",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Euro-Afrique",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Amadou Hampat\u00e9 Ba",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Alioune Diop de Bambey",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Nationale Sup\u00e9rieure d\u00b4Agriculture",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut de Technologie Alimentaire",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Center for Research on Political Economy",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Afrivac",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Office for Sanitation of Senegal",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "TrustAfrica",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sonatel (Senegal)",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Espoir pour la Sante",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Acad\u00e9mie Nationale des Sciences et Techniques du S\u00e9n\u00e9gal",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Henriette-Bathily Women's Museum",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Agence France Presse",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International School of Dakar",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tostan",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "West African Research Center",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Archives of Senegal",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Health Research, Epidemiological Surveillance and Training",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "PROMETRA International",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Goree Institute",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Global Research and Advocacy Group",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Minist\u00e8re de l'Agriculture et de l'\u00c8quipement Rural",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Initiative Prospective Agricole et Rurale",
+ "country_code": "SN",
+ "country_name": "Senegal",
+ "types": [
+  "Nonprofit"
+ ]
+}]

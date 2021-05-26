@@ -1,0 +1,22 @@
+[{
+ "name": "University of the French West Indies and Guiana",
+ "country_code": "GP",
+ "country_name": "Guadeloupe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre Hospitalier Universitaire Pointe-\u00e0-Pitre",
+ "country_code": "GP",
+ "country_name": "Guadeloupe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut Pasteur de la Guadeloupe",
+ "country_code": "GP",
+ "country_name": "Guadeloupe",
+ "types": [
+  "Facility"
+ ]
+}]

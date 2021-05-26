@@ -1,0 +1,2199 @@
+[{
+ "name": "University of Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of La Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Central Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of C\u00f3rdoba",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of the Littoral",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Salta",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Quilmes",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Luj\u00e1n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Salvador",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Tucum\u00e1n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of General San Mart\u00edn",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Favaloro University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Universitario Austral",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Catholic University of Cordoba",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Cuyo",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of San Luis",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Jujuy",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Mar del Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Misiones",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of R\u00edo Cuarto",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of San Juan",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Comahue",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of the Northeast",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional del Sur",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pontifical Catholic University of Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital de Cl\u00ednicas \"Jos\u00e9 de San Mart\u00edn\"",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Austral University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Argerich Hospital",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Privado",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Privado de Comunidad",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Ramos Mej\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital General de Agudos Dr. TEODORO ALVAREZ",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "El Hospital General de Agudos Carlos G. Durand",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Alem\u00e1n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Brit\u00e1nico de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital de Emergencias Dr. Clemente \u00c1lvarez",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Mu\u00f1iz",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Garrahan Hospital",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital de Ni\u00f1os Superiora Sor Mar\u00eda Ludovica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital de Ni\u00f1os de la Sant\u00edsima Trinidad",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital General de Ni\u00f1os Ricardo Gutierrez",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Efectividad Cl\u00ednica y Sanitaria",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital Fern\u00e1ndez",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital C\u00e9sar Milstein",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Italiano de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Academia Nacional de Medicina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Favaloro Foundation",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundaci\u00f3n Instituto Leloir",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Bariloche Atomic Centre",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro de Educaci\u00f3n M\u00e9dica e Investigaciones Cl\u00ednicas Norberto Quirno",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro Rosarino de Estudios Perinatales",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto de Neurolog\u00eda Cognitiva",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundaci\u00f3n para la Lucha contra las Enfermedades Neurol\u00f3gicas de la Infancia",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Cardiovascular de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Diagn\u00f3stico e Investigaciones Metab\u00f3licas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de la Visi\u00f3n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Neurolog\u00eda de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Multidisciplinario de Biolog\u00eda Celular",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Administraci\u00f3n Nacional de Laboratorios e Institutos de Salud",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Nacional de Rehabilitaci\u00f3n Psicof\u00edsica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Agricultural Technology Institute",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Zaldivar",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tenaris (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Scientific and Technical Research Council",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fundacion Favaloro Hospital Universitario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Donaci\u00f3n Francisco Santojanni",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Equipo Latinoamericano de Justicia y G\u00e9nero",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundacion Allende",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n para la Investigaci\u00f3n, Docencia y Prevenci\u00f3n del C\u00e1ncer",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Cuyo",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centro Dr. Belluscio",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Nacional del Agua",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Science, Technology and Productive Innovation",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hospital Posadas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Provincial de Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pierre Auger Observatory",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Universidad Maim\u00f3nides",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Technological University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of La Pampa",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Santiago del Estero",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Patagonia San Juan Bosco",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Torcuato di Tella University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Entre R\u00edos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of R\u00edo Negro",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Buenos Aires Institute of Technology",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Universitario Escuela Superior de Econom\u00eda y Administraci\u00f3n de Empresas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Universitario de Ciencias de la Salud - Fundaci\u00f3n H\u00e9ctor A. Barcel\u00f3",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Universitario de la Polic\u00eda Federal Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asociaci\u00f3n Psicoanal\u00edtica de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Escuela Argentina de Negocios",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of the Arts",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Abierta Interamericana",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Argentina de la Empresa",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Argentina John F. Kennedy",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Centro de Altos Estudios en Ciencias Exactas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Belgrano",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Ciencias Empresariales y Sociales",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Flores",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de la Marina Mercante",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Palermo",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Centro de Estudios Macroecon\u00f3micos de Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Cine",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Argentine Social Museum",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Isalud",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Salta",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Tres de Febrero",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Chilecito",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Concepci\u00f3n del Uruguay",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Blas Pascal",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cuenca del Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Formosa",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Champagnat",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Universitario Aeron\u00e1utico",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Juan Agust\u00edn Maza University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de La Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Notarial Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of La Rioja",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Lan\u00fas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Adventist University of Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Lomas de Zamora",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of General Sarmiento",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Argentine Atlantis University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centro Diocesano de Estudio y Reflexi\u00f3n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Universidad Fraternidad de Agrupaciones Santo Tom\u00e1s de Aquino",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Congreso",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mendoza",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aconcagua University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Mor\u00f3n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Empresarial Siglo 21",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Aut\u00f3noma de Entre R\u00edos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Gast\u00f3n Dachary",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Austral Patagonia",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Universitario Italiano de Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Latin American Educational Center",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Catamarca",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of La Matanza",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saint Thomas Aquinas North University",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Santa Fe",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of Santiago del Estero",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of San Andr\u00e9s",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Villa Mar\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n V\u00eda Libre",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National University of Northwestern Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of the Chaco Austral",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of the West",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Tierra del Fuego",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Infant Foundation",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto de F\u00edsica La Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Comisi\u00f3n de Investigaciones Cient\u00edficas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministerio de Salud",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Magdalena Villegas de Mart\u00ednez el Hospital",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Mapfre",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Comisi\u00f3n Interministerial de Ciencia y Tecnolog\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agencia Nacional de Promoci\u00f3n Cient\u00edfica y Tecnol\u00f3gica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bernardino Rivadavia Natural Sciences Museum",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Hospital Borda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Domingo Funes",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Tobar Garc\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Space Activities Commission",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Nacional de Investigacion y Desarrollo Pesquero",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Experimental Medicine and Biology Institute",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Computational Intelligence and Information Systems Lab",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Facultad Latinoamericana de Ciencias Sociales",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Balseiro Institute",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Geogr\u00e1fico Nacional",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministerio de Educaci\u00f3n y Deportes",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministerio de Ciencia y Tecnolog\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministerio de Producci\u00f3n, Ciencia y Tecnolog\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Argentine Antarctic Institute",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Wikimedia Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto de Fisica de Liquidos y Sistemas Biologicos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Scientific and Technical Research for Defense",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "General Electric (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centro de Investigaci\u00f3n y Extensi\u00f3n Forestal Andino Patag\u00f3nico",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro de Excelencia en Procesos y Productos de C\u00f3rdoba",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro de Investigaci\u00f3n y Desarrollo en Criotecnolog\u00eda de Alimentos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Desarrollo Tecnol\u00f3gico para la Industria Qu\u00edmica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundaci\u00f3n Oikos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fundaci\u00f3n Pro Salud y Medio Ambiente",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Biochemistry Research Institute of La Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Tecnol\u00f3gico de Chascom\u00fas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Qu\u00edmica y Fisicoqu\u00edmica Biol\u00f3gicas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Investigaciones en Ciencia y Tecnolog\u00eda de Materiales",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Institute of Industrial Technology",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto de Biolog\u00eda Marina y Pesquera Almirante Storni",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Planta Piloto de Procesos Industriales Microbiol\u00f3gicos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fundaci\u00f3n Miguel Lillo",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Studies on Sustainable Luxury",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Servicio Geol\u00f3gico Minero Argentino",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Biblioteca del Congreso de la Naci\u00f3n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Instituto Argentino de Diagn\u00f3stico y Tratamiento",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sanatorio Otamendi y Miroli",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chemotecnica (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Junior Achievement",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wildlife Conservation Society Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Institute of Astronomy and Space Physics",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Physics Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de F\u00edsica del Litoral",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Roemmers Laboratories (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bunge & Born Foundation",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundacion Florencio Fiorini",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Municipality De Malargue",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Elea (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fecunditas Instituto de Medicina Reproductiva",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Halitus Instituto M\u00e9dico",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Insituto de Asistencia Reumat\u00f3logica Integral",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Cardiovascular de Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto M\u00e9dico DAMIC",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Dr. Jaime Slullitel",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Alexander Fleming",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Oncolog\u00eda de Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto M\u00e9dico Platense",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Asociaci\u00f3n Argentina de Tenis",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Latin American and Caribbean Society of Medical Oncology",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hospital El Cruce",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Pedro de Elizalde",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Hu\u00e9sped",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for the Study of State and Society",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Helios Salud",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Diagnostico Maip\u00fa",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sanofi (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Indear (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministerio de Salud - Provincia de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Argentino de Radioastronom\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "MercadoLibre (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Servicio Diabetolog\u00eda Hospital C\u00f3rdoba",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Investigaciones F\u00edsicas de Mar del Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de F\u00edsica del Sur",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Universitario Hospital Italiano",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Research Center on Earth Sciences",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hospital Italiano La Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Economic and Social Development",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Atmospheric Observatory of Austral Patagonia",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundaci\u00f3n ProYungas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agricultural Plant Physiology and Ecology Research Institute",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Investigaciones en Ciencias Agrarias de Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Argentine Senate",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto de Biotecnolog\u00eda y Biolog\u00eda Molecular",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro de Implementaci\u00f3n de Pol\u00edticas P\u00fablicas para la Equidad y el Crecimiento",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro de Investigaciones Cardiovasculares",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Research Centre in Biological Chemistry of C\u00f3rdoba",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Agrobiotecnolog\u00eda del Litoral",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Council of Magistrates of the Nation",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto de Botanica Darwinion",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Museum of Paleontology Egidio Feruglio",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Instituto de Histolog\u00eda y Embriolog\u00eda de Mendoza",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Marine and Coastal Research",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Medicina y Biolog\u00eda Experimental de Cuyo",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Investigaciones Biom\u00e9dicas en Retrovirus y Sida",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Bah\u00eda Blanca",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Ciencias Astron\u00f3micas, de la Tierra y del Espacio",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Qu\u00edmica del Noroeste Argentino",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Investigaciones Fisicoqu\u00edmicas Te\u00f3ricas y Aplicadas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Superior de Investigaciones Biol\u00f3gicas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Fisiolog\u00eda Vegetal",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Geocronolog\u00eda y Geolog\u00eda Isot\u00f3pica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Biolog\u00eda Agr\u00edcola de Mendoza",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Biolog\u00eda Molecular y Celular de Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Biolog\u00eda Subtropical",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Gen\u00e9tica Veterinaria",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Teatro Col\u00f3n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Instituto de Investigaci\u00f3n M\u00e9dica Mercedes y Mart\u00edn Ferreyra",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Poder Judicial de la Ciudad de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministerio P\u00fablico Fiscal de la Ciudad Aut\u00f3noma de Buenos Aires",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Nacional de Medicina Tropical",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto de Investigaciones en Ciencias de la Salud",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Nacional de Limnolog\u00eda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National University Arturo Jauretche",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Planta Piloto de Ingenier\u00eda Qu\u00edmica",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministerio P\u00fablico de la Defensa",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto de Historia Argentina y Americana \"Dr. Emilio Ravignani\"",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro de Investigaci\u00f3n de M\u00e9todos Computacionales",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Typa Foundation",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n Ciencias Exactas y Naturales",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Network of Civil Liberties Organizations",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lawyers and Advocates of Northwest and Human Rights Studies Social",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asociaci\u00f3n por los Derechos Civiles",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Red Argentina de Instituciones de Microcr\u00e9dito",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fundaci\u00f3n Pro Vivienda Social",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro de Estudios Fotosint\u00e9ticos y Bioqu\u00edmicos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Central Bank of Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Biomedicine Research Institute of Buenos Aires - CONICET - Partner Institute of the Max Planck Society",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico Salta - Jujuy",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico Mar del Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Nordeste",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - San Luis",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Santa Fe",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Tandil",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Tucum\u00e1n",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Unidad Ejecutora Lillo",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Mendoza",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico Patag\u00f3nico",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - San Juan",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - C\u00f3rdoba",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - La Plata",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Patagonia Norte",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Cient\u00edfico Tecn\u00f3logico - Rosario",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centro Internacional Franco-Argentino de Ciencias de la Informaci\u00f3n y de Sistemas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Food Safety and Quality Service",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Medical Research",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundaci\u00f3n Centro de Estudios Infectol\u00f3gicos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital Zonal General De Agudos Descentralizado \"Evita Pueblo\"",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Latin American Society for Travel Medicine",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dr. Lucio Mel\u00e9ndez Hospital Zonal General de Agudos",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Pi\u00f1ero",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Academia Nacional de la Historia de la Rep\u00fablica Argentina",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Inis Biotech (Argentina)",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centro de Investigaciones en Tecnologia de Pinturas",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Multidisciplinario de Biolog\u00eda Vegetal",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National University of Avellaneda",
+ "country_code": "AR",
+ "country_name": "Argentina",
+ "types": [
+  "Education"
+ ]
+}]

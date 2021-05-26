@@ -1,0 +1,29 @@
+[{
+ "name": "Gibraltar Museum",
+ "country_code": "GI",
+ "country_name": "Gibraltar",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "St Bernard's Hospital",
+ "country_code": "GI",
+ "country_name": "Gibraltar",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "OnApp (Gibraltar)",
+ "country_code": "GI",
+ "country_name": "Gibraltar",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gibraltar Health Authority",
+ "country_code": "GI",
+ "country_name": "Gibraltar",
+ "types": [
+  "Government"
+ ]
+}]

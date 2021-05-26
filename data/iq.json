@@ -1,0 +1,491 @@
+[{
+ "name": "Mustansiriyah University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nahrain University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Baghdad",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Basrah",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mosul",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hawler Medical University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Duhok",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baghdad Medical City",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Babylon",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Anbar",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Koya University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thi Qar University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Al-Qadisiyah",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sulaymaniyah",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Diyala",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Karbala",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kirkuk",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kufa",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Muthana University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tikrit",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Salahaddin University-Erbil",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Technology- Iraq",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Mansour University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iraqi University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lebanese French University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ishik University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Soran University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sulaimani Polytechnic University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American University of Iraq Sulaimani",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Wasit",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Zakho",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kurdistan Hewler",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Raparin",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Misan",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Ahl al-Bayt",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Maaref University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Turath University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Yarmouk University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alrafidain University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baghdad College of Economic Sciences University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dijlah University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alkafeel University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Madenat Alelem University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shatt Al-Arab University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alsalam University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Higher Education and Scientific Research",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Union of Arab Chemists",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Al Rasheed University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cihan University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "British Royal University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Mamon University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iraq University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Komar University of Science and Technology",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nawroz University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Human Development",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kurdistan Regional Government",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Middle East Research Institute",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Iraq Virtual Science Library",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Al-Nisour University College",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Of Fallujah",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iraqi Association for Psychotherapy",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Samarra",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Friends of Basrah Museum",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Iraqi Al-Amal Association",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Duhok Polytechnic University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Southern Technical University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Halabja",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Middle Technical University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Northern Technical University",
+ "country_code": "IQ",
+ "country_name": "Iraq",
+ "types": [
+  "Education"
+ ]
+}]

@@ -1,0 +1,834 @@
+[{
+ "name": "Tallinn University of Technology",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tallinn University",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tartu",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Archimedes Foundation",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Estonian University of Life Sciences",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Interuniversity Population Research Centre",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Eesti Innovatsiooni Instituut",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Estonian Biocentre",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Chemical Physics and Biophysics",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tartu University Hospital",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute for Health Development",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Estonian Academy of Sciences",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eksperimentaalse ja Kliinilise Meditsiini Instituut",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cybernetica (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Estonian E Health Foundation",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Eesti Rahvusringh\u00e4\u00e4ling",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Culture",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Asper Biotech (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electronics Design (Estonia )",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Enterprise Estonia (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Education and Research",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Baltic Studies",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Invent Baltics",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Estonian Research Council",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Praxis",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Science Centre AHHAA",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "HansaBioMed (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regio (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sertifitseerimiskeskus",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aswega (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Baltic Innovation Agency",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Center for Transboundary Cooperation",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Estonian Educational and Research Network",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Stockholm Environment Institute",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Economic Affairs and Communications",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Geological Survey of Estonia",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Library of Estonia",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Estonian-Swedish Mental Health and Suicidology Institute",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Elvior (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hill+Knowlton Strategies (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tartu Observatory",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Icosagen (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eliko Tehnoloogia Arenduskeskus",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Miksike",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Quretec (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Archives of Estonia",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ministry of Agriculture",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Seedri Puukool",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tartu Biotechnology Park",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Tartu Science Park",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Information Technology Foundation for Education",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Theology of Estonian Evangelical Lutheran Church",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Academy of Arts",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Academy of Music and Theatre",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Business School",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "EuroAcademy",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Entrepreneurship University of Applied Sciences",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Aviation Academy",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tartu Art College",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tallinn University of Applied Sciences",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ardoran (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Estonian Literary Museum",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Estonian National Museum",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "V\u00e4hiuuringute Tehnoloogia Arenduskeskus",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of the Estonian Language",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Estonian Association for Applied Linguistics",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "North Estonia Medical Centre",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Estonian Crop Research Institute",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "East Tallinn Central Hospital",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "P\u00e4rnu Museum",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Emakeele Selts",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Protobios (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Software Technology and Applications Competence Center",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tartu Emajoe School",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian History Museum",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Tilde (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Underi ja Tuglase Kirjanduskeskus",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "V\u00f5ro Institute",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tondi Elektroonika (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Estonian Academy of Security Sciences",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian National Defense College",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tallinn Health Care College",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baltic Methodist Theological Seminary",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "L\u00e4\u00e4ne-Viru College",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tartu Academy of Theology",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tartu Health Care College",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tartu Theological Seminary",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Estonian Information Technology College",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "V\u00f5ru County Vocational Training Centre",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eesti Energia (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tallinn Business Bank",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Informaatika ja Arvutustehnika Instituut",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wikimedia Eesti",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "NATO Cooperative Cyber Defence Centre of Excellence",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Skeleton Technologies (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eesti Avatud Noortekeskuste \u00dchendus",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Estonian Union for Child Welfare",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Statistics Estonia",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Environmental Investment Centre",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Government of Estonia",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bio-Competence Centre of Healthy Dairy Products (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Epiim (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Competence Centre on Health Technologies (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eesti Reumatoloogia Selts",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of the Interior",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Advanced Sports Installations (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Terviseamet Health Board",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Environment",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Social Affairs",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Veterinary and Food Board",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "P\u00f5lva Haigla",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Foundation Tallinn 2011",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Estonian Evangelical Lutheran Church",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bank of Estonia",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Roche (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Center for Research, Education and Training",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Tartu Natural History Museum and Botanical Garden",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "LDI Innovation (Estonia)",
+ "country_code": "EE",
+ "country_name": "Estonia",
+ "types": [
+  "Company"
+ ]
+}]

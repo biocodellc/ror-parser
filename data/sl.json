@@ -1,0 +1,71 @@
+[{
+ "name": "University of Sierra Leone",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Makeni",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St John of God Hospital Sierra Leone",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health and Sanitation",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Njala University",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sierra Leone Agricultural Research Institute",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Environmental Foundation for Africa",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Defence",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National HIV/AIDS Secretariat",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sierra Leone Urban Research Centre",
+ "country_code": "SL",
+ "country_name": "Sierra Leone",
+ "types": [
+  "Nonprofit"
+ ]
+}]

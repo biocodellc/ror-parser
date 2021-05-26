@@ -1,0 +1,57 @@
+[{
+ "name": "Queen Ingrid's Hospital",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gr\u00f8nlands Naturinstitut",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Greenland",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Greenland Government",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Uummannaq Polar Institute",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Greenland National Museum & Archives",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Asiaq Greenland Survey",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Perorsaanermik Ilinniarfik / College of Social Education",
+ "country_code": "GL",
+ "country_name": "Greenland",
+ "types": [
+  "Education"
+ ]
+}]

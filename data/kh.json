@@ -1,0 +1,386 @@
+[{
+ "name": "Royal University of Phnom Penh",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal University of Agriculture, Cambodia",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut Pasteur du Cambodge",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Public Health",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Build Bright University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cambodian University for Specialties",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chamroeun University of Poly-Technology",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Human Resources University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khemarak University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cambodian Mekong University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal University of Law and Economics",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Business",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Technical Training Institute",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pa\u00f1\u00f1\u0101s\u0101stra University of Cambodia",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phnom Penh International University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asia Euro University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Norton University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Setec Institute",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vanda Institute",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Western University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Angkor University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Meanchey University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Svay Rieng University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal University of Fine Arts",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Health Science",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cambodia",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Puthisastra",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Calmette Hospital",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Center for HIV/AIDS, Dermatology and STD",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cambodia National Malaria Center",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sihanouk Hospital Center of HOPE",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Angkor Hospital for Children",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National University of Management",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Technology of Cambodia",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Battambang",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chea Sim University of Kamchaymear",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zaman University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jesuit Service Cambodia",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Agriculture Forestry and Fisheries",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cambodia Development Resource Institute",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Live & Learn Environmental Education",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wetlands Work (Cambodia)",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fisheries Administration",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Water Resources and Meteorology",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "American University of Phnom Penh",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chab Dai",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cambodian Institute for Cooperation and Peace",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Land Management, Urban Planning and Construction",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Defense University",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prek Leap National College of Agriculture",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal School of Administration",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Documentation Center of Cambodia",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Diagnostic Microbiology Development Program",
+ "country_code": "KH",
+ "country_name": "Cambodia",
+ "types": [
+  "Nonprofit"
+ ]
+}]

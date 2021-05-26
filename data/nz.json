@@ -1,0 +1,1779 @@
+[{
+ "name": "University of Auckland",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "GNS Science",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Lincoln University",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Canterbury",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Plant & Food Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Otago",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Waikato",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Massey University",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Malaghan Institute of Medical Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Auckland University of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Victoria University of Wellington",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Auckland Institute of Studies",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Canterbury District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universal College of Learning",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Burwood Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Counties Manukau District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Canterbury Health Laboratories",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Capital and Coast District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Greenlane Clinical Centre",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hutt Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hawke's Bay Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Waikato Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Starship Children's Health",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Auckland City Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Auckland District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dunedin Public Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Christchurch Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Medical Research Institute of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Princess Margaret Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Middlemore Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Rotorua Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Southland Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "North Shore Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Waitemata District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Taranaki Base Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wakefield Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tauranga Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wellington Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wolters Kluwer Health",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Palmerston North Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Waikato District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "AgResearch",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "DairyNZ",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Callaghan Innovation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ara Institute of Canterbury",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cawthron Institute",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Landcare Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Institute of Water and Atmospheric Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Environmental Science and Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fred Hollows Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand College of Chiropractic",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fonterra (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Springer Nature (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Crown Research Institutes",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Masilamea Press (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Open Polytechnic",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Unitec Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Royal Society of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Business, Innovation and Employment",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Waikato Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aqui-S (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Canterbury Medical Research Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Stardome Observatory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Carter Observatory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Farm Cove Observatory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Geyserland Observatory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Kumeu Observatory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Possum Observatory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Opus International Consultants (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pulse Energy (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Department of Conservation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Health Research Council of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Auckland Medical Research Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry for Culture and Heritage",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Neurological Foundation of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Agricultural and Marketing Research and Development Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cancer Society of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Heart Foundation of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Oticon Foundation in New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wellington Medical Research Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Health Promotion Agency",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "New Zealand Law Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Maurice and Phyllis Paykel Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lion Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Federation of Graduate Women",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "CatWalk Spinal Cord Injury Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Education New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Genesis Oncology Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Otago Medical Research Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Freemasons New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Scion",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Christchurch Clinical Studies Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "eCoast (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Braemar Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wakari Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Whakatane Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Department of Corrections",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eastern Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of the Pacific United",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Laidlaw College",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Manukau Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nelson Marlborough Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Otago Polytechnic",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Southern Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wellington Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Canterbury Museum",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Livestock Improvement Corporation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Accident Compensation Corporation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tertiary Education Commission",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "NZ on Air",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Creative New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs and Trade",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry for the Environment",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Internal Affairs",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Treasury",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry for Primary Industries",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Reserve Bank of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Teaching Learning & Research Initiative",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Palmerston North City Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Auckland Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Wellington City Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Antarctica New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Parks and Wildlife Commission of the Northern Territory",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kelliher Charitable Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Solid Wood Innovation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Building Research Association of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Kidney Health New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Social Policy Evaluation and Research Unit",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "New Horizons for Women Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Council for Educational Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fulbright New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "KuDos",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Maori Education Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Carey Baptist College",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Good Shepherd College",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Future Forests Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Structural Timber Innovation Company (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "New Zealand Educational Administration and Leadership Society",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Association of Counsellors",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Association of Scientists",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Freshwater Sciences Society",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Plant Protection Society",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Middlemore Clinical Trials",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Auckland UniServices (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Donald Beasley Institute",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Quigley and Watts (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wellington UniVentures (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Waikato-Tainui College for Research and Development",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Whakauae Research (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Assa Abloy (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bayer (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kohler (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mondragon Corporation (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "John Deere (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Health and Disability Commissioner",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "AFT Pharmaceuticals (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clinical Trials New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mercy Angiography Unit",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mercy Hospital",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Urology Bay of Plenty",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Asthma and Respiratory Foundation New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Allan Wilson Centre",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Asia New Zealand Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rata Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Child Cancer Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cure Kids",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Foundation for Arable Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Green Lane Research and Educational Fund",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hope Foundation for Research on Ageing",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fisher & Paykel Healthcare (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Leukaemia and Blood Cancer New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Foundation for the Deaf",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nurture Foundation for Reproductive Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Breast Cancer Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "New Zealand Equine Research Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Physiotherapy New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rural Women New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Waikato Medical Research Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vegetables New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Applied Research Associates",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Digitech Services (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maisey (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Waitaki Biosciences (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Theranostics (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Natus (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Electric (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Millar (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MacDiarmid Institute for Advanced Materials and Nanotechnology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Arthritis New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Brian Mason Scientific & Technical Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Environment Canterbury",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Government of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Maurice Wilkins Centre",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Natural Hazards Research Platform",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Earthquake Commission",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Riddet Institute",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Metabolic Modeling Services (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Woolf Fisher Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Neuren Pharmaceuticals (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bodeker Scientific (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Safety Management Systems Aotearoa (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mental Health Foundation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Statistics New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Motu Economic and Public Policy Research",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Museum of New Zealand Te Papa Tongarewa",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hokotehi Moriori Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "NZ Respiratory & Sleep Institute",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nurse Maude Association",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "NZ Rock Lobster Industry Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "New Zealand Christians in Science",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Aqualinc (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lincoln Agritech (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TiDA (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LanzaTech (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Quest Integrity (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "New Zealand eScience Infrastructure",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Kauri Museum",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "National Library of New Zealand",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Chelsea Primary School",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Christchurch City Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Settlement Centre Waikato",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hamilton Multicultural Services Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Jacobi Consulting (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Media Design School",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mt Albert Primary School",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "New Zealand Law Society",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tawata Productions (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Te W\u0101nanga o Raukawa",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Toi Whakaari: NZ Drama School",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Whitecliffe College of Arts and Design",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mackie Research (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Parker Conservation",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dragonfly Data Science (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wildlife Management International",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hutton's Shearwater Charitable Trust",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Medlab Central (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Northland District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pathlab (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Southern District Health Board",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sepsis Trust NZ",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Royal New Zealand College of General Practitioners",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Southern Community Laboratories (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Toi Ohomai Institute of Technology",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pharmac",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Proteus (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fisher & Paykel Appliances (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kode Biotech (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "The Dodd-Walls Centre for Photonic and Quantum Technologies",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Waikato Regional Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hawke's Bay Regional Council",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Te Whare W\u0101nanga o Awanui\u0101rangi",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Transpower (New Zealand)",
+ "country_code": "NZ",
+ "country_name": "New Zealand",
+ "types": [
+  "Company"
+ ]
+}]

@@ -1,0 +1,1324 @@
+[{
+ "name": "University of Concepci\u00f3n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Austral University of Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pontificia Universidad Cat\u00f3lica de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of the North",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pontificial Catholic University of Valparaiso",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Talca",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federico Santa Mar\u00eda Technical University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of La Serena",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Red Universitaria Nacional",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Temuco Catholic University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of the Maule",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of La Frontera",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Santiago Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tarapac\u00e1",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Valpara\u00edso",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Desarrollo",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Diego Portales University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Mayor",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Metropolitan University of Educational Sciences",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Cl\u00ednico de la Universidad de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Cl\u00ednico de la Universidad Cat\u00f3lica",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Andr\u00e9s Bello University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arturo Prat University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of the Most Holy Conception",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Antofagasta",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Padre Hurtado",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Doctor Hern\u00e1n Henr\u00edquez Aravena",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital San Borja Arriar\u00e1n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital San Juan de Dios",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Barros Luco-Trudeau",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital del Salvador",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital del Trabajador",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Luis Calvo Mackenna",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Militar de Santiago",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Naval Almirante Nef",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centro de Estudios Cient\u00edficos",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cl\u00ednica Alemana",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Chileno de Medicina Reproductiva",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Nacional del T\u00f3rax",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agencia Nacional de Investigaci\u00f3n y Desarrollo",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fundaci\u00f3n Arturo L\u00f3pez P\u00e9rez",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Ciencia and Vida",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Nacional del C\u00e1ncer",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Osservatorio Astronomico di Campo Catino",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "European Southern Observatory",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Gemini South Observatory",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Las Campanas Observatory",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Southern Astrophysical Research Telescope",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Atacama Large Millimeter Submillimeter Array",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cerro Tololo Inter-American Observatory",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Adolfo Ib\u00e1\u00f1ez University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central University of Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Bernardo O'Higgins",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Los Andes, Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Finis Terrae University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Atacama",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of B\u00edo-B\u00edo",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto de Ciencias Tecnol\u00f3gicas",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional de Ciencias de la Computaci\u00f3n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional De Ciencias Y Artes",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Departamento Universitario Obrero Campesino",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Eatri",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Enac Instituto Profesional",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Escuela De Contadores Auditores De Santiago",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Escuela Moderna De Musica",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Esucomex",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Catequ\u00edstico Universidad Cat\u00f3lica",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Guillermo Subercaseaux",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional La Araucana",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Latinoamericano de Comercio Exterior",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Los Leones",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Providencia",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Santo Tom\u00e1s",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of Christian Humanism University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alberto Hurtado University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bolivarian University of Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica Silva Henr\u00edquez",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Chileno Brit\u00e1nica de Cultura",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Ucinf",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Americas",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Pacific",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Gamma",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gabriela Mistral University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Iberoamerican University of Science and Technology",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad SEK",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad La Rep\u00fablica",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Miguel de Cervantes University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Pedro de Valdivia",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Metropolitan University of Technology",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Aut\u00f3noma de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Helen Keller",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Nacional de Capacitaci\u00f3n Profesional",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Playa Ancha University of Educational Sciences",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vi\u00f1a del Mar University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Mar",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Adventista de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Valle Central",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Diego Portales",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Ipg",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "San Sebasti\u00e1n University",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Libertador de Los Andes",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Agrario Adolfo Matthei",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Los Lagos",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Magallanes",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Aconcagua",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Alem\u00e1n Wilhelm von Humboldt",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Profesional Carlos Casanueva",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Art and Social Sciences",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad San Anselmo de Canterbury",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Millennium Institute of Astrophysics",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Millennium Science Initiative",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agriaquaculture Nutritional Genomic Center",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Isaac Newton Institute",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Economy, Development and Tourism",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sociedad de Biolog\u00eda de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hospital Regional Rancagua",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Carlos Van Buren",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Naval Hospital of Puerto Williams",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Ant\u00e1rtico Chileno",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Instituto Cat\u00f3lico Chileno de Migraci\u00f3n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Direcci\u00f3n de Investigaci\u00f3n y Desarrollo",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Saint John's School",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fraunhofer Chile Research Foundation",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Wikimedia Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Universidad Los Leones",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academia Polit\u00e9cnica Aeron\u00e1utica",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Comisi\u00f3n Chilena de Energ\u00eda Nuclear",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto de Neurociencia Biom\u00e9dica",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Fomento Pesquero",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cl\u00ednica Las Condes",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Radiomedicina",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Telethon Foundation",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital la Serena",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Copec UC",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto de Investigaciones Agropecuarias",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Clinica Santa Maria",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gobierno de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Millennium Institute on Immunology and Immunotherapy",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Complex Engineering System Institute",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Universidad UNIACC",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Laboratory for High Performance Computing",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Knop Laboratories (Chile)",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Colegio M\u00e9dico de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Millennium Institute for Research in Depression and Personality",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Regional de Concepci\u00f3n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Dr. Gustavo Fricke",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Complejo Asistencial S\u00f3tero del R\u00edo",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "United Nations Economic Commission for Latin America and the Caribbean",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Abbott (Chile)",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Neurounion Biomedical Foundation",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro de Recursos Educativos Avanzados",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of O'Higgins",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundacion Arriar\u00e1n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital Base",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Base",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Cl\u00ednico FUSAT",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital de Carabineros",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Dipreca",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Santiago Oriente - Dr. Luis Tisne Brousse",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Regional de Antofagasta",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Regional de Arica Doctor Juan No\u00e9 Crevani",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Regional de Talca",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Museum of Memory and Human Rights",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Patagonian Ecosystems Investigation Research Center",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Universidad de Ays\u00e9n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Projazz Instituto Profesional",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hospital Las Higueras",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Naval Almirante Adriazola de Talcahuano",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Monuments Council",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centro Regional de Derechos Humanos y Justicia de G\u00e9nero, Corporaci\u00f3n Humanas",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "ESE:O",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Nacional de Derechos Humanos",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Facultad Latinoamericana de Ciencias Sociales",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cl\u00ednica MEDS (Chile)",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Millennium Institute of Oceanography",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Center for Dynamic Research on High Latitude Marine Ecosystems",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Cl\u00ednica D\u00e1vila",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Corporaci\u00f3n de Estudios Sociales y Educaci\u00f3n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Roche (Chile)",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Instituto de Salud P\u00fablica de Chile",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Tecnol\u00f3gico del Salm\u00f3n",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Production Development Corporation",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Zenta Group (Chile)",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vera C. Rubin Observatory",
+ "country_code": "CL",
+ "country_name": "Chile",
+ "types": [
+  "Facility"
+ ]
+}]

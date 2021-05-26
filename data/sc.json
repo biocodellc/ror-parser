@@ -1,0 +1,22 @@
+[{
+ "name": "University of Seychelles",
+ "country_code": "SC",
+ "country_name": "Seychelles",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "SC",
+ "country_name": "Seychelles",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Seychelles Fishing Authority",
+ "country_code": "SC",
+ "country_name": "Seychelles",
+ "types": [
+  "Government"
+ ]
+}]

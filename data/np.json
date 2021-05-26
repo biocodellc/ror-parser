@@ -1,0 +1,694 @@
+[{
+ "name": "Tribhuvan University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tribhuvan University Teaching Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Green Pastures Hospital and Rehabilitation Centre",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Anandaban Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "B.P. Koirala Institute of Health Sciences",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bir Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "College of Medical Sciences",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kathmandu Medical College Teaching Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "KIST Medical College",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Manipal College of Medical Sciences",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Manipal Teaching Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Academy of Medical Sciences",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nepal Medical College Teaching Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Patan Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tilganga Institute of Ophthalmology",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AutismCare Nepal Society",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "B.P. Koirala Memorial Cancer Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bhaktapur Cancer Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Center for Molecular Dynamics - Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospice Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kathmandu University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kathmandu Valley Preservation Trust",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nepal Cancer Hospital and Research Center",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nepal Ambulance Service",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nick Simons Institute",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Scheer Memorial Adventist Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Walk for Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Women\u2019s Rehabilitation Centre",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Women for Peace and Democracy \u2013 Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Centre for Integrated Mountain Development",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Purbanchal University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nepal Sanskrit University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pokhara University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lumbini Buddhist University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mid Western University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Siddhartha University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Forests and Soil Conservation",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mother and Infant Research Activities",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of Health Services",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Patan Academy of Health Sciences",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nepal Health Research Council",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Civil Service Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agriculture and Forestry University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baidya and Banskota Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Biratnagar Eye Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dhulikhel Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Far-western University",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Grande International Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sai Krishna Medical College & Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Animal Health Training and Consultancy Service",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Deurali Janta Pharmaceuticals (Nepal)",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Government of Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nepal Agricultural Research Council",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Trust for Nature Conservation",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kathmandu College of Management",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Environment and Public Health Organisation",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Annapurna Neurological Institute and Allied Sciences",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Asia Network for Sustainable Agriculture and Bioresources",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Department of Food Technology and Quality Control",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Zoonoses and Food Hygiene Research Centre",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nepal Academy of Science and Technology",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nepal Development Research Institute",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research Institute for Bioscience and Biotechnology",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Urban Development",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nepal Centre for Contemporary Research",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Social and Environmental Research-Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lumbini Eye Institute",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Chitwan Medical College",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nepal Red Cross Society",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nepalese Psychological Association",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Himalayan Rescue Association",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mountain Medicine Society of Nepal",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Shahid Gangalal National Heart Centre",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nepal Family Development Foundation",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nepal Fertility Care Center",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nobel Academy",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Society for Earthquake Technology",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre for the Study of Labour and Mobility",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Health and Population",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Rural Self-Reliance Development Centre",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nepal Participatory Action Network",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Social Science Baha",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "DanChurchAid",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lasanaa",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Martin Chautari",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "photo.circle",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Nepal Water Conservation Foundation",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Mountain Institute",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "WATCH",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Child Watabaran Center",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Samata Foundation",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Softwarica College",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Condensed Matter Physics Research Center",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Nepal Centre for Contemporary Studies",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Animal Quarantine Office",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Public Health Laboratory",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sukraraj Tropical & Infectious Disease Hospital",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Himalayan Biodiversity Network",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Engineering",
+ "country_code": "NP",
+ "country_name": "Nepal",
+ "types": [
+  "Education"
+ ]
+}]

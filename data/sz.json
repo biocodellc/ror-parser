@@ -1,0 +1,50 @@
+[{
+ "name": "University of Eswatini",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Information, Communications and Technology",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Family Life Association of Swaziland",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Swaziland National Trust Commission",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Southern Africa Nazarene University",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Eswatini Economic Policy Analysis and Research Centre",
+ "country_code": "SZ",
+ "country_name": "Eswatini",
+ "types": [
+  "Other"
+ ]
+}]

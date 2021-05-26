@@ -1,0 +1,2654 @@
+[{
+ "name": "Technion \u2013 Israel Institute of Technology",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ben-Gurion University of the Negev",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hebrew University of Jerusalem",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Inter University Computation Centre",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israel Aerospace Industries (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IBM Research - Haifa",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tel Aviv University",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "MATIMOP",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Weizmann Institute of Science",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hadassah Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Haifa",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Interdisciplinary Center Herzliya",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bar-Ilan University",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agricultural Research Organization",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ariel University",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Open University of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Soroka Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rabin Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yehuda Abarbanel Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tel Aviv Sourasky Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Carmel Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Haifa Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rambam Health Care Campus",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sheba Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Assaf Harofeh Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Assuta Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Herzog Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hillel Yaffe Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Schneider Children's Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Barzilai Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Wolfson Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Holy Family Hospital Nazareth",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bikur Cholim Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bnai Zion Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Israel Defense Forces Medical Corps",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Clalit Health Services",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Israel Ministry of Health",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Kaplan Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Poriya Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Meir Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Geha Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Meyer Children's Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sha'ar Menashe Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shaare Zedek Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Shalvata Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rappaport Family Institute for Research in the Medical Sciences",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Rebecca Sieff Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Laniado Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Western Galilee Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Reuth Medical & Rehabilitation Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lev Hasharon Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Misgav Ladach",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Loewenstein Hospital Rehabilitation Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Maccabi Health Care Services",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Al-Makassed Islamic Charitable Society Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St John of Jerusalem Eye Hospital Group",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jerusalem Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tirat Carmel Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Holon Institute of Technology",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Compugen (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel Oceanographic and Limnological Research",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Israel Institute for Biological Research",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Israel Atomic Energy Commission",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Myers-JDC-Brookdale Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Jerusalem College of Technology",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Social Affairs and Social Services",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Beacon Tech (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bloomfield Science Museum Jerusalem",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Hanita Coatings (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ernst & Young (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gilat Satellite Networks (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Madatech",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Israel Science Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Maccabi Institute for Health Services Research",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Magen David Adom",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Magnesium Research Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mekorot (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KLA (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Migal - Galilee Technology Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Agriculture and Rural Development",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Public Security",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Optibase (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ORT Braude College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Israel Electric (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Science, Technology and Space",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Augusta Victoria Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Advanced Inhalation Therapies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Beta-O2 Technologies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BioBlast Pharma (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "College of Management Academic Studies",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Curewize Health",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "IP Israel Patents (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mazor Mental Health Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ono Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pronto Diagnostics (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sapir College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "SipNose (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Academic College of Tel Aviv-Yafo",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mifne Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Acktar (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arttic",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Applied Materials (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LifeWatch (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mavenir (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Daren Labs (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wingate Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finisar (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ECI Telecom (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Edna Pasher Ph.D & Associates (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Framework Program Consulting (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elbit Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Medical BioMathematics",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Halevi Dweck (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Herzliya Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International Security & Counter Terrorism Academy",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "InSightec (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IDEA Bio-Medical (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LiveU (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Melodea (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nice Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Motorola Solutions (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Netivei Israel (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cisco Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AudioCodes (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nanomotion (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ORT Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "OSM DAN (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avaya (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ramon.Space (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innovation Ecology (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Runcom Technologies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rad Data Communications (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sagivtech (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shellcase (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sami Shamoon College of Engineering",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Geophysical Institute of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Jerusalem Institute for Israel Studies",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Polyraz (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Research and Education Network",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BSD Crown (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interuniversity Institute for Marine Sciences in Eilat",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kaye Academic College of Education",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Achva Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Beit Berl College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Orot Israel College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ruppin Academic Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lander Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bezalel Academy of Arts and Design",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "David Yellin College of Education",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Schechter Institute of Jewish Studies",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hadassah Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Netanya Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academic College at Wingate",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Peres Academic Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Levinsky College of Education",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kibbutzim College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Oranim Academic College of Education",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tel Hai Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ahava (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "W. F. Albright Institute of Archaeological Research",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Gemological Centers",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Environmental and Water Resources Engineering",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Geological Survey of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Gilasio Coding (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teva Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel National Institute for Health Policy Research",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "German-Israeli Foundation for Scientific Research and Development",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "United States-Israel Binational Science Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "United States-Israel Binational Agricultural Research and Development Fund",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israel Cancer Association",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israel Academy of Sciences and Humanities",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Israeli Centers for Research Excellence",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dan David Prize",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Aliyah and Immigrant Absorption",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Council for Higher Education",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dead Sea and Arava Science Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israel Institute for Advanced Studies",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Triangle Research and Development Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Van Leer Jerusalem Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yad Ben Zvi",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Max Stern Academic College of Emek Yezreel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Herzog College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Law and Business",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Samuel Neaman Institute for National Policy Research",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "BioBee (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Al-Qasemi Academic College of Education",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cupron (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Isotop (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Midot (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nanonics Imaging (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pluristem Therapeutics (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rosetta Genomics (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Regentis Biomaterials (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shalem College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Edmond and Lily Safra Children's Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Western Galilee College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zefat Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alyn Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nazareth Hospital EMMS",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jerusalem University College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sha'arei Mishpat College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AFC Technologies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel Ports Development and Assets (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel National Road Safety Authority",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Economy",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Insurance Institute of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Shenkar College of Engineering and Design",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Office of the Chief Scientist",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Azrieli College of Engineering Jerusalem",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ashkelon Academic College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "\u00c9cole Biblique et Arch\u00e9ologique Fran\u00e7aise de J\u00e9rusalem",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Emek Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Carmel (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Yeda Research and Development (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wikimedia Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Semi Conductor Devices (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microsoft (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Amdocs (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bio-Rad (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Broadcom (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3M (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Carl Zeiss (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ceragon (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intel (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hexagon (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Corning (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Electric (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arotech (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AT&T (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hewlett-Packard (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jordan Valley Semiconductors (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kodak (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thermo Fisher Scientific (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rafael Advanced Defense Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel Brain Technologies",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Alzheimer's Association of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bruker (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nova Measuring Instruments (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roche (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medtronic (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mellanox Technologies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jain Irrigation Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OPKO Health (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "New Technology (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Johnson & Johnson (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Facebook (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oracle (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avid (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Apple (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Perrigo (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plasan (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microsemi (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gemalto (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Samsung (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Western Digital (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siemens (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "3D Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cypress Semiconductor Corporation (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stratasys (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Philips (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stryker (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Truphatek (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stanley Black & Decker (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Avraham Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Can-Fite BioPharma (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CureTech (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Exalenz Bioscience (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Galmed Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gamida Cell (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kamada (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kitov Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intec Pharma (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novartis (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NeuroDerm (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RDD Pharma (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Protalix BioTherapeutics (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ORASIS Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vascular Biogenics (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mayanei Hayeshua Medical Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Binational Industrial Research and Development Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Environment and Health Fund",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hervana (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Haruv Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Iscar (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AMEN",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Or Yarok Association",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nicholas and Elizabeth Slezak Super Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ran Naor Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Posen Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rothschild Caesarea Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Wolf Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Marvell (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Red Hat (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IMI TAMI Institute for Research and Development",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Defense",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Check-Cap (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Clore Israel Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israel National Nanotechnology Initiative",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Israel Water Authority",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Israel Dairy Board (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Institute for Psychobiology",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "SMART Medical Systems (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MediWound (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Neurim Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Afeka College of Engineering",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Reidman College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Skin Research (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Institute of Brain and Rehabilitation Sciences",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Association for Children at Risk",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bethlehem Arab Society for Rehabilitation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israel Medical Association",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Israel Diabetes Association",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Israeli Yoga Teachers Association",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israeli Association for Cardiovascular Trials",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Israeli Society for the Prevention of Heart Attacks",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bayit Balev Rehabilitation Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Elisha Hospital",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Israel Sports Center for the Disabled",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry for Social Equality",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Rashi Foundation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Elfi-Tech (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EarlySense (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medi-Tate (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lipogen (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nucleix (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Itamar Medical (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Optimata (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "German Protestant Institute of Archaeology",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Israel-Europe R&D Directorate",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Israel Olive Oil Board",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Jewish Agency for Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Environmental Protection",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Finance",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Energy",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Check Point (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wix.com (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel Antiquities Authority",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Library of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "The Historical Society of Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Zalman Shazar Center",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Embassy of Italy in Tel Aviv",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Arava Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Haaretz Group (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israeli Center for Libraries",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Jerusalem Academy of Music and Dance",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mada al-Carmel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Minshar School of Art",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute for Testing and Evaluation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Jerusalem Film and Television School",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sakhnin College",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Shalom Hartman Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "The School of Visual Theatre",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Mofet Institute",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alomone Labs (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mantis Vision (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Council for Civilian Research and Development",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Israeli Association for the Study of Religions",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "MeMed (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GNA Research (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Center for Jewish\u2013Christian Understanding and Cooperation",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hachaklait (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Indi-Vet (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Taro Pharmaceuticals (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adama (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aspect Imaging (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biokine (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tower Semiconductor (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Immunovative Therapies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vyne Therapeutics (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Israel Corp (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lumenis (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mapi Pharma (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medigus (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medinol (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rainbow Medical (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Saban Ventures (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sol-Gel Technologies (Israel)",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "The Technological College of Beer Sheva",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Arab Academic College for Education in Israel",
+ "country_code": "IL",
+ "country_name": "Israel",
+ "types": [
+  "Education"
+ ]
+}]

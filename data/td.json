@@ -1,0 +1,71 @@
+[{
+ "name": "University of N'Djamena",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut National Sup\u00e9rieur des Sciences et Techniques d'Ab\u00e9ch\u00e9",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 Adam Barka d'Ab\u00e9ch\u00e9",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Universitaire Polytechnique de Mongo",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 de Moundou",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universit\u00e9 de Sarh",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Laboratoire de Recherches V\u00e9t\u00e9rinaires et Zootechniques de Farcha",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Lake Chad Basin Commission",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "PRASAC",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Association Sah\u00e9lienne de Recherche Appliqu\u00e9e pour le D\u00e9veloppement Durable",
+ "country_code": "TD",
+ "country_name": "Chad",
+ "types": [
+  "Other"
+ ]
+}]

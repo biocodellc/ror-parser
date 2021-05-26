@@ -1,0 +1,1576 @@
+[{
+ "name": "National University of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nanyang Technological University",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Singapore General Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agency for Science, Technology and Research",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Temasek Life Sciences Laboratory",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tan Tock Seng Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Singapore University of Technology and Design",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Singapore Eye Research Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Neuroscience Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Cancer Centre Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National University Health System",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "DSO National Laboratories",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Novartis (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Skin Centre",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National University Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Singapore Management University",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alexandra Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Changi General Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Health Promotion Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Health Sciences Authority",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Medical Biology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Mental Health",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "KK Women's and Children's Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Khoo Teck Puat Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gleneagles Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mount Elizabeth Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Academy of Medicine",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Dental Centre of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bioinformatics Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Genome Institute of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Infocomm Research",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of High Performance Computing",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Materials Research and Engineering",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Molecular and Cell Biology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Bioengineering and Nanotechnology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore National Eye Center",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Heart Centre Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Manpower",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Environment and Water Resources",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Singapore Science Park",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Duke NUS Graduate Medical School",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Singapore-MIT Alliance for Research and Technology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prestige World Genetics Pte (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Singapore Immunology Network",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "World Scientific (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National University Cancer Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "LASALLE College of the Arts",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nanyang Academy of Fine Arts",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Singapore University of Social Sciences",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Wales Institute Cardiff",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bioprocessing Technology Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Biomedical Research Council",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Science and Engineering Research Council",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore Bioimaging Consortium",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore Institute for Clinical Sciences",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore Stem Cell Consortium",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "A*STAR-NUS Clinical Imaging Research Centre",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Data Storage Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Chemical and Engineering Sciences",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Microelectronics",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore Institute of Manufacturing Technology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Metrology Centre",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "A*STAR Graduate Academy",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Defence",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Environment Agency",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Singapore Clinical Research Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Singapore Polytechnic",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Medical Research Council",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Prime Minister's Office",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Economic Development Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Maritime and Port Authority of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Public Utilities Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "SingHealth",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Defence Science and Technology Agency",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Communications and Information",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Energy Market Authority",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Housing and Development Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Media Development Authority",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lee Foundation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Building and Construction Authority",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Infocomm Development Authority of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Social and Family Development",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of National Development",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Tote Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Research Foundation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Temasek Defence Systems Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "James Cook University Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Waseda Bioscience Research Institute in Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Kidney Foundation Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nanyang Polytechnic",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asia Oceania Geosciences Society",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Eli Lilly (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Albany Molecular Research (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Histoindex (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kyowa Hakko Kirin (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ng Teng Fong General Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tessa Therapeutic (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Parkway East Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mount Elizabeth Novena Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St Luke's Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Centre for Quantum Technologies",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ISEAS - Yusof Ishak Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Library Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ngee Ann Polytechnic",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Republic Polytechnic",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Temasek Polytechnic",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "United World College of South East Asia",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yale-NUS College",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Raffles Institution",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "MOH Holdings",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "ASSAB Pacific (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Singapore Police Force",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Culture, Community and Youth",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Arts Council",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "JTC Corporation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Land Transport Authority",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Home Affairs",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Parks Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Agri-Food and Veterinary Authority of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Asian Civilisations Museum",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Aventis School of Management",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Civil Service College",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "East Asia School of Theology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Trinity Theological College",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "TCA College",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "INSEAD",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Broadcom (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lenovo (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "STATS ChipPAC (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advantest (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Applied Materials (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mondel\u0113z International (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Safran (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GlobalFoundries (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DenseLight Semiconductors (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TDK (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Excelitas Technologies (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AMS (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hillrom (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Intellectual Ventures (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Keysight Technologies (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lite-On Technology Corporation (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mycofarm (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "East Asia Research",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Global Science and Technology Forum",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Newcastle University Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "SunEdison (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Salzgitter Group (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Orica (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Perkinelmer (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pratt & Whitney (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rockwell Automation (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shimano (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "STMicroelectronics (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sphaera Pharma (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Micron (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deutsche Telekom (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tata Technologies (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wipro (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ang Mo Kio Thye Hua Kwan Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Advanced Digital Sciences Center",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "T\u00dcV S\u00dcD (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Creative Technology (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MediaTek (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sivantos (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siemens (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Danaher (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Singapore Heart Foundation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Singapore International Foundation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Singapore Millennium Foundation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tan Kah Kee Foundation",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Chemical Synthesis Lab",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Occupational Medicine",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Earth Observatory of Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "A*STAR Joint Council Office",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Singapore Centre for Environmental Life Sciences Engineering",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore Maritime Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Singapore Institute of Technology",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Union of Pure and Applied Physics",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Technical Education",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Standards, Productivity and Innovation Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Medtronic (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Singapore Cancer Society",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "TauRx Pharmaceuticals (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National University Heart Centre Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Singapore College of Traditional Chinese Medicine",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Asia Cornea Society",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Chimes Society",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Clinical Nutrition Research Centre",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "SingHealth Polyclinics",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agency for Integrated Care",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "British High Commission Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Heritage Board",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "UMI MajuLab",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Abbott (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AstraZeneca (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biotronik (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Johnson & Johnson (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Merck (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Takeda (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Singapore-HUJ Alliance for Research and Enterprise",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Observational & Pragmatic Research Institute",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vishuo Biomedical (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Standard Chartered (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Golden Agri-Resources (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fraunhofer Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Asia-Pacific Regional Network for Early Childhood",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Woodlands Health Campus",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Centre for Infectious Diseases",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sengkang General Hospital",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Volition (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biosensors International Group (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kulicke & Soffa (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lorem Vascular (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wilmar International (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Experimental Drug Development Centre",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Image and Pervasive Access Laboratory",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "The Cambridge Centre for Advanced Research and Education in Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Technology Centre for Offshore and Marine, Singapore",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Entropica Labs (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Infineon Technologies (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TechnoSpex (Singapore)",
+ "country_code": "SG",
+ "country_name": "Singapore",
+ "types": [
+  "Company"
+ ]
+}]

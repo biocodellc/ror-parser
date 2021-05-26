@@ -1,0 +1,3018 @@
+[{
+ "name": "Technical University of Ko\u0161ice",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Comenius University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of \u017dilina",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Slovak Medical University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pavol Jozef \u0160af\u00e1rik",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Slovak University of Agriculture",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Chemistry",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Matej Bel University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technical University of Zvolen",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Library in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Slovenska Narodna Kniznica",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "University of Economics in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Trencianska Univerzita Alexandra Dubceka V Trencine",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Constantine the Philosopher University in Nitra",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Hospital Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Univerzitn\u00e1 Nemocnica Louisa Pasteura",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Trnava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Veterinary Medicine in Ko\u0161ice",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Animal Production Research Centre",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Food Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "N\u00e1rodn\u00fd Onkologick\u00fd \u00dastav",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Rheumatic Diseases",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Slovak Academy of Sciences",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Institute of Cardiovascular Diseases",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International Laser Center",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Onkologick\u00fd \u00dastav Sv\u00e4tej Al\u017ebety",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cancer Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ocn\u00e1 klinika",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Interklinik",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Parasitology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Decom (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BIC Bratislava (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Energy Centre Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "EurActiv",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Physics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Animal Physiology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Construction and Architecture",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Electrical Engineering",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Experimental Endocrinology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Inorganic Chemistry",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Landscape Ecology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Zoology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "InterSoft (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Finance of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Environment of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Slovak Organization for Research and Development Activities",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vuje (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00fdskumn\u00fd \u00dastav P\u00f4doznalectva a Ochrany P\u00f4dy",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Virology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Informatics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Polymer Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ardaco (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Botany",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BroadBit (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Environmental Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Economic Research",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "State Geological Institute of Dion\u00fdz \u0160t\u00far",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Geophysical Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Forecasting",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Experimental Physics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Forest Ecology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Materials and Machine Mechanics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Molecular Biology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Interior",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nemetschek Allplan (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nuclear Regulatory Authority of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Health Information Center",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Slovak Business Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Regional Advisory and Information Centre Presov",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pulp and Paper Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovak Academic Information Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Public Health Authority of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Slovak Hydrometeorological Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Welding Research Institute - Industrial Institute SR",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vukov Extra (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Water Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ZTS V\u00fdskumno-V\u00fdvojov\u00fd \u00dastav (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tekovsk\u00e1 Hvezd\u00e1re\u0148",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Vihorlat Observatory",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Slovak University of Technology in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Ss. Cyril and Methodius in Trnava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Materials Research",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Akad\u00e9mia Umen\u00ed v Banskej Bystrici",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of the Police Force in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pan-European University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "School of Economics and Management of Public Administration in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of Performing Arts in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy of Fine Arts and Design in Bratislava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vysok\u00e1 \u0160kola Zdravotn\u00edctva a Soci\u00e1lnej Pr\u00e1ce sv. Al\u017ebety",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dupres Group (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Selye J\u00e1nos University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Security Management in Ko\u0161ice",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pre\u0161ov",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International School of Management Slovakia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University in Ruzomberok",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Central Europe in Skalica",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Danubius University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vysok\u00e1 \u0161kola mana\u017ementu, City University of Seattle",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Martin University Hospital",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Slovak Centre of Scientific and Technical Information",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Government of Slovakia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Slovak Research and Development Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education, Science, Research and Sport of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "EsFem",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Szenczi Moln\u00e1r Albert Alapiskola",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "CELIM",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centrum Vo\u013en\u00e9ho Casu",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Academic Ranking and Rating Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centire",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "\u00dastredn\u00e1 Vojensk\u00e1 Nemocnica Ru\u017eomberok",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Stredoslovensk\u00e9 m\u00fazeum",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "AEH (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cestn\u00e9 stavby \u017dilina (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Chemosvit Fibrochem (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ro\u013en\u00edcke dru\u017estvo Moravany",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Slovak Public Health Association",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eurea",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u00dastav Radia\u010dnej Ochrany (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zilina International Airport",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Computer Control Technology (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eurofins (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cord Blood Center",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Intech (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Eur\u00f3pske Pr\u00e1vne Centrum Ob\u010dianske Zdru\u017eenie",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Agricultural and Food Centre",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "IPM Engineering (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00fdskumn\u00fd \u00dastav Mliekarensk\u00fd",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Danubia NanoTech (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alpha Medical (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Forest Centre",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Anasoft (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Datalan (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kushing (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Esprit (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gymn\u00e1zium Andreja Sl\u00e1dkovi\u010da",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "DB Biotech (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Natures (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vinci (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Antik Telecom (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dekonta (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "APIS (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Applied Precision (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jan Albrecht Music and Art Academy",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aqua Vita - \u017div\u00e1 voda",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Development Services Security Innovations (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Areta (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Armed Forces Academy",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Duslo (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Z\u00e1kladn\u00e1 umeleck\u00e1 \u0161kola Jozefa Rosinsk\u00e9ho",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Z\u00e1padoslovensk\u00e1 Energetika (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fires (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Observatory and Planetarium of Maximilian Hell",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Association for Youth, Science and Technology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "First Welding Company (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Judicial Academy of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ecoland (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KWD (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Education Training & Consulting Company (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fakultn\u00e1 nemocnica s poliklinikou \u017dilina",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Avantek (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OMS Lighting (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "EDUCON",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Axxence (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elcom (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Op -Tim (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Central European House of Photography",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bakomi",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "P-mat",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Betamont (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lesy Slovenskej Republiky",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Elektrokarbon (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elteco (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International BEZ Group (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KM System (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ekospol (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biomasa Association",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Emel (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Konstrukta - Industry (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Envirocare (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biont (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Perfekt (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biorealis (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KraussMaffei (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bioscience (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Semikron (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "G-trend (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Biotika (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Phostec (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SEZ Krompachy (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BPM Consulting (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "KRD Molecular Technologies (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sf\u00e9ra (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bratislava International School of Liberal Arts",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Plant Production Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Building Testing and Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "GA Drilling (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Calendula (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e1 Leg\u00e1lna Metrol\u00f3gia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Powertec (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gymn\u00e1zium \u013dudov\u00edta \u0160t\u00fara",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "PPS Group (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovak National Museum",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Geneton (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CEIT Consulting (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geoexperts (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MAT-Obaly (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prefa Alfa (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GeoModel Solar (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mate (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vusapl (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Jednota Slovensk\u00fdch Matematikov a Fyzikov",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "MBM Group (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Procesn\u00e1 Automatiz\u00e1cia (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SPINEA (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vutch-Chemitex (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Procont (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Synkola (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Qintec (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Girochem (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "T-Industry (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ME-Inspection SK (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vyvoj Martin (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mechanical Design (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Global Services (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GoldenSUN (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Xcell (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metrodat (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Railway Repair and Engineering Works (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gratex International (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MicroStep (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Raptor Protection of Slovakia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "MicroStep-MIS (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GTVT (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Msm Group (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Relko (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mikon (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Monogram Technologies (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Institute for Man Made Fibres (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Optifin Invest (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Institute of Agricultural and Food Economics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hanil E-Hwa (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tau - Chem (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NanoDesign (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rmc (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tekmar (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "RONA (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thalion (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SAE - Automation (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "F. A. Hayek Foundation",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hordeum (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Safetronics (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research Institute of Posts and Telecommunications",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Imuna Pharm (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Informatics and Statistics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Scientica (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Transmisie Engineering (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vyskumny \u00dastav Dopravny",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ultrazvuk (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Villa Pro (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vipo (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovak Youth Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vucht (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00faez (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VUIS - CESTY (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vuki (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Norsk Hydro (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VUP (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00daRUP (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "International Centre for Applied Research and Sustainable Technology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Maga (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novitech (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stredna Priemyselna Skola Samuela Mikoviniho",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Slovensk\u00e1 Spolo\u010dnos\u0165 pre Kvalitu",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "\u0160tefan Kukura Hospital in Michalovce",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Slovak Environmental Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Detsk\u00e1 Fakultn\u00e1 Nemocnica s Poliklinikou",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Slovak Innovation and Energy Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "AXON Neuroscience (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ewopharma (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Experimental Pharmacology & Toxicology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Normal and Pathological Physiology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Hydrology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Visegrad Fund",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Archaeology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Biomedic\u00ednske Centrum",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ekoplant (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Enviconsult (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elektro-System-Technik (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Free Energy (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Indel (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IKE (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Heidenhain (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pooslav\u00ed Nov\u00e1 Ves (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute of Slovak Literature",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fakultn\u00e1 Nemocnica Trnava",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "V\u00fdchodoslovensk\u00fd Onkologick\u00fd \u00dastav",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "N\u00e1rodn\u00fd Endokrinologick\u00fd a Diabetologick\u00fd \u00dastav",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Research Institute for Child Psychology and Pathopsychology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Medirex Group Academy",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre of Excellence for Advanced Materials Application",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Astronomical Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Conservative Institute of M. R. \u0160tef\u00e1nik",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Slovak Governance Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Plant Genetics and Biotechnology",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute for Public Affairs",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Medical Ethics and Bioethics, n. f",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Security and Emergency Management Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Selekt V\u00fdskumn\u00fd a \u0160\u013eachtite\u013esk\u00fd \u00dastav (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Economy of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "The Monuments Board of the Slovak Republic",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Lepage Research Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of History of the Slovak Academy of Sciences",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Slovak National Gallery",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Slovak Rectors\u00b4Conference",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute of Animal Biochemistry and Genetics",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Hvezd\u00e1re\u0148 a Planet\u00e1rium M.R. \u0160tef\u00e1nika",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ABmerit",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "DHI (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Adivit (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Documents Workflow Content (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dytron (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aroma Marketing (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IBM (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ETKM (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Atos (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Calibrium (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Equis (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Esox-Plast (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centire Research (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centre of Biosciences SAS",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Chemko (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Institute for Labour and Family Research",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fagor Ederlan (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Matador (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cryosoft (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FineSoft (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Integra TDS (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kinex Bearings (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Konstrukta Defence (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "COLAS Slovakia (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Konzeko, spol (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kvant (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IPM Solutions (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Informacne Technologie A Konzultacie (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geocomplex (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "GEOtest Bratislava (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lb Minerals (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novekon (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LeikTec (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Johns Manville (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Observatory and Planetarium of Pre\u0161ov",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Martimex (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maspoma (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ON Semiconductor (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "OVD - Ovocin\u00e1rske Dru\u017estvo (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Pansophia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "McCarter (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MIA Engineering (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e9 Planet\u00e1ri\u00e1",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "NES (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Plantex (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PPA Controll (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sembid",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Novartis (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sessler",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Thyssenkrupp (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Research - Development Application Services (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Shimadzu (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e1 Elektriza\u010dn\u00e1 Prenosov\u00e1 S\u00fastava (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Siemens (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e9 Magnezitov\u00e9 Z\u00e1vody (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e1 Astronomick\u00e1 Spolo\u010dnos\u0165",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Riso (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Museum of Spi\u0161",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Schrack Technik (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spi\u0161col (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u0160t\u00e1tne Lesy Tatransk\u00e9ho N\u00e1rodn\u00edho Parku",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "\u0160t\u00e1tny In\u0161tit\u00fat Odborn\u00e9ho Vzdel\u00e1vania",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thermo Solar (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "K\u00fapele Vy\u0161n\u00e9 Ru\u017ebachy",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Institute for Education",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Voipac (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VSL Software (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Staton (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sylex (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovak Caves Administration",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "DTI University",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Syst\u00e9my Priemyselnej Informatiky (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deutsche Telekom (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Way Industries (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "World Health Organization - Slovakia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Slovensk\u00fd Metrologick\u00fd \u00dastav",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "YMS (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trojsten",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "V\u00e1dium (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Asoci\u00e1cia Doktorandov Slovenska",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Podbrezov\u00e1 Iron Works (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovak Technical Museum",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Slovak Water Management Enterprise",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vegum (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e1 Fyzik\u00e1lna Spolo\u010dnos\u0165",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Zts Inmart At\u00f3m (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovak Renewable Energy Agency",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ZTS Sabinov (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zelseed (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Slovensk\u00e9 Elektr\u00e1rne (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hydrogen Slovakia (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nemocnica Malacky",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Grammar School",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Drevar (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "The Institute of Military History",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "EkoWatt (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Prevencia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Bitunova (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geodis (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hameln (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Strednej Odbornej \u0161kole Lesn\u00edckej Bansk\u00e1 \u0160tiavnica",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Auchem (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centrum Pedagogicko Psychologick\u00e9ho Poradenstva a Prevencie",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vetservis (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gemersk\u00e1 Nerudn\u00e1 Spolo\u010dnos\u0165 (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nemocnica Sv\u00e4t\u00e9ho Michala",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "\u0160t\u00e1tny Veterin\u00e1rny a Potravinov\u00fd \u00dastav",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Automatiz\u00e1cia \u017eelezni\u010dnej Dopravy (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spa-ce.net",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Stredn\u00e1 Odborn\u00e1 Skola Lesn\u00edcka Tvrdo\u0161\u00edn",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "TMG (Slovakia)",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Bank of Slovakia",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Centre of Social and Psychological Sciences",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre of Experimental Medicine",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Earth Science Institute",
+ "country_code": "SK",
+ "country_name": "Slovakia",
+ "types": [
+  "Facility"
+ ]
+}]

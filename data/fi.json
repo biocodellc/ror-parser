@@ -1,0 +1,3305 @@
+[{
+ "name": "University of Turku",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Aalto University",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "VTT Technical Research Centre of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nokia (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Institute of Occupational Health",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University of Helsinki",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Finnish Meteorological Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "European Forest Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Eastern Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Jyv\u00e4skyl\u00e4",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Oulu",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lappeenranta University of Technology",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Svenskt St\u00e5l (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "\u00c5bo Akademi University",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of the Environment",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Finnish Institute for Health and Welfare",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Academy of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Helsinki University Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Radiation and Nuclear Safety Authority",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Vaasa",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Keskuslaboratorio",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CSC - IT Center for Science (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Natural Resources Institute Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "University of Lapland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Geological Survey of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Finnish Environment Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Turku University Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kuopio University Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Oulu University Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tampere University Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hyvink\u00e4\u00e4 Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kanta-H\u00e4meen Keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Keski-Pohjanmaan keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Keski-Satakunnan Terveydenhuollon kuntayhtym\u00e4",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hatanp\u00e4\u00e4 Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Herttoniemi Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "K\u00e4til\u00f6opisto Maternity Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Forssan Seudun Terveydenhuollon Kuntayhtym\u00e4",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mikkelin keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jorvi Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kainuun keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pirkanmaa Hospital District",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Urho Kaleva Kekkonen Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Satakunta Central Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Savonlinna Central Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Sein\u00e4joen Keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kymenlaakson keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lapland Central Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Reumas\u00e4\u00e4ti\u00f6n sairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Moisio Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South Karelia Central Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "North Karelia Central Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Peijas Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vaasa Central Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vanha Vaasa hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Turku City Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Agrifood Research Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "HyTest (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oulu Deaconess Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Finnish Defence Forces",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "BM-Science",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Finnish Brain Research and Rehabilitation Center Neuron",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kuopion Liikuntal\u00e4\u00e4ketieteen Tutkimuslaitos",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Research Institute for Olympic Sports",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Orion Corporation (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Beneq (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Deltamarin (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DeskArtes (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "BC Platforms (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elastopoli (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Society of Automation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Cancer Registry",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Research Institute of the Finnish Economy",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Elisa (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Transport Agency",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "VATT Institute for Economic Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Environics Oy (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fortum (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Forum Virium (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Helsinki Children's Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital District of Helsinki and Uusimaa",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Galilaeus (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gasera (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tekes",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Turku Science Park",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "WSP (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Napa (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Emergency Services College",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Bureau of Investigation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Picosun (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Posiva (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AFRY (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Helsinki Metropolia University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ASM International (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Neste Oil (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Consumer Research Centre",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Aker (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ramboll (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture and Forestry",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Digital Dispatch (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Modulight (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Motiva (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stora Enso (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Stresstech (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rikola (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roal (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Heureka",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Outokumpu (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ajat (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arbonaut (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ericsson (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "TeliaSonera (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "W\u00e4rtsil\u00e4 (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Turku University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Space Systems Finland (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Specim (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Spinverse (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Statistics Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Zora Biosciences (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "UPM (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Visual Components (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Varsinais-Suomen Sairaanhoitopiiri",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Folkh\u00e4lsans Forskningscentrum",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ekahau (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Oncos Therapeutics (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Aker Arctic (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ABB (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Acorda Therapeutics (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Andritz (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Marine Industries",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Canatu (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Connexor (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Container Finance (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Data-Mate (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dekati (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Delfoi (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lakka (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Culminatum Innovation (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyberlightning (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DIARC-Technology (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fimet (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Geospatial Research Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Finnish Real Estate Federation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Licentia (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "FIT Biotech (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fluidhouse (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foreca (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Etel\u00e4-Karjalan sosiaali ja terveyspiiri",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Posti Group (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fatman (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Dinex (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Elektrobit (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Granlund (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Emtele (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hermia Business Development (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ovako (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "HT Laser (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Arkistolaitos",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "ConMed (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kone (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lonix (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mediamobile (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mega Electronics (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Joensuu Science Park",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lassila & Tikanoja (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Laurea University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of the Interior",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Economic Affairs and Employment",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Transport and Communications",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centre for Metrology and Accreditation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mirasys (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nokian Tyres (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Metso (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MHG Systems (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Millidyne (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish National Board of Education",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Outotec (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Okmetic (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Premix (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Salpaus Further Education",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Raisio (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alu-Releco Oy (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Northern Ostrobothnia Hospital District",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Police University College",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sievi (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Solpros (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Savcor (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Merinova (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Meyer Turku (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Teollisuuden Voima (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Traficon (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "THT Control Oy (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Destia",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Tietotalo",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tikkurila (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Trueflaw (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vaasaett (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vaisala (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valio (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Finance",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "United Medix Laboratories (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PerkinElmer (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wapice (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "YIT (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kellokoski Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "P\u00e4ij\u00e4t-H\u00e4meen Keskussairaala",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hankasalmi Observatory",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Taurus Hill Observatory",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ursa Astronomical Association",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Novia University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Arcada University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haaga-Helia University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanken School of Economics",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Humak University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Arts Helsinki",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centria University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Oulu University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vaasa University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karelia University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lapland University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "H\u00e4me University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Diaconia University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Defence University",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "JAMK University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kajaani University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Satakunta University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Savonia University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sein\u00e4joki University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tampere University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "AMS (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wihuri Research Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Red Cross",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Molecular Medicine Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Minerva Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pharmatest (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sexual Health Clinic",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Turku Centre for Biotechnology",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Finnish Cultural Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Academy of Science and Letters",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Maj and Tor Nessling Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federation of Finnish Learned Societies",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Education and Culture",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Finnish Work Environment Fund",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Jenny ja Antti Wihurin Rahasto",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ella and Georg Ehrnrooth Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Emil Aaltosen S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre for International Mobility",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Coxa Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Delfin Technologies (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "L\u00e4nsi-Pohjan Sairaanhoitopiirin Kuntayhtym\u00e4",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Medfiles (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finland University",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "FinnMedi (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Alimetrics (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centres for Economic Development, Transport and the Environment",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Central Finland Health Care District",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Finnish Consulting Group (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Foundation for Alcohol Studies",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Literature Society",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Society for Nutrition Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Mets\u00e4hallitus (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Social Insurance Institution",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Pellervo Economic Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for the Languages of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Salla",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Niilo M\u00e4ki institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sami Parliament of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Numerola (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Labour Institute for Economic Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "LIKES \u2013 Foundation for Sport and Health Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Magister Solutions (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "V\u00e4est\u00f6liitto",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Institute of International Affairs",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Finnish Jazz & Pop Archive",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Finnish Youth Research Society",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Vetcare (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Innolink (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Thermo Fisher Scientific (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Meaning Processing (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Hengitysliitto",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pyh\u00e4j\u00e4rvi Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "World Institute for Development Economics Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Blueprint Genetics (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "S\u00e1mi Education Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Council of State",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Museum of the Finnish S\u00e1mi",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "ESiOR Oy (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry for Foreign Affairs of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Niuvanniemi Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institut Fran\u00e7ais de Finlande",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Etel\u00e4-Pohjanmaan Sairaanhoitopiiri",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Turun Kauppaopetuss\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cancer Society of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Turku Centre for Computer Science",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Helsinki Institute of Physics",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Murata (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Lounais-Suomen Sy\u00f6p\u00e4yhdistys",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Dental Society Apollonia",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Coeliac Society",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Turku PET Centre",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "University Consortium of Pori",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nordic Centre for Welfare and Social Issues",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Wikimedia Suomi",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Abloy (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "DuPont (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Faron Pharmaceutical (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Herantis Pharma (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Targovax (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sanofi (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Allergan (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "VL-Medi Oy (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnair (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Validia Rehabilitation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Allergy and Asthma Federation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Diabetes Association",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Lung Health Association",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Aava Medical Centre",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "South Eastern Finland University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hans Bang Stiftelsen",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ahlstrom-Munksj\u00f6 (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Borealis (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kemira (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Microsoft (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sandvik (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valmet Automotive (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Valmet (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bonus",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Transport Safety Agency",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Foundation for Economic Education",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nokia Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Stiftelsen Emilie och Rudolf Gesellius fond",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Technology Academy Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Victoriastiftelsen",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Society of Anaesthesiologists",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Radiological Society of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Society of Sciences and Letters",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Society of Swedish Literature in Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Telecommunication an Electronics Associaton",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Amer Sports (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bank of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prime Minister's Office Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Alfred Kordelin Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Veterinary Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Dental Association",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Foundation for Cardiovascular Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tekniikan Edist\u00e4miss\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Foundation of Veterinary Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Medical Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Medical Society Duodecim",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finska L\u00e4kares\u00e4llskapet",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lastentautien Tutkimuss\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Jalmari and Rauha Ahokas Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Jane and Aatos Erkko Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ida Montinin S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Juho Vainio Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Maud Kuistila Memorial Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Instrumentarium Science Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kaute Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kone Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Paulo Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Oskar \u00d6flund Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Paavo Nurmen S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Suomen Aivos\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "P\u00e4ivikki and Sakari Sohlberg Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tampereen Tuberkuloosis\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Tauno T\u00f6nningin S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Technology Industries of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Satakunnan Korkean Teknologian S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Signe and Ane Gyllenberg Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "V\u00e4re Foundation for Pediatric Cancer Research",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sigrid Jus\u00e9lius Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Yrj\u00f6 Jahnsson Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ulla Tuominen Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Medicinska Underst\u00f6dsf\u00f6reningen Liv och H\u00e4lsa",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Aarne Koskelon S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Arvo ja Lea Ylpp\u00f6 S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Biocenter Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Sitra",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Social Affairs and Health",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Finnish Parkinson Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Finnish Concordia Fund",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Helsingin Sanomat Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Integrated Carbon Observation System",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "K. Albin Johanssons stiftelse",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "KH Renlundin s\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Maa- ja Vesitekniikan Tuki Ry",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Maire Taposen S\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Otto A. Malm Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "OP Financial Group (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Saastamoinen Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Societas pro Fauna et Flora Fennica",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Walter Ahlstr\u00f6min s\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Helsinki Deaconess Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fazer (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nordic Sugar (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Verman (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Silm\u00e4s\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Boehringer Ingelheim (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Electric (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "AstraZeneca (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glaxosmithkline (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Roche (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Novo Nordisk (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Santen (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "MSD (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bayer (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "European Optical Society",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Virpiniemi Sports Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Finnish Mass Spectrometry Society",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Society of Obstetrics and Gynaecology",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Society of Surgery",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Veikkaus (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Suomen Kardiologinen Seura",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Association of People with Physical Disabilities",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Satakunnan Sairaanhoitopiirin",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "T\u00f6\u00f6l\u00f6 Hospital",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Finnish Medicines Agency Fimea",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Finnish Safety and Chemicals Agency",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Diabetes Tutkimussaatio",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Miina Sillanp\u00e4\u00e4 Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rehabilitation Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Invalidis\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Finnish Research Foundation for Orthopaedics and Traumatology",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "V\u00e4in\u00f6 and Laina Kivi Foundation",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vatsatautien Tutkimuss\u00e4\u00e4ti\u00f6",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Philips (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Inion (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Insta (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "The European Institute for Crime Prevention and Control, affiliated with the United Nations",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "TTS Ty\u00f6tehoseura",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Baltic Marine Environment Protection Commission",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Employment and Economic Development Office",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Technopolis (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Board of Antiquities",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Board of Patents and Registration of Finland",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Board of Customs",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cargotec (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "United Technologies (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Owens Corning (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish National Gallery",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Helsinki Institute for Information Technology",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "358 (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Demos Helsinki",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Espoo Music Institute",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Helsinki Art Museum",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Kotka Maritime Research Centre",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Alma Media (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vamia",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tampere University",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Finnish Museum of Natural History",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "HKScan (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "LAB University of Applied Sciences",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tieto (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fermion (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Glykos (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Medtentia (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Nexstim (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Planmeca (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Planmed (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Polar (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnish Food Authority",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ferring Pharmaceuticals (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gurulogic Microsystems (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "F-Secure (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Foundation for Finnish Inventions",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Tesi (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Finnvera (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bluefors (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ElFys (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "IQM (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Papula-Nevinpat (Finland)",
+ "country_code": "FI",
+ "country_name": "Finland",
+ "types": [
+  "Company"
+ ]
+}]

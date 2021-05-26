@@ -1,0 +1,4061 @@
+[{
+ "name": "Gadjah Mada University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Padjadjaran University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Palangka Raya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sriwijaya University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Institute of Sciences",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "State University of Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Wildlife Conservation Society",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "University of Brawijaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hasanuddin University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Diponegoro University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sam Ratulangi University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Udayana University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of North Sumatra",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Eijkman Institute for Molecular Biology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dharmais Cancer Hospital",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Badan Pengkajian dan Penerapan Teknologi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bandung Institute of Technology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Airlangga University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Binus University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bogor Agricultural University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ma Chung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Syiah Kuala University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nusa Cendana",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sains dan Teknologi Jayapura",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Darussalam Ambon",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Indonesia Maluku",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pattimura",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ratu Samban",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Balikpapan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tri Dharma",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Abulyatama",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Iskandar Muda",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Aceh",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Serambi Mekkah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bandar Lampung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Informatics and Business Institute Darmajaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lampung University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Malahayati",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Lampung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Saburai",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tulang Bawang Lampung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Telkom Institute of Management",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Harapan Bangsa Institute of Technology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Technology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Telkom University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Seni Budaya Indonesia Bandung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Adventist University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Al-Ghifari",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bale Bandung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bandung Raya University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Informatika dan Bisnis Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bandung Islamic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Parahyangan Catholic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kebangsaan Republik Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Computer University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Maranatha Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Langlangbuana",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nasional Pasim",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nurtanio",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pasundan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesia University of Education",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Women University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Widyatama",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sangga Buana YPKP",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Achmad Yani",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Kalimantan Muhammad Arsyad Al Banjary",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lambung Mangkurat University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of August 17, 1945 Banyuwangi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Bakti University of Banyuwangi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pgri Banyuwangi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Batam",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International University of Batam",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Putera Batam",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Riau Kepulauan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Baturaja",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dayanu Ikhsanuddin",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Buton",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam 45 Bekasi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "President University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Bengkulu",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dehasen Bengkulu",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Bengkulu",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Prof. Dr. Hazairin SH.",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Ilmu Sosial dan Ilmu Politik Yapis Biak",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Almuslim",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Djuanda",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ibn Khaldun Bogor",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nusa Bangsa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pakuan University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bojonegoro",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Trunajaya Bontang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Boyolali",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Swiss German University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Galuh",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Suryakancana Cianjur",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Jenderal Achmad Yani",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesia Open University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 17 Agustus 1945 Cirebon",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Cirebon",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Swadaya Gunung Jati",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sultan Fatah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Seni Indonesia Denpasar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dwijendra",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Hindu Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mahasaraswati Denpasar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mahendradatta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teknologi Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Warmadewa University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gunadarma University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Gajayana Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Flores",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Garut",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Gorontalo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ichsan Gorontalo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Gorontalo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Gresik",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Gresik",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wiralodra",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indraprasta Pgri University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kwik Kian Gie School of Business",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Bisnis Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Kesenian Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Perbanas Institute",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi dan Bisnis Kalbe",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kejuangan 45 Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Krisnadwipayana",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Krida Wacana Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nasional University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pancasila University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pembangunan Nasional Veteran Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Prof Dr Moestopo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Suryadarma",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tarumanagara University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Trisakti University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sains dan Teknologi Al-Kamal",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Esa Unggul",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mercu Buana University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Satyagama",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Timbul Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Bunda Mulia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bung Karno",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yarsi University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Ilmu Sosial dan Ilmu Politik Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Institute of Science and Technology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Azzahra",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bakrie University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bhayangkara Jakarta Raya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Attahiriyah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Atma Jaya Catholic University of Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Prof Dr Hamka",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Paramadina",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Satya Negara Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tama Jagakarsa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wiraswasta Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Budi Utomo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Borobudur",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Darma Persada",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ibnu Chaldun Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam As-Syafi'iyah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Jayabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mpu Tantular",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Respati Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 17 Agustus 1945 Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Surapati",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Batanghari",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jambi University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Manajemen Koperasi Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cenderawasih University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Yapis Papua",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Jember",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Jember",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mochammad Sroedji Jember",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Muhammadiyah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Darul Ulum",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pesantren Tinggi Darul Ulum Jombang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Karo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pendidikan Putra Indonesia Cianjur",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Ogan Komering Ilir",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ngurah Rai",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nusa Lontar Rote",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Trunojoyo University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Singaperbangsa Karawang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Ilmu Kesehatan Bhakti Wiyata",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Kadiri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kadiri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pawyatan Daha Kediri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Timor",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haluoleo University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Kendari",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sulawesi Tenggara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Widya Dharma Klaten",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mahaputra Muhammad Yamin",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sembilanbelas November Kolaka",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muria Kudus University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kuningan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Katolik Widya Mandira",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Artha Wacana Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Kupang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Darul Ulum Islamic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Lamongan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Samudra University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Malikussaleh University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Musi Rawas",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Luwuk Banggai",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tompotika Luwuk",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Merdeka Madiun",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University of Magelang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tidar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Majalengka",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Kesenian Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Atma Jaya Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Fajar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University of Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muslim Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pancasakti Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Patria Artha",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Satria Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teknologi Sulawesi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Veteran Republik Indonesia Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Pertanian Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Nasional Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kanjuruhan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Widya Karya Catholic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Merdeka Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tribhuwana Tunggadewi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Widyagama Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wisnuwardhana Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "De La Salle Catholic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Manado State University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nusantara Manado",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teknologi Sulawesi Utara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Papua",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 45 Mataram",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Gunung Rinjani",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Al-Azhar Mataram",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mataram",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Muhammadiyah Mataram",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nusa Tenggara Barat",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nusa Nipa Maumere",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sains dan Teknologi TD Pardede",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Medan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al-Azhar University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Al Washliyah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Darma Agung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dian Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of HKBP Nommensen",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "North Sumatra Islamic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Katolik Santo Thomas",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Medan Area University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Methodist Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Sumatera Utara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muslim Nusantara Al Washliyah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Medan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pelita Harapan University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pembangunan Panca Budi Medan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pembinaan Masyarakat Indonesia Medan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Prima Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Quality",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sisingamangaraja XII",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Musamus Merauke University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Metro",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teuku Umar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Majapahit",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mayjen Sungkono",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muara Bungo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Iqra Buru",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Soerjo Ngawi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Padang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Andalas University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Baiturrahmah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bung Hatta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ekasakti",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Sumatera Barat",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Padang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Putra Indonesia \"YPTK\"",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tamansiswa Padang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Seni Indonesia Padangpanjang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Tapanuli Selatan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Palangkaraya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Palangkaraya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bina Darma",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Iba",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Indo Global Mandiri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kader Bangsa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Palembang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Palembang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sjakhyakirti",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tamansiswa Palembang University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tridinanti Palembang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Cokroaminoto Palopo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Alkhairaat",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Palu",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tadulako University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Madura",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Madura",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Mathla'ul Anwar Banten",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Antakusuma",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Bangka Belitung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of National Education",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Parepare",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pasir Pangaraian",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Merdeka Pasuruan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Yudharta Pasuruan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Abdurrab",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamic University of Riau",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Lancang Kuning",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Riau",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Riau University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Simalungun",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Budi Luhur",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Al Asyariah Mandar University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Merdeka Ponorogo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University of Ponorogo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Pontianak",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Panca Bhakti University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tanjungpura University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sintuwu Maroso",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jenderal Soedirman University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University Purwokerto",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wijayakusuma Purwokerto",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Purworejo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sulawesi Barat",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Purwakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Al-washliyah Labuhanbatu",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Satya Wacana Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 17 Agustus 1945 Samarinda",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sawerigading Makassar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mulawarman University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Widya Gama Mahakam University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Darwan Ali",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 17 Agustus 1945 Semarang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Aki",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dian Nuswantoro",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sultan Agung Islamic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Semarang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "State University of Semarang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pandanaran",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Semarang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Stikubank",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wahid Hasyim",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Serang Raya University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sultan Ageng Tirtayasa University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Institute of the Arts Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sisingamangaraja XII Tapanuli",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Sidoarjo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Jabal Ghafur",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Panji Sakti",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pendidikan Ganesha",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kapuas Sintang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Abdurahman Saleh Situbondo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Pertanian Stiper",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teknologi Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhamadiyah Sorong",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Papua",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Subang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Sukabumi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bangun Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Samawa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Winaya Mukti",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wiraraja",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Informatika Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Adhi Tama Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sepuluh Nopember Institute of Technology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 45 Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas 17 Agustus 1945 Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bhayangkara Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ciputra",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dr. Soetomo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Hang Tuah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kartini",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Katolik Darma Cendika",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Katolik Widya Mandala Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Petra Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Narotama",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pembangunan Nasional Veteran",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sunan Giri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tri Tunggal",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas WR Supratman",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wijaya Kusuma Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Wijaya Putra",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Yos Soedarso",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Seni Indonesia Surakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Batik",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Surakarta Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University of Surakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nahdlatul Ulama Surakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sahid Surakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sebelas Maret University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Setia Budi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Slamet Riyadi",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Surakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tunas Pembangunan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Cordova",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Syekh Yusuf",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Muhammadiyah Tangerang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Multimedia Nusantara University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pamulang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pramita Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Maritim Raja Ali Haji",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Borneo Tarakan University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Siliwangi University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pancasakti Tegal",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kutai Kartanegara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University of North Maluku",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Halmahera",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi Minaesa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Indonesia Tomohon",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sariputra Indonesia Tomohon",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tulungagung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Bosowa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Indonesia Paulus",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Darul Ulum Islamic Centre Sudirman",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Gunung Kidul",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Pertanian Intan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Sains & Teknologi Akprind Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Ahmad Dahlan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Atma Jaya University Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Cokroaminoto Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamic University of Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sunan Kalijaga State Islamic University Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Janabadra University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Duta Wacana Christian University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Kristen Immanuel",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mercu Buana University of Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muhammadiyah University of Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yogyakarta State University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Petroleum",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Respati Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sanata Dharma University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sarjanawiyata Tamansiswa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Widya Mataram Yogyakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Widya Kartika",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Indragiri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Khairun University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Lakidende",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sains Al-Qur'an",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Persada Indonesia Yayasan Administrasi Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sahid Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sinar Mas (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Mining Engineering Bandung Islamic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Soegijapranata Catholic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Surya University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Syarif Hidayatullah State Islamic University Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of International Golden Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sampoerna University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Walisongo State Islamic University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Center for Research on Inter-group Relations and Conflict Resolution",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Yayasan Masyarakat Dan Perikanan Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for International Forestry Research",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dr. Hasan Sadikin General Hospital",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Orangutan Information Centre",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "World Wide Fund for Nature",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Education and Culture",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dr. Kariadi Hospital",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Gatot Soebroto Army Hospital",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Panti Rapih Hospital",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jakarta State Polytechnic",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mount Klabat College",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Negeri Maulana Malik Ibrahim",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Nuclear Energy Agency of Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Research, Technology and Higher Education",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "STIKes Prima Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sekolah Tinggi Teknik Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian State College of Accountancy",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Coral Reef Foundation",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Universitas Islam Balitar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Indonesia Timur",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Nahdlatul Wathan Mataram",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Amir Hamzah",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Dharmawangsa",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teknologi Nusantara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Sutomo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pekalongan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Panca Marga",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Victory Sorong",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Merdeka Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Tabanan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Gajah Putih",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Prima Alloy Steel Universal (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Wikimedia Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Trilogi University",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Badan Pusat Statistik",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Fauna and Flora International",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Indonesian Agency for Agricultural Research and Development",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Operation Wallacea Trust",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pusat Penelitian dan Pengembangan Peternakan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Rumah Sakit Dokter Soetomo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "ASEAN Foundation",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rumah Sakit Jantung Binawaluya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "PT Bio Farma (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Indonesia Toray Science Foundation",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Badan Penelitian dan Pengembangan Kesehatan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Finance",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "ALERTAsia Foundation",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rumah Sakit Umum Pusat Nasional Dr. Cipto Mangunkusumo",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Otsuka (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rumah Sakit Umum Pusat Dr. Sardjito",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rumah Sakit Umum Pusat Sanglah Denpasar",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Indonesian Pediatric Society",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Rumah Sakit Umum Haji Surabaya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nutrifood",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "RSUD Prof. Dr. Saiful Anwar Malang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "SEAMEO Regional Center for Food and Nutrition",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Pembuluh Darah Harapan Kita",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fatmawati Hospital",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Yayasan Tahija",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Frisian Flag (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Equilab International (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Palm Research Center",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Meteorological, Climatological, And Geophysical Agency",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Direktorat Jenderal Peternakan dan Kesehatan Hewan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Unilever (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "The Indonesian Institute, Center for Public Policy Research",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Globally Distributed Open Research and Education",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bali Animal Welfare Association",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Indonesian Veterinary Analytical Studies",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Association of Southeast Asian Nations",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Agriculture",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Coordinating Ministry for Human Development and Cultural Affairs",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Dewan Kesenian Jakarta",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Islam Negeri Sumatera Utara",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jakarta Theological Seminary",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Maritime Affairs and Fisheries",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Politeknik Kesehatan Kemenkes Semarang",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sejarah Institut Agama Islam Negeri Manado",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sunan Gunung Djati State Islamic University Bandung",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ahmad Dahlan School of Economics",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Borneo Orangutan Survival Foundation",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pertamina (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Indonesian Coffee and Cocoa Research Institute",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Indonesian National Institute of Aeronautics and Space",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "HuMA",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Secretariat - Indonesian Forum for Budget Transparency",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Indonesia Philanthropy Association",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Innovation Policy and Governance",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ciliwung Merdeka",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Combine Resource Institution",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Development and Economic Analysis",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asosiasi Perempuan Indonesia untuk Keadilan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Research and Empowerment",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Lembaga Gemawan",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Pancur Kasih Association",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Public Interest Research and Advocacy Center",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Women Human Rights",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Indigenous Peoples' Alliance of the Archipelago",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Samdhana Institute",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "The Wahid Institute",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Indonesia International Institute for Life Sciences",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bank Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Universitas Ibrahimy",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Brain Centre",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Universitas Nahdlatul Ulama Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Indonesian Orthopaedic Association",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "IAIN Palangka Raya",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institut Teknologi dan Sains Nahdlatul Ulama",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sumatera Institute of Technology",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Politeknik Medica Farma Husada Mataram",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Yayasan Simetri",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "OVO (Indonesia)",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Universitas Internasional Semen Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Pahlawan Tuanku Tambusai",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitas Teknokrat Indonesia",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Center for Indonesian Policy Studies",
+ "country_code": "ID",
+ "country_name": "Indonesia",
+ "types": [
+  "Nonprofit"
+ ]
+}]

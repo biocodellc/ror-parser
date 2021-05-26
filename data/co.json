@@ -1,0 +1,2234 @@
+[{
+ "name": "Universidad de Los Andes",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Caldas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Valle",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pontificia Universidad Javeriana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Autonomous University of Bucaramanga",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "CES University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Universitario del Valle ESE",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Universitario de San Vicente Fundaci\u00f3n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Industrial University of Santander",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of La Sabana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cauca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Norte",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Rosario",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Tolima",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "El Bosque University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Military University Nueva Granada",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pontifical Bolivarian University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University of Pereira",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Antioquia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cartagena",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Pablo Tobon Uribe",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Cardiovascular de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n Santa Fe de Bogot\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro Internacional de Agricultura Tropical",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro Internacional de Entrenamiento e Investigaciones Medicas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Nacional de Cancerolog\u00eda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto Nacional de Salud",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Corporaci\u00f3n para Investigaciones Biol\u00f3gicas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "CorpoGen (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "CECOLFES",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fondo de Acci\u00f3n Urgente Am\u00e9rica Latina y el Caribe",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro de Investigacion de las Telecomunicaciones",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Colciencias",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Universidad Antonio Nari\u00f1o",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Icesi University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "South Colombian University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Medell\u00edn",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "District University of Bogot\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Tecnol\u00f3gica Antonio de Ar\u00e9valo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Colombo Internacional",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Bellas Artes y Ciencias de Bol\u00edvar",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Tecnol\u00f3gica de Bol\u00edvar",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Nacional de Formaci\u00f3n T\u00e9cnica Profesional",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n de Estudios Superiores Comfanorte",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Francisco de Paula Santander University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "EIA University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria de Envigado",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria del Espinal",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Tolimense de Formaci\u00f3n T\u00e9cnica Profesional",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Amazon",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cundinamarca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Conservatory of Tolima",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Ibagu\u00e9",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Autonoma de Manizales",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Manizales",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Manizales",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Colegio Mayor de Antioquia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Colombia Adventist University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Remington",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Bellas Artes",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica Luis Amig\u00f3",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Mar\u00eda Ca\u00f1o",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Escolme",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Colegiatura Colombiana Instituci\u00f3n Universitaria",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Empresarial Alexander von Humboldt",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Aut\u00f3noma De Las Am\u00e9ricas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n de Estudios Superiores Universitarios de Urab\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela de Administraci\u00f3n y Mercadotecnia del Quind\u00edo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Quind\u00edo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Universitario de La Paz",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Americana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polit\u00e9cnico de la Costa Atl\u00e1ntica",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Educativa del Litoral",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria de Ciencias Empresariales, Educaci\u00f3n y Salud como proyecto Institucional",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Coast",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Empresarial de Salamanca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Reformada",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Aut\u00f3noma del Caribe",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Atl\u00e1ntico",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Metropolitana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Sim\u00f3n Bol\u00edvar",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centro de Investigaci\u00f3n Docencia y Consultoria Administrativa",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Colegio de Estudios Superiores de Administraci\u00f3n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Tecnol\u00f3gica Cedesistemas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Esumer",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Salazar y Herrera",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Colegios de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Antioquia Institute of Technology",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Cenda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Tecnol\u00f3gico Metropolitano",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Escuela de Artes y Letras",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pascual Bravo Institution University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polit\u00e9cnico Colombiano Jaime Isaza Cadavid",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Internacional para el Desarrollo Educativo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n John F. Kennedy",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Aut\u00f3noma Latinoamericana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Polit\u00e9cnico Colombo Andino",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of C\u00f3rdoba",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad del Sin\u00fa",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Tecnol\u00f3gica de Bogot\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Corporaci\u00f3n Tecnol\u00f3gica Industrial Colombiana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Unificada Nacional de Educaci\u00f3n Superior",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria del Huila",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria de Ciencia y Desarrollo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria de Colombia Ideas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Pamplona",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Aut\u00f3noma de Nari\u00f1o",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nari\u00f1o",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Iberoamericana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Superior de Educaci\u00f3n Rural",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Minuto de Dios",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Pereira",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Colegio Mayor del Cauca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Aut\u00f3noma del Cauca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria de Popay\u00e1n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitaria Agustiniana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centro Universitario de Bienestar Rural",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Republicana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Unitec",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Technological University of Choco",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Colombiana de Carreras Industriales",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Colombiana de Ingenieria Julio Garavito",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of La Guajira",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cat\u00f3lica de Oriente",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto de Educaci\u00f3n T\u00e9cnica Profesional de Roldanillo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ceipa University Foundation",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela de Cadetes de Polic\u00eda General Santander",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Escuela Superior de Administraci\u00f3n P\u00fablica",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Centro de Estudios Superiores Mar\u00eda Goretti",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior de Ciencias Empresariales",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Universidad Mariana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Barraquer de Am\u00e9rica",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of Magdalena",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Santa Rosa de Cabal",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Centro de Educaci\u00f3n Superior Investigaci\u00f3n y Profesionalizaci\u00f3n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Escuela Colombiana de Rehabilitaci\u00f3n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria de San Gil",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cat\u00f3lica del Norte Fundaci\u00f3n Universitaria",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Interamericana T\u00e9cnica",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n Tecnol\u00f3gica Aut\u00f3noma de Bogot\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria del Caribe",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Latina",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Sucre",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central University of Valle del Cauca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Juan de Castellanos",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Boyaca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitaria Agraria de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria de Ciencias de la Salud",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pedagogical and Technological University of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Popular University of Cesar",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria del Meta",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria del \u00c1rea Andina",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Llanos",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Internacional del Tropico Am\u00e9ricano",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Juan N. Corpas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundacion Universitaria Inpahu",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Konrad Lorenz",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Los Libertadores",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Monserrate",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Panamericana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria San Alfonso",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saint Martin University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Sanitas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Colombo Americana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Tecnol\u00f3gica Instituto T\u00e9cnico Central",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Polit\u00e9cnico Grancolombiano",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uni\u00f3n Americana de Educaci\u00f3n Superior",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Aut\u00f3noma de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Central University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Colegio Mayor de Cundinamarca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Cooperativa de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of America",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de Bogot\u00e1 Jorge Tadeo Lozano",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Applied and Environmental Sciences",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of La Salle",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad de San Buenaventura, Bogota",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad EAN",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Externado de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Incca de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "La Gran Colombia University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Free University of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Manuela Beltr\u00e1n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Nacional Abierta y a Distancia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Pedagogic University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pilot University of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Santo Tom\u00e1s",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Sergio Arboleda University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Escuela Tecnol\u00f3gica del Oriente",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universitaria de Investigaci\u00f3n y Desarrollo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Unidades Tecnol\u00f3gicas de Santander",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Santander",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Pacific",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto T\u00e9cnico Agr\u00edcola",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Lasallista",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Escuela Superior de Administraci\u00f3n y Estudios Tecnol\u00f3gicos",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Centro Superior",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Escuela Nacional del Deporte",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Academia de Dibujo Profesional",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Cat\u00f3lica Lumen Gentium",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituci\u00f3n Universitaria Antonio Jos\u00e9 Camacho",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Departamental de Bellas Artes",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Aut\u00f3noma de Occidente",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidad Santiago de Cali",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Rafael Nu\u00f1ez",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Regional del Caribe",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "EAFIT University",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Universitario San Ignacio",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Bioversity International",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centro Dermatol\u00f3gico Federico Lleras Acosta",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "PanAmerican Bioinformatics Institute",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Agriculture and Rural Development",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Health and Social Protection",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Instituto Tecnol\u00f3gico de Soledad Atl\u00e1ntico",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hospital Universitario de la Samaritana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Banco de la Rep\u00fablica Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Jos\u00e9 Benito Vives de Andr\u00e9is Marine and Coastal Research Institute",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Argos Cement (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "National Library of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Colombian Corporation for Agricultural Research",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Departamento Nacional de Planeaci\u00f3n",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hospital Militar Central",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Alexander von Humboldt Biological Resources Research Institute",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Caro and Cuervo Institute",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Geographic Institute Agust\u00edn Codazzi",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Secretar\u00eda de Educaci\u00f3n del Distrito Capital",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Training Service",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ecopetrol (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Corporaci\u00f3n de Lucha Contra el Sida",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria Tecnol\u00f3gico Comfenalco Cartagena",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Municipality of Medell\u00edn",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Corporaci\u00f3n Aut\u00f3noma Regional de Los Valles del Sinu y del San Jorge",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Corporaci\u00f3n para el Desarrollo Sostenible del Urab\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Centro para la Investigaci\u00f3n en Sistemas Sostenibles de Producci\u00f3n Agropecuaria",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fundaci\u00f3n para la Educaci\u00f3n y el Desarrollo Social",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n para el Desarrollo Integral del Pac\u00edfico",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Colombiano Agropecuario",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundacion Biodiversa Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Culture",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cl\u00ednica CES",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Clinica Chicamocha",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Foscal Hospital",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fundaci\u00f3n Reina Isabel",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fundaci\u00f3n Valle del Lili",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Hospital Universitario de Santander",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nes Naturaleza",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "World Wide Fund for Nature",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Colfuturo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Innpulsa",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "CasaLuker (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Instituto Neurol\u00f3gico de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Baxter (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PROGAL (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Fundaci\u00f3n Universitaria CIEO - UNICIEO",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital Universitario de Neiva",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Los Comuneros Hospital Universitario de Bucaramanga",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital Universitario Infantil San Jos\u00e9",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "ESE University Hospital San Jorge Pereira",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Institute of Cardiology",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Fundacion Instituto de Reumatologia Fernando Chalem",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto de Cancerolog\u00eda Las Am\u00e9ricas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto del Coraz\u00f3n de Bucaramanga",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto de Salud de Bucaramanga",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Instituto para Ni\u00f1os Ciegos y Sordos del Valle del Cauca",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Asociaci\u00f3n Colombiana de Infectolog\u00eda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Fundacion Centro Colombiano de Epilepsia y en Enfermedades Neurologicas",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Caucaseco Scientific Research Center",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Boston Medical Group (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Asociaci\u00f3n Colombiana de Diabetes",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Fundaci\u00f3n Neumol\u00f3gica Colombiana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Instituto Sinchi",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Instituto Mayor Campesino",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Colombiano de Medicina Tropical",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Seminario B\u00edblico de Colombia Fundaci\u00f3n Universitaria",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Dinntec (Colombia)",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Centro de Investigaci\u00f3n de la Ca\u00f1a de Az\u00facar de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Colombian Family Welfare Institute",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Center for Historical Memory",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "ConCuerpos",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Corporacion Biotec",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "International Center for Transitional Justice",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Nature Conservancy",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Dejusticia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Colombian Commission of Jurists",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "ProPac\u00edfico",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Indigenous Organization of Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Red Universitaria Mutis",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sisma Mujer",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asociaci\u00f3n Nacional de Afrocolombianos Desplazados",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Parque Explora",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Colegio Colombiano de Terapia Ocupacional",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Microbiomas Foundation",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "SELVA",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hospital Universitario de Sincelejo",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cl\u00ednica Santa Mar\u00eda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Escuela Internacional de Negocios y Desarrollo Empresarial de Colombia",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Colombian Association of Surgery",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asociaci\u00f3n Colombiana de Dermatolog\u00eda y Cirug\u00eda Dermatol\u00f3gica",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asociaci\u00f3n Colombiana de Facultades de Ingenier\u00eda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asociaci\u00f3n Colombiana de Gastroenterolog\u00eda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Asociaci\u00f3n Colombiana de Nefrolog\u00eda e Hipertensi\u00f3n Arterial",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Confederaci\u00f3n Latinoamericana de Religiosos",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Science and Technology Corporation for Naval, Maritime and Riverine Industry Development",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Colombian Army Military Academy \"General Jos\u00e9 Mar\u00eda C\u00f3rdova\"",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior de Guerra",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Escuela Superior Tecnol\u00f3gica de Artes D\u00e9bora Arango",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Federaci\u00f3n Colombiana de Obstetricia y Ginecolog\u00eda",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federaci\u00f3n Nacional de Cultivadores de Palma de Aceite",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Federaci\u00f3n de Aseguradores Colombianos",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Colombian Air Force",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Colombian Institute of Anthropology and History",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cl\u00ednica Somer",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Iguaque Foundation",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Stockholm Environment Institute",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Corporaci\u00f3n Universitaria Latinoamericana",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Secretar\u00eda de Salud de Bogot\u00e1",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Colombian Geological Survey",
+ "country_code": "CO",
+ "country_name": "Colombia",
+ "types": [
+  "Government"
+ ]
+}]

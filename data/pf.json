@@ -1,0 +1,29 @@
+[{
+ "name": "Institut Louis Malard\u00e9",
+ "country_code": "PF",
+ "country_name": "French Polynesia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of French Polynesia",
+ "country_code": "PF",
+ "country_name": "French Polynesia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Centre de Recherches Insulaires et Observatoire de l'Environnement",
+ "country_code": "PF",
+ "country_name": "French Polynesia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Gump South Pacific Research Station",
+ "country_code": "PF",
+ "country_name": "French Polynesia",
+ "types": [
+  "Facility"
+ ]
+}]

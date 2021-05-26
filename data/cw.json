@@ -1,0 +1,36 @@
+[{
+ "name": "St. Elisabeth Hospital",
+ "country_code": "CW",
+ "country_name": "Curacao",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Avalon University School of Medicine",
+ "country_code": "CW",
+ "country_name": "Curacao",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. Martinus University",
+ "country_code": "CW",
+ "country_name": "Curacao",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Cura\u00e7ao",
+ "country_code": "CW",
+ "country_name": "Curacao",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Caribbean Research and Management of Biodiversity Foundation",
+ "country_code": "CW",
+ "country_name": "Curacao",
+ "types": [
+  "Education"
+ ]
+}]

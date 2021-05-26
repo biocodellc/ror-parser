@@ -1,0 +1,1555 @@
+[{
+ "name": "Can Tho University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Medical University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vietnam Academy of Science and Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam National University, Hanoi",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Oxford University Clinical Research Unit",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Pham Ngoc Thach University of Medicine",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City Medicine and Pharmacy University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi School Of Public Health",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "B\u1ea1ch Mai Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hospital for Tropical Diseases",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cho Ray Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Hospital of Pediatrics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute Of Hygiene And Epidemiology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National Institute of Nutrition",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Veterinary Research",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "CARE International in Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Health Consultation and Community Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hagar International",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Microfinance and Community Development Institute",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Reproductive and Family Health",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Children's Hospital 1",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Children's Hospital 2",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Dong Thap Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "HCMC Hospital of Dermato Venereology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hue Central Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hung Vuong Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Khanh Hoa General Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Pham Ngoc Thach Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Tien Giang General Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Eastern International University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi National University of Education",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University of Mining and Geology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University of Science and Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City International University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hue University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Le Quy Don Technical University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Viet Tri University of Industry",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thuyloi University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Academy of Theater and Cinema",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thuongmai University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University of Culture",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National University of Civil Engineering",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hung Vuong University of Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam National University, Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ton Duc Thang University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hong Bang International University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Foreign Languages-Informatics Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Van Lang University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Transport",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Architecture",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Economics Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Law",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Fine Arts",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Banking University of Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nong Lam University Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Theatre and Cinema Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Technology and Education",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Education",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "V\u0103n Hi\u1ebfn University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nha Trang University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Quy Nhon University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thai Binh University of Medicine and Pharmacy",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thai Nguyen University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "H\u1ed3ng \u0110\u1ee9c University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tay Bac University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vinh University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dalat University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Da Nang",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Da Nang University of Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Duy Tan University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hai phong University Of Medicine and Pharmacy",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam Maritime University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Transport and Communications",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University of Business and Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Academy Of Finance",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thang Long University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University of Pharmacy",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Architectural University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Economics University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam University of Fine Arts",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Languages and International Studies",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Foreign Trade University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam National University of Agriculture",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Law University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Open University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City Open University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Electric Power University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Social Sciences and Humanities",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Industrial University of Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hoa Sen University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "FPT University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Culture",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lac Hong University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "An Giang University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hai Phong University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi University of Industry",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Danang Architecture University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Da Nang University of Economics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bac Ha International University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Qu\u1ea3ng B\u00ecnh University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saigon Technology University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saigon University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Saigon International University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "T\u00e2n T\u1ea1o University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The American University of Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Van Xuan University of Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnamese-German University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vinh Medical University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Nuclear Science and Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Institute of Malariology, Parasitology and Entomology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institut Pasteur in Ho Chi Minh City",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Science and Technology",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Science",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "British University Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Foundation for Science and Technology Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Da Nang Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "108 Military Central Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "PSB College Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hung Yen University of Technology and Education",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thai Nguyen National General Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Viet Duc Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vietnam Sweden hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "RMIT Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dong Thap University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hiep Phuoc Power (Vietnam)",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture and Rural Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education and Training",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vietnam Institute for Advanced Study in Mathematics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Lung Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hue University of Agriculture and Forestry",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "B\u00ecnh D\u01b0\u01a1ng University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Hai Duong",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thai Nguyen University of Agriculture and Forestry",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam Atomic Energy Instiute",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute of Marine Geology and Geophysics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Materials Science",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Institute of Mathematics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Field Crops Research Institute",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Forest Industry Research Institute",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Institute of Animal Sciences",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Tr\u01b0\u1eddng \u0110H Nguy\u1ec5n T\u1ea5t Th\u00e0nh",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam Academy of Social Sciences",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Information and Communications",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Library of Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "V\u0103n ph\u00f2ng ban ch\u1ec9 \u0111\u1ea1o 33",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vietnam Academy of Agricultural Sciences",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Viet Nam Government",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vietnam International Education Cooperation Department",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Hanoi Medical University Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nam Dinh University of Nursing",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University Medical Center HCMC",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vietnam Military Medical University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Population, Health and Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute of Vaccine and Medical Biologicals",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Institute for Control of Vaccines and Biologicals",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Vinmec International Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "H\u1ed9i Tim m\u1ea1ch h\u1ecdc Vi\u1ec7t Nam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "H\u1ed9i Gastroenterology Vi\u1ec7t Nam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Nh\u00e0 h\u00e0ng b\u1ec7nh vi\u1ec7n M\u1ef9 \u0110\u1ee9c",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Vabiotech (Vietnam)",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ho Chi Minh City University of Food Industry",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Health Strategy and Policy Institute",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Center for Environment and Community Assets Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Trung Vuong University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "VNU University of Science",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Labor and Social Affairs",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Research Institute for Aquaculture No1",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Labour, Invalids and Social Affairs",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Council for Science and Technology Policy",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Animal Health",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "VNU Central Institute for Natural Resources and Environmental Studies",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hanoi Pedagogical University 2",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Le Hong Phong High School for the Gifted",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Biomedical Physics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Phenikaa (Vietnam)",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Vietnam National University of Forestry",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thanhtay University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agricultural Genetics Institute",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Green Innovation and Development Centre",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Academy of Policy and Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Baria Vungtau University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cat Tien National Park",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Centre for Social Research and Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Da Nang Institute For Socio - Economic Development",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Diplomatic Academy of Vietnam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Haiphong Private University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Hue University's College of Education",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute for Social Development Studies",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "H\u1ecdc vi\u1ec7n T\u01b0 ph\u00e1p",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Justice",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Center for Technological Progress",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Academy of Public Administration",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "PetroVietnam University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pham Van Dong University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Phu Yen University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "The Vietnam National Institute of Educational Sciences",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Tra Vinh University",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Finance - Marketing",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam Journalists Association",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Viet Nam National Academy of Music",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Viet Nam University Of Traditional Medicine",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Vietnam Posts and Telecommunications Group (Vietnam)",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PanNature",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ho Chi Minh National Academy of Politics",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Institute for Studies of Society, Economy and Environment",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Vietnam National Institute of Culture and Arts Studies",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Center for Creative Initiatives in Health and Population",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Promotion of Advancement of Society",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Baoson Hospital",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "VinUniversity",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Thanh Hoa Department of Health",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Vietnamese - German Center of Excellence in Medical Research",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Vinh Phuc Department of Health",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Anova Corp (Vietnam)",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "General Clinic Ph\u01b0\u01a1ng Nam",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Khanh Hoa",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Centre for Interdisciplinary Science and Education",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "BioMedPress",
+ "country_code": "VN",
+ "country_name": "Vietnam",
+ "types": [
+  "Facility"
+ ]
+}]

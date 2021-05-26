@@ -1,0 +1,92 @@
+[{
+ "name": "MRC Unit the Gambia",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Edward Francis Small Teaching Hospital",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International Trypanotolerance Centre",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "University of the Gambia",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American International University West Africa",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Government of The Gambia",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "CIAM Public Health Research and Development Centre",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Health and Social Welfare",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Catholic Development Office",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Euclid University",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "National Agricultural Research Institute",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "National Nutrition Agency",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Institute for Human Rights and Development in Africa",
+ "country_code": "GM",
+ "country_name": "Gambia",
+ "types": [
+  "Nonprofit"
+ ]
+}]

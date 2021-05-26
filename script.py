@@ -9,17 +9,18 @@ with open('ror.json') as json_file:
     namesList = []
 
     for key in data:
-        country = key['country']['country_name']
+        country = key['country']['country_code']
+        country_name = key['country']['country_name']
         country_lowercase = country.lower()
         
-        values =  { "name": key["name"], "country": country_lowercase, "types":key['types'] }
+        values =  { "name": key["name"], "country_code": country, "country_name": country_name,"types":key['types'] }
         namesList.append(values)
     
     # sort by country
-    namesList.sort(key=lambda content: content['country'])
+    namesList.sort(key=lambda content: content['country_code'])
 
     # then use groupby on country name
-    groups = itertools.groupby(namesList, lambda content: content['country'])
+    groups = itertools.groupby(namesList, lambda content: content['country_code'])
 
     # loop and write country names to file
     for country, group in groups:        

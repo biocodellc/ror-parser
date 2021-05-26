@@ -1,0 +1,673 @@
+[{
+ "name": "University of Cyprus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Research Promotion Foundation",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cyprus University of Technology",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Agruicultural Research Institute",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Near East University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Nicosia",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nicosia General Hospital",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Archbishop Makarios III Hospital",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Cyprus Institute of Neurology and Genetics",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Technology Research & Innovation (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Danaos (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Electricity Authority of Cyprus (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Geoimaging (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "PrimeTel (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ministry of Agriculture, Natural Resources and Environment",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "RTD Talos (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sigint Solutions (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SignalGeneriX (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WLB Limited (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyprus Institute",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Archimedes International (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Advanced Integrated Technology Solutions & Services",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyprus Chamber of Commerce and Industry (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyprus Police",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Cyprus Research and Academic Network",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Citard Services (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Engitech (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyprus Research and Innovation Center (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Rominster (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "eBOS Technologies (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Frederick University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Intelen (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Interfusion Services (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "ITRB (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "NovaMechanics (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Offshore Monitoring (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "SSM Computer Systems (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Cyprus International University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "European University Cyprus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Open University of Cyprus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cyprus College of Art",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ctl Eurocollege",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "American College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cyprus International Institute of Management",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "College of Tourism and Hotel Management",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mediterranean Institute of Management",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cyprus Institute of Marketing",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cyprus American Archaeological Research Institute",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Girne American University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dublin Metropolitan University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Neapolis University Pafos",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kyrenia",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Mediterranean Karpasia",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Limassol General Hospital",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hippocrateon Private Hospital",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Medsonic (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Paphos General Hospital",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Eastern Mediterranean University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cyprus College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Alexander College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "CDA College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Casa College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Global College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "KES College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Larnaca College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Intercollege",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Central Lancashire",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Philips College",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cyprus Pedagogical Institute",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Association for Historical Dialogue and Research",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "BirdLife Cyprus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "American Heart Institute",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Amdocs (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Sophia Foundation for Children",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AXON Neuroscience (Cyprus)",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Bank of Cyprus Oncology Center",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Maritime Institute of Eastern Mediterranean",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cyprus Post",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Statistical Service",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Department of Fisheries and Marine Research",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Applied Energy Lab",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Geological Survey Department",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Education and Culture",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Energy, Commerce, Industry and Tourism",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of the Interior",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Transport, Communications and Works",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sewerage Board of Limassol \u2013 Amathus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Public Works",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Water Board of Lemesos",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Center for the Study of Childhood and Adolescence",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cyprus Arbitration & Mediation Centre",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Central Bank of Cyprus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Caritas Cyprus",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "HFC Hope for Children CRC Policy Center",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Final International University",
+ "country_code": "CY",
+ "country_name": "Cyprus",
+ "types": [
+  "Education"
+ ]
+}]

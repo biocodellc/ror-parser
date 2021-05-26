@@ -1,0 +1,1464 @@
+[{
+ "name": "Makerere University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mbarara University of Science and Technology",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Uganda Virus Research Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Mulago Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "MUJHU Research Collaboration",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "African Field Epidemiology Network",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The AIDS Support Organization",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Baylor College of Medicine Children\u2019s Foundation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda National Council for Science and Technology",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Anti Domestic Violence Coalition",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Foundation for Integrated Rural Development",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gulu Women with Disabilities Union",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Institute of Information & Communications Technology",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Jinja District Health Directorate",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Law and Advocacy for Women in Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Mulago School of Nursing and Midwifery",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Raising Voices",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Health and Science Press Association",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Protestant Medical Bureau",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Strategic Initiative for Women in the Horn of Africa",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Youth Alive Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Theta",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Joint Clinical Research Centre",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "St. Mary's Hospital Lacor",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kampala International University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Nkumba University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mountains of the Moon University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gulu University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Busoga University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fairland University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Bugema University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Clarke International University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kampala University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kyambogo University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ndejje University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uganda Management Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uganda Martyrs University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Islamic University in Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uganda Christian University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International Community of Women Living with HIV",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bishop Stuart University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "African Bible University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Busitema University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Cavendish University Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "All Saints University Lango",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kumi University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ankole Western University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "LivingStone International University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "International University of East Africa",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muni University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Muteesa I Royal University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Soroti University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "St. Lawrence University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Kabale University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uganda Pentecostal University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Victoria University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Africa Innovations Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Value Addition Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "ZOA (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Conservation and Ecosystem Health Alliance",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Malaria Consortium",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Makerere University Walter Reed Project",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Rakai Health Sciences Program",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Clays (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Gulu Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mbarara National Referral Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kibuli Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kisiizi Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kitojo Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kitovu Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kiwoko Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kuluva Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Lira Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Masaka Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Matany Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mbale Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mengo Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Moroto Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mubende Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mutolere Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Naggalama Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Naguru General Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nakaseke Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nkozi Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nsambya Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Nyakibale Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Rubaga Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Soroti Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "St. Francis Hospital Nkokonjeru",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of Military Science and Technology",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Villa Maria Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Virika Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Angal Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Arua Regional Referral Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Buluba Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Butabika Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "CURE Children\u2019s Hospital of Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Fort Portal Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hoima Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Holy Innocents Children's Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "International Hospital Kampala",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ishaka Adventist Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Itojo Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Jinja Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kabale Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kagando Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kalongo Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kamuli General Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kamuli Mission Hospital",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "African Forum for Agricultural Advisory Services",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Africa 2000 Network",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Palliative Care Association",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "AIDS Information Centre",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Abertine Rift Conservation Society",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Association for Strengthening Agricultural Research in Eastern and Central Africa",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Health, Human Rights and Development",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Carbon Bureau",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Children's AIDS Fund Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Cooperative Office for Voluntary Organizations",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Coordinating Office for Control of Trypanosomiasis in Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Community Development Resource Network",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Environmental Alert",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Grow More Seeds and Chemicals (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Government of Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Infectious Diseases Research Collaboration",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Integrated Community Based Initiatives",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Agricultural Research Organisation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Inter-University Council for East Africa",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Mildmay Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kumi District Local Government",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Medical Access Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Lands, Housing & Urban Development",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Water and Environment",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Agriculture, Animal Industry and Fisheries",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Medical Stores",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "National Water and Sewerage Corporation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Agricultural Research Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Netwas Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Regional Universities Forum for Capacity Building in Agriculture",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Programme for Accessible Health Communication and Education",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Protecting Families against HIV AIDS",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Panos Eastern Africa",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Episcopal Conference",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Pearl Seeds (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Ssemwanga (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Uganda Blood Transfusion Service",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Uganda Industrial Research Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Uganda National Academy of Sciences",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Uganda National Association Of the Deaf",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Wildlife Authority",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Uganda National Meteorological Authority",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Victoria Seeds (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "WaterAid",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Ministry of Education, Science, Technology and Sports",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "St. Augustine International University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Uganda National Health Research Organisation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Nature Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Innovations for Poverty Action",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Chartered Health Net",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Design without Borders",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "MTN (Uganda)",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Kampala Capital City Authority",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Jinja Municipal Council",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Sanyu Africa Research Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "M\u00e9decins Sans Fronti\u00e8res",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Kigezi Healthcare Foundation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Hutchinson Centre Research Institute in Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Stafford University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Growth Networks Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "32\u00b0 East Ugandan Arts Trust",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Amani Institute Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Centre for Global Health and Social Transformation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Bayimba",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Economic Policy Research Centre",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Community Health And Information Network",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Health Nest Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Institute for Social Transformation",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Uganda Red Cross Society",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda National Council for Higher Education",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Nile University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Center for Domestic Violence Prevention",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Private Sector Foundation Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "AfriChild Centre",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Associates Research",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Civil Society Budget Advocacy Group",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Collaboration on International ICT Policy in East and Southern Africa",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Development Network of Indigenous Voluntary Associations",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Eastern Africa Centre for Constitutional Development",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Great Lakes Institute for Strategic Studies",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Isis-WICCE",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Association of Women Lawyers",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Media Women\u2019s Association",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda National NGO Forum",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Center for Constitutional Governance",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Rural University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "World Health Organization - Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Uganda Technology and Management University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Advocates Coalition for Development and Environment",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Team University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of Kisubi",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the Sacred Heart Gulu",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Virtual University of Uganda",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Petroleum Studies Kampala",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Infectious Diseases Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Uganda Petroleum Institute",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Fins Medical University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ISBAT University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Metropolitan International University",
+ "country_code": "UG",
+ "country_name": "Uganda",
+ "types": [
+  "Education"
+ ]
+}]

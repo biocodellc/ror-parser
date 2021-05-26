@@ -1,0 +1,484 @@
+[{
+ "name": "University of Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gweru Provincial Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ministry of Health and Child Welfare",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Mpilo Central Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Parirenyatwa Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Biomedical Research and Training Institute",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Ntengwe for Community Development",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Zimbabwe Association of Church-Related Hospitals",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Zimbabwe National Quality Assurance Program",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "National University of Science and Technology",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Solusi University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Chinhoyi University of Technology",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Midlands State University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Catholic University of Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Women's University in Africa",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zimbabwe Open University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Great Zimbabwe University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Africa University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Gwanda State University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Lupane State University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Karanda Mission Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Kwekwe General Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Mbuma Mission Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Murambinda Mission Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Harare Institute of Technology",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Africa Groundwater Network",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Africare",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Institute of Biomedical Science and Technology",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Centre for Sexual Health and HIV AIDS Research",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Department of Research and Specialist Services",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Chitungwiza Municipality",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Family Aids Caring Trust",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Food, Agriculture and Natural Resources Policy Analysis Network",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Forestry Commission",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Practical Action",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Methodist Church in Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Medical Research Council of Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Lands and Rural Resettlement",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National AIDS Council",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "National Blood Service Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Syngenta (Zimbabwe)",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Company"
+ ]
+},{
+ "name": "Zimbabwe AIDS Network",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Zimbabwe National Water Authority",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Bindura University of Science Education",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Institute of Water and Sanitation Development",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Reformed Church University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Zimbabwe Ezekiel Guti University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Dambari Wildlife Trust",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Gweru Polytechnic Institute",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Agriculture Mechanisation and Irrigation Development",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "WaterNet Trust",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Sam Moyo African Institute for Agrarian Studies",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "African Capacity Building Foundation",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Foundations for Farming",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "University of Zimbabwe-University of California San Francisco",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "World Health Organization - Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Zvitambo Institute for Maternal and Child Health Research",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Joshua Mqabuko Nkomo Polytechnic",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Higher and Tertiary Education",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Harare Central Hospital",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Arrupe Jesuit University",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "First Floor Gallery Harare",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Archive"
+ ]
+},{
+ "name": "Scientific and Industrial Research and Development Centre",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "African Forum and Network on Debt and Development",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Conflict Management and Transformation",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Natural Resource Governance",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Other"
+ ]
+},{
+ "name": "Women's Coalition of Zimbabwe",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Centre for Research and Development",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Zimbabwe Council For Higher Education",
+ "country_code": "ZW",
+ "country_name": "Zimbabwe",
+ "types": [
+  "Government"
+ ]
+}]

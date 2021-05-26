@@ -1,0 +1,50 @@
+[{
+ "name": "International University of Monaco",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Princess Grace Hospital Centre",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Scientific Centre of Monaco",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Gouvernement Princier",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Prince Albert II of Monaco Foundation",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "The Mediterranean Science Commission",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Exsymol (Monaco)",
+ "country_code": "MC",
+ "country_name": "Monaco",
+ "types": [
+  "Company"
+ ]
+}]

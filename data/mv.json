@@ -1,0 +1,64 @@
+[{
+ "name": "Maldives National University",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "ADK Hospital",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Faafu Atoll Hospital",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Indira Gandhi Memorial Hospital",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Marine Research Centre",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Health Protection Agency",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "MI College",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Ministry of Education",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "Ministry of Foreign Affairs",
+ "country_code": "MV",
+ "country_name": "Maldives",
+ "types": [
+  "Government"
+ ]
+}]

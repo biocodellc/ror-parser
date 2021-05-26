@@ -1,0 +1,92 @@
+[{
+ "name": "University of Trinidad and Tobago",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "University of the West Indies",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Caribbean Public Health Agency",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "University of the Southern Caribbean",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Port of Spain General Hospital",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "San Fernando General Hospital",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Healthcare"
+ ]
+},{
+ "name": "Hugh Wooding Law School",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "NOVO Cellular Medicine Institute",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Caribbean Agricultural Research and Development Institute",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Caribbean Health Research Council",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "Ministry of Health",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "The National Trust",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Government"
+ ]
+},{
+ "name": "College of Science, Technology and Applied Arts of Trinidad and Tobago",
+ "country_code": "TT",
+ "country_name": "Trinidad and Tobago",
+ "types": [
+  "Education"
+ ]
+}]

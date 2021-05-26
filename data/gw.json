@@ -1,0 +1,50 @@
+[{
+ "name": "Bandim Health Project",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "Universidade Lus\u00f3fona da Guin\u00e9",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Universidade Colinas de Bo\u00e9",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Education"
+ ]
+},{
+ "name": "Instituto Nacional de Estudos e Pesquisa",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Facility"
+ ]
+},{
+ "name": "International Partnership for Human Development",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "International Union for Conservation of Nature",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Nonprofit"
+ ]
+},{
+ "name": "National Institute of Public Health",
+ "country_code": "GW",
+ "country_name": "Guinea-Bissau",
+ "types": [
+  "Facility"
+ ]
+}]
